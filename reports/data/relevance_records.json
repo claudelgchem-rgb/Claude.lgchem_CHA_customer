@@ -1,0 +1,2301 @@
+[
+  {
+    "company": "3D Systems Corporation (Healthcare)",
+    "item": "Collagen",
+    "relevance_type": "직접연구",
+    "relevance_level": "상",
+    "relevance_score": 88,
+    "supporting_evidence_ids": [
+      "EV-3DS-003",
+      "EV-3DS-008",
+      "EV-3DS-009",
+      "EV-3DS-004"
+    ],
+    "rationale": "3D Systems 재생의학의 핵심 소재가 콜라겐이다. Print to Perfusion 공정이 콜라겐 등 단백질을 스캐폴드 원료로 사용하고, CollPlant의 재조합 인간 콜라겐(rhCollagen) 바이오잉크로 유방재건 연조직 매트릭스를 공동개발했으며, United Therapeutics와 rhCollagen 기반 폐·장기 스캐폴드를 프린팅한다. 다수 독립 출처로 교차확인된 직접적·지속적 콜라겐 연구·응용.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "3DS"
+  },
+  {
+    "company": "3D Systems Corporation (Healthcare)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 15,
+    "supporting_evidence_ids": [
+      "EV-3DS-011",
+      "EV-3DS-003"
+    ],
+    "rationale": "3D Systems가 미생물 트랜스글루타미나제(mTG)를 콜라겐/젤라틴 가교나 스캐폴드·ADC 접합에 사용한다는 근거를 발견하지 못했다. 자사 대표 가교/성형 방식은 광중합(photopolymer) 기반 Print to Perfusion이다. TG-콜라겐 가교는 학계 일반 기법일 뿐 3D Systems 채택 증거가 없어 무관(단, 콜라겐 스캐폴드 사업이라 개념적 인접성만 낮게 존재).",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "3DS"
+  },
+  {
+    "company": "3D Systems Corporation (Healthcare)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-3DS-012"
+    ],
+    "rationale": "3D Systems는 항체-약물 접합체(ADC) 파이프라인, 부위특이적 접합·링커 기술, mTG 기반 접합 공급 등 어느 접점도 없다. 사업은 3D프린팅·재생의학·조직 스캐폴드·organ-on-chip에 국한된다. 검색 대조 결과 접점 전무로 무관.",
+    "verified_grade": "하",
+    "rejected_evidence": [],
+    "_code": "3DS"
+  },
+  {
+    "company": "Advanced BioMatrix, Inc.",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 97,
+    "supporting_evidence_ids": [
+      "EV-ABM-001",
+      "EV-ABM-002",
+      "EV-ABM-003",
+      "EV-ABM-004",
+      "EV-ABM-010"
+    ],
+    "rationale": "Advanced BioMatrix는 고순도 Type I 콜라겐 용액(PureCol/TeloCol/VitroCol), 순수 콜라겐 바이오잉크(Lifeink), 광가교 메타크릴레이트 콜라겐(PhotoCol)을 핵심 제품으로 제조·판매하는 콜라겐 소재 전문기업이다. 콜라겐 바이오잉크 등록특허(US11850324B2)까지 보유. 콜라겐과의 연관은 직접사업·매우 강함.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ABM"
+  },
+  {
+    "company": "Advanced BioMatrix, Inc.",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 20,
+    "supporting_evidence_ids": [
+      "EV-ABM-006",
+      "EV-ABM-005"
+    ],
+    "rationale": "회사가 몸담은 콜라겐 가교 분야에서 microbial transglutaminase는 알려진 가교법이며 ABM의 콜라겐 필름 교육 콘텐츠도 transglutaminase를 여러 가교법 중 하나로 언급한다. 그러나 ABM이 실제 판매하는 가교시약은 광개시제(LAP/Irgacure/Ruthenium/Xcite)와 PEGDA 등 광·화학 가교이며 mTG 효소 제품·자체 mTG 가교기술·mTG 공급 증거는 없다. 주제적 인접성만 존재하는 약한 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ABM"
+  },
+  {
+    "company": "Advanced BioMatrix, Inc.",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-ABM-011",
+      "EV-ABM-001"
+    ],
+    "rationale": "ABM은 연구용 ECM/콜라겐 소재 공급사로 종양학 항체-약물 접합체(ADC)와 접점이 없다. 자체 ADC 파이프라인, 링커·접합 기술, mTG 기반 부위특이적 접합 공급 등 어떤 ADC 접점도 검색으로 확인되지 않아 무관으로 판정한다.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "ABM"
+  },
+  {
+    "company": "Aleph Farms Ltd",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 45,
+    "supporting_evidence_ids": [
+      "EV-ALE-005",
+      "EV-ALE-002",
+      "EV-ALE-006"
+    ],
+    "rationale": "Aleph Farms는 2019년 ISS 3D 바이오프린팅 실험에서 적층 근섬유 구조 유지를 위해 가교 효소 트랜스글루타미나제(transglutaminase)를 사용했다(EV-ALE-005). 이는 배양육 스캐폴드/조직 가교라는 mTG의 대표적 응용 접점이다. 다만 (1) 해당 TG가 '미생물(microbial) TG=mTG'인지 원문에 명시되지 않았고, (2) 등록 특허(US20200140810A1)의 스캐폴드는 대두 단백 중심이며 응고제로 thrombin/fibrin만 언급(EV-ALE-006)해 mTG가 핵심 상용 공정 요소로 확정되지는 않는다. 자체 mTG 생산·공급이나 ADC용 mTG 접합과는 무관. 따라서 직접사업/직접연구가 아닌 '인접·응용(중)'.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ALE"
+  },
+  {
+    "company": "Aleph Farms Ltd",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-ALE-001",
+      "EV-ALE-004"
+    ],
+    "rationale": "Aleph Farms는 배양 소고기 및 배양 콜라겐 식품·소재 기업으로 종양학 모달리티인 항체-약물 접합체(ADC), 항체/링커/페이로드, 부위특이적 접합(site-specific conjugation) 파이프라인이 전무하다. 'Aleph Farms ADC / antibody-drug conjugate', 'transglutaminase site-specific conjugation' 조합으로 접점을 탐색했으나 어떤 연결도 확인되지 않았다. mTG를 ADC 접합에 공급/응용하는 정황도 없음 → 무관(하).",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ALE"
+  },
+  {
+    "company": "Aleph Farms Ltd",
+    "item": "Collagen",
+    "relevance_type": "직접연구",
+    "relevance_level": "상",
+    "relevance_score": 82,
+    "supporting_evidence_ids": [
+      "EV-ALE-004",
+      "EV-ALE-007",
+      "EV-ALE-002"
+    ],
+    "rationale": "Aleph Farms는 '전체 소 대체' 전략으로 살아있는 소 세포에서 도축 없이 자연 동일 배양 콜라겐(세포외기질 전체 포함)을 생산하는 전용 플랫폼을 개발했고, 이는 deep-tech 인큐베이터 Aleph Frontiers의 첫 산물로 상용화를 추진했다(EV-ALE-004). 특허 포트폴리오에도 'cell-free animal collagen' 패밀리가 존재한다(EV-ALE-007). 또한 배양 스테이크의 스캐폴드가 동물 ECM(콜라겐 포함)을 대체하는 구조(EV-ALE-002)로 콜라겐/ECM 기술 연관성이 높다. 재조합·식물 대체재가 아닌 세포 기반 동물 콜라겐 직접 연구·개발 → 직접연구(상). 다만 구체 상용 출시 상태와 콜라겐 특허 공개번호는 미확정(honest_gap).",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ALE"
+  },
+  {
+    "company": "Aroa Biosurgery Limited",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 92,
+    "supporting_evidence_ids": [
+      "EV-ARO-001",
+      "EV-ARO-003",
+      "EV-ARO-004",
+      "EV-ARO-006",
+      "EV-ARO-007",
+      "EV-ARO-010"
+    ],
+    "rationale": "Aroa의 전 제품(Endoform, Myriad, OviTex, Symphony)은 양 전위 유래 탈세포 ECM(OFM)이며, 콜라겐(24종 이상, 주로 type I·III)이 핵심 구조단백질이다. 콜라겐 기반 조직재생 의료기기가 회사의 유일한 사업·연구·특허 축(FY26 매출 NZ$104M)이므로 직접사업·상. 원천특허 US8415159B2 및 콜라겐 조성물 특허가 이를 뒷받침한다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ARO"
+  },
+  {
+    "company": "Aroa Biosurgery Limited",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 12,
+    "supporting_evidence_ids": [
+      "EV-ARO-004",
+      "EV-ARO-003",
+      "EV-ARO-011"
+    ],
+    "rationale": "OFM은 콜라겐 기반 ECM이라는 점에서 mTG의 잠재적 기질(콜라겐 가교)과 소재적 인접성은 있으나, Aroa는 오히려 '비가교(non-crosslinked) 천연 dECM'을 핵심 차별점으로 마케팅하며 효소적·화학적 가교를 사용하지 않는다. 트랜스글루타미나제/mTG 사용·공급·연구 근거가 전무하여 무관으로 판정한다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ARO"
+  },
+  {
+    "company": "Aroa Biosurgery Limited",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-ARO-011",
+      "EV-ARO-001"
+    ],
+    "rationale": "Aroa는 연조직 재생용 콜라겐 ECM 의료기기 전업 기업으로, 종양학 항체-약물 접합체(ADC) 파이프라인·링커/페이로드 접합기술·mTG 기반 부위특이적 접합 활동이 공식 홈페이지·IR·특허 어디에도 없다. 완전 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ARO"
+  },
+  {
+    "company": "Artivion, Inc. (구 CryoLife)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 55,
+    "supporting_evidence_ids": [
+      "EV-ART-005",
+      "EV-ART-006",
+      "EV-ART-002",
+      "EV-ART-012",
+      "EV-ART-004"
+    ],
+    "rationale": "Artivion은 콜라겐을 원료로 생산/판매하지 않으나, 핵심 제품이 콜라겐 기반 생체조직에 강하게 접해 있다. PhotoFix는 소 심막(콜라겐 조직)을 광산화로 '내부 콜라겐 구조'를 가교·안정화한 이식 패치이며(EV-ART-005), 인체 동종 심혈관 조직(CryoVein/CryoArtery/CryoPatch SG)도 콜라겐 기반 자연조직이다(EV-ART-012, EV-ART-002). BioGlue는 알부민/글루타르알데히드 실런트로 콜라겐이 아닌 알부민을 가교하나 조직 가교 응용이라는 인접성이 있다(EV-ART-004). 콜라겐 소재·가교 응용 측면에서 '인접·응용', 강도 중.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ART"
+  },
+  {
+    "company": "Artivion, Inc. (구 CryoLife)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 8,
+    "supporting_evidence_ids": [
+      "EV-ART-004",
+      "EV-ART-005",
+      "EV-ART-009"
+    ],
+    "rationale": "Artivion의 조직/단백질 가교는 글루타르알데히드(BioGlue, EV-ART-004)와 염료 매개 광산화(PhotoFix, EV-ART-005)에 기반하며, 미생물 트랜스글루타미나제(mTG)를 사용/공급/연구한다는 근거는 확인되지 않았다. TGase-콜라겐 가교 특허는 존재하나 제3자 출원으로 Artivion과 무관하다(EV-ART-009). honest_gap: 'CryoLife/Artivion + transglutaminase/mTG' 국·영문 검색에서 자사 접점 미발견. 개념적으로 mTG가 글루타르알데히드 가교의 대체 후보이나 Artivion 채택 근거 없음 → 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ART"
+  },
+  {
+    "company": "Artivion, Inc. (구 CryoLife)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 2,
+    "supporting_evidence_ids": [
+      "EV-ART-001",
+      "EV-ART-003"
+    ],
+    "rationale": "Artivion은 심혈관/대동맥 외과용 의료기기·인체조직 보존 기업으로 항체-약물 접합체(ADC) 종양학 파이프라인, 링커·접합 기술, mTG 기반 부위특이 접합 공급 등 어떤 접점도 없다(EV-ART-001, EV-ART-003). honest_gap: 사업/연구/특허/파트너십 전 영역에서 ADC 관련 활동 미발견 → 명확히 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ART"
+  },
+  {
+    "company": "Advanced Solutions Life Sciences, LLC",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 60,
+    "supporting_evidence_ids": [
+      "EV-ASL-001",
+      "EV-ASL-004",
+      "EV-ASL-005",
+      "EV-ASL-006"
+    ],
+    "rationale": "ASL의 BioAssemblyBot 플랫폼은 조직공학·재생의학용으로 콜라겐/젤라틴 기반 바이오잉크를 프린팅하며(콜라겐 각막모델·혈관화 골조직 BioBone 등), 바이오잉크 광경화 특허도 보유. 다만 콜라겐 원료·소재 자체는 ASL 자체 제품이 아니라 Advanced BioMatrix(Lifeink) 등 파트너 소재를 장비에 사용하는 형태 → 직접 콜라겐 사업이 아닌 '콜라겐 소재를 사용·구현하는 장비/응용' 접점. 인접·응용 중.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ASL"
+  },
+  {
+    "item": "mTG",
+    "company": "Advanced Solutions Life Sciences, LLC",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 22,
+    "supporting_evidence_ids": [
+      "EV-ASL-004",
+      "EV-ASL-011"
+    ],
+    "rationale": "mTG는 ASL이 속한 젤라틴/콜라겐 바이오잉크 생태계에서 일반적으로 쓰이는 효소 가교제이나, ASL의 제품·특허·논문에서 mTG를 직접 취급·연구·공급한다는 근거는 발견되지 않음(ASL은 광경화 방식 하드웨어 특허 보유). 필드 인접성에 근거한 약한 추론적 연관으로 '하'. honest_gap: ASL-특정 mTG 접점 검색 무발견.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "ASL"
+  },
+  {
+    "item": "ADC",
+    "company": "Advanced Solutions Life Sciences, LLC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-ASL-012"
+    ],
+    "rationale": "ASL는 바이오프린팅 로봇·소프트웨어·조직모델링 장비 기업으로, 항체-약물 접합체(ADC) 파이프라인·링커/접합기술·mTG 기반 부위특이적 접합 공급 등 종양학 모달리티와의 사업·기술 접점이 전무. 검색상 어떤 ADC 연관도 확인되지 않음 → 무관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "ASL"
+  },
+  {
+    "company": "Baxter International Inc. — Advanced Surgery",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 92,
+    "supporting_evidence_ids": [
+      "EV-BAX-002",
+      "EV-BAX-003",
+      "EV-BAX-006",
+      "EV-BAX-007",
+      "EV-BAX-001"
+    ],
+    "rationale": "Advanced Surgery의 핵심 상용 제품이 콜라겐/젤라틴 소재다. FLOSEAL은 소 콜라겐을 젤라틴화·가교한 젤라틴 매트릭스(+트롬빈)이고, HEMOPATCH는 소 진피 유래 콜라겐 패드(NHS-PEG 코팅)다. 지혈제·실런트가 약 11억 달러 규모 사업의 성장 동력으로, 콜라겐/젤라틴은 직접·주력 사업에 해당한다. 관측 수준 '상'.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "BAX"
+  },
+  {
+    "company": "Baxter International Inc. — Advanced Surgery",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 28,
+    "supporting_evidence_ids": [
+      "EV-BAX-007",
+      "EV-BAX-008",
+      "EV-BAX-002",
+      "EV-BAX-009"
+    ],
+    "rationale": "Baxter는 mTG가 가교제로 활용되는 바로 그 응용영역(젤라틴 기반 지혈·실링 실런트)에서 사업을 하나, 자사 제품은 glutaraldehyde(Floseal)·NHS-PEG(Hemopatch)·fibrin(Tisseel) 가교를 사용하며 mTG를 사용·공급한 증거가 없다. 젤라틴-mTG 지혈 특허군은 Lifebond(현 BD) 소유이고 Baxter는 그 특허들에서 경쟁제품(CoSeal)으로만 언급된다. 즉 기술적 인접성은 있으나 직접 접점은 없어 match_threshold(중) 미만인 '하'로 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "BAX"
+  },
+  {
+    "company": "Baxter International Inc. — Advanced Surgery",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-BAX-014"
+    ],
+    "rationale": "Baxter International은 병원용 의료제품·의약주입·수술 지혈제 기업으로 종양학 항체-약물 접합체(ADC) 파이프라인, 링커·부위특이적 접합 플랫폼, ADC용 mTG 공급 활동이 확인되지 않는다. Advanced Surgery의 mTG 인접성은 조직 가교(지혈)용이지 ADC 접합과 무관하다. 다중 검색에도 접점 부재 → 무관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "BAX"
+  },
+  {
+    "company": "Becton, Dickinson and Company (BD)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 82,
+    "supporting_evidence_ids": [
+      "EV-BD-003",
+      "EV-BD-004",
+      "EV-BD-005",
+      "EV-BD-009"
+    ],
+    "rationale": "BD(구 Bard/Davol)는 XenMatrix(돼지 진피 유래 콜라겐 매트릭스), AlloMax·CollaMend(무세포 진피 콜라겐 매트릭스) 등 콜라겐 기반 조직재생·창상/탈장 보강 의료기기를 직접 제조·판매한다. 특허 AquaPure 탈세포화 공정으로 개방형 콜라겐 스캐폴드를 형성해 재혈관화를 유도하는 등 콜라겐 소재·응용에 직접적 사업·기술 접점이 뚜렷하다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "BD"
+  },
+  {
+    "company": "Becton, Dickinson and Company (BD)",
+    "item": "ADC",
+    "relevance_type": "공급망·파트너",
+    "relevance_level": "하",
+    "relevance_score": 18,
+    "supporting_evidence_ids": [
+      "EV-BD-006",
+      "EV-BD-007"
+    ],
+    "rationale": "BD는 자체 ADC(항체-약물 접합체) 파이프라인이나 링커·접합 기술을 보유하지 않는다. 다만 BioPharma Systems 부문이 항체 등 바이오의약품용 프리필드 시린지 등 범용 약물전달 디바이스를 공급해, 특정 ADC가 아닌 바이오제약 공급망 차원의 약한 인접성만 존재한다. 종양학 ADC 모달리티와의 직접 연관은 무관에 가깝다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "BD"
+  },
+  {
+    "company": "Becton, Dickinson and Company (BD)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-BD-010"
+    ],
+    "rationale": "BD와 microbial transglutaminase(mTG)를 연결하는 사업·연구·특허 근거가 검색에서 확인되지 않았다. 오히려 BD의 대표 콜라겐 제품 XenMatrix는 non-crosslinked(비가교) 그래프트로 명시되어 mTG 가교 기술과 상반된다. 식품·ADC 접합용 mTG 접점 없음 → 무관 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "BD"
+  },
+  {
+    "company": "BIO INX",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 92,
+    "supporting_evidence_ids": [
+      "EV-BIX-002",
+      "EV-BIX-003",
+      "EV-BIX-004",
+      "EV-BIX-005",
+      "EV-BIX-006"
+    ],
+    "rationale": "BIO INX의 주력 상용 제품(GEL-MA INX, BIORES INX, HYDROBIO INX 등)이 콜라겐 유래 젤라틴/GelMA 기반 광가교 바이오잉크로, Collagen(젤라틴·GelMA) 소재·응용에 직접 해당한다. 나아가 창업진은 재조합 콜라겐(RCPhC1) 광가교 바이오프린팅과 티올-젤라틴-노르보르넨 잉크를 연구·특허화했다. 소재(젤라틴/콜라겐)와 응용(조직공학·바이오프린팅) 양면에서 강한 직접 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "BIX"
+  },
+  {
+    "company": "BIO INX",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 20,
+    "supporting_evidence_ids": [
+      "EV-BIX-002",
+      "EV-BIX-013"
+    ],
+    "rationale": "BIO INX 핵심 기질인 젤라틴/GelMA는 mTG(미생물 트랜스글루타미나제)의 대표적 가교 기질이라는 점에서 기술 분야상 인접성이 있으나, BIO INX 자체는 광가교(메타크릴로일·노르보르넨-티올) 화학을 사용하며 mTG 기반 제품·연구·특허는 확인되지 않았다. mTG-GelMA 제어가교 대표 논문도 NTU 싱가포르(Zhou 등) 성과로 BIO INX와 무관. 따라서 직접 연관 없음, 기질 수준의 약한 인접성만 인정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "BIX"
+  },
+  {
+    "company": "BIO INX",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-BIX-001",
+      "EV-BIX-003",
+      "EV-BIX-013"
+    ],
+    "rationale": "BIO INX는 3D 바이오프린팅용 하이드로겔 바이오잉크/레진 재료 기업으로 종양학 항체-약물 접합체(ADC)와 사업·연구·파이프라인상 접점이 없다. 자체 ADC 파이프라인, 링커·접합기술, mTG 부위특이 접합 공급 등 어떤 경로도 검색에서 확인되지 않았다(검색어: 'BIO INX transglutaminase', 'BIO INX antibody' 등). ADC 무관으로 정직 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "BIX"
+  },
+  {
+    "company": "CELLINK (BICO Group AB)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 92,
+    "supporting_evidence_ids": [
+      "EV-CEL-002",
+      "EV-CEL-003",
+      "EV-CEL-004",
+      "EV-CEL-008",
+      "EV-CEL-009",
+      "EV-CEL-010"
+    ],
+    "rationale": "CELLINK/Advanced BioMatrix는 순수 type I 콜라겐 바이오잉크(Lifeink 200/220/240/260)와 메타크릴화 젤라틴(GelMA) 바이오잉크·콜라겐 원료를 핵심 상용 제품으로 판매하며, 콜라겐/젤라틴 소재 및 온도민감 젤화 관련 특허도 보유한다. 콜라겐·젤라틴 소재의 직접 사업 및 R&D 주체로 연관성 최상.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "CEL"
+  },
+  {
+    "company": "CELLINK (BICO Group AB)",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 28,
+    "supporting_evidence_ids": [
+      "EV-CEL-003",
+      "EV-CEL-012",
+      "EV-CEL-013"
+    ],
+    "rationale": "CELLINK의 젤라틴/GelMA 바이오잉크는 학계에서 mTG(미생물 트랜스글루타미나제)로 효소 가교되는 대표 기질이나, 이는 분야 일반 기법이다. CELLINK 자체 가교제는 CaCl2(이온성)·광가교(LAP/UV)이며 mTG 단독 제품·공정 채택 근거는 검색으로 미발견. 소재 기질 차원의 인접성만 인정되어 연관도 '하'.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "CEL"
+  },
+  {
+    "company": "CELLINK (BICO Group AB)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-CEL-005",
+      "EV-CEL-014"
+    ],
+    "rationale": "CELLINK/BICO는 3D 바이오프린팅·바이오잉크·랩 자동화 기업으로 항체-약물 접합체(ADC) 파이프라인, 링커·접합 기술, ADC용 mTG 공급 접점이 다중 검색에서 전혀 확인되지 않았다. 바이오프린팅 종양 모델은 신약 스크리닝 도구일 뿐 ADC 모달리티와 무관. 무관으로 정직하게 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "CEL"
+  },
+  {
+    "company": "주식회사 시지바이오 (CGBio)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 88,
+    "supporting_evidence_ids": [
+      "EV-CGB-002",
+      "EV-CGB-003",
+      "EV-CGB-001",
+      "EV-CGB-005",
+      "EV-CGB-009"
+    ],
+    "rationale": "콜라겐 유래 흡수성 차폐막 '시지가이드'(bovine 콜라겐 GBR 멤브레인)와 마이크로 콜라겐 섬유(MCF) 공법 동종진피 피부이식재 '시지덤' 계열을 직접 제조·판매하는 매출 창출 사업. 콜라겐 소재 의료기기(창상·조직재생·치과 GBR)에 직접 해당하여 연관성 '상'.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "CGB"
+  },
+  {
+    "company": "주식회사 시지바이오 (CGBio)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 15,
+    "supporting_evidence_ids": [
+      "EV-CGB-013",
+      "EV-CGB-002"
+    ],
+    "rationale": "콜라겐 가교 소재를 다루므로 mTG의 응용영역(콜라겐 가교)과 개념적 인접성은 있으나, CGBio가 미생물 트랜스글루타미나제(mTG)를 제품·공정·공급에 사용한다는 근거는 국문·영문 검색에서 전혀 확인되지 않음. 자사 콜라겐 제품 가교는 물리·화학적 방식으로 서술됨. 무관(하)으로 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "CGB"
+  },
+  {
+    "company": "주식회사 시지바이오 (CGBio)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-CGB-013",
+      "EV-CGB-001"
+    ],
+    "rationale": "CGBio는 골이식재·창상·조직재생·필러 등 재생의료 의료기기 기업으로 항암 항체·링커·페이로드 등 항체-약물 접합체(ADC) 파이프라인이나 접합기술이 전무. mTG 기반 ADC 접점도 없음. 완전 무관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "CGB"
+  },
+  {
+    "company": "CollPlant Biotechnologies Ltd.",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 98,
+    "supporting_evidence_ids": [
+      "EV-CLP-001",
+      "EV-CLP-002",
+      "EV-CLP-003",
+      "EV-CLP-004",
+      "EV-CLP-005",
+      "EV-CLP-009",
+      "EV-CLP-011"
+    ],
+    "rationale": "CollPlant의 전 사업이 식물(담배)기반 Type I 재조합 인간 콜라겐(rhCollagen) 플랫폼에 기반한다. 진피필러, 바이오잉크(Collink.3D), 3D 바이오프린팅 유방재건 스캐폴드, 건병증 치료제 등 모든 제품이 콜라겐 소재·응용이며 다수 특허와 AbbVie/3D Systems 협업으로 뒷받침된다. 재조합 콜라겐 아이템과 최상위 직접 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "CLP"
+  },
+  {
+    "company": "CollPlant Biotechnologies Ltd.",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 18,
+    "supporting_evidence_ids": [
+      "EV-CLP-004",
+      "EV-CLP-014",
+      "EV-CLP-009"
+    ],
+    "rationale": "CollPlant는 콜라겐 가교에 미생물 트랜스글루타미나제(mTG)가 아닌 메타크릴레이트 광가교(photocuring)를 사용한다. mTG를 사용·공급·연구한다는 증거는 없다(US20080305517A1 mTG-콜라겐 특허는 Aston University 소유로 무관). 다만 CollPlant의 rhCollagen은 이론적으로 mTG의 가교 기질이 될 수 있는 콜라겐 소재라는 점에서 소재 인접성만 존재. 직접 연관은 없음(하).",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "CLP"
+  },
+  {
+    "company": "CollPlant Biotechnologies Ltd.",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 2,
+    "supporting_evidence_ids": [
+      "EV-CLP-001",
+      "EV-CLP-002"
+    ],
+    "rationale": "CollPlant는 재생·미용의학(rhCollagen) 기업으로 항체-약물 접합체(ADC) 파이프라인, 링커·접합 기술, 종양학 모달리티, mTG 기반 부위특이적 접합 공급 등 어떤 ADC 접점도 확인되지 않았다. 사업·연구·특허·파트너십 전 영역에서 항체나 세포독성 페이로드 관련 활동 부재. 무관으로 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "CLP"
+  },
+  {
+    "company": "셀론텍 (Cellontech, 구 세원셀론텍)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 98,
+    "supporting_evidence_ids": [
+      "EV-CLT-001",
+      "EV-CLT-002",
+      "EV-CLT-003",
+      "EV-CLT-004",
+      "EV-CLT-005",
+      "EV-CLT-006",
+      "EV-CLT-008",
+      "EV-CLT-011",
+      "EV-CLT-012",
+      "EV-CLT-015"
+    ],
+    "rationale": "콜라겐(바이오콜라겐/아텔로콜라겐)은 셀론텍의 핵심 정체성이자 전 제품군의 원료다. 콘드론·RMS Ossron 세포치료제, 카티졸(콜라겐 관절강주사), 리젠씰(콜라겐 조직보충재), 테라필·루시젠(콜라겐 필러), 리젠그라프트 10종, 창상피복재·이식재·세포배양 지지체까지 콜라겐 기반. 자체 아텔로콜라겐 제조 원천기술로 유럽·미국·중국·캐나다·일본 특허 및 FDA DMF 등재 보유. 최고 수준 직접 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "CLT"
+  },
+  {
+    "company": "셀론텍 (Cellontech, 구 세원셀론텍)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 12,
+    "supporting_evidence_ids": [
+      "EV-CLT-016",
+      "EV-CLT-008"
+    ],
+    "rationale": "셀론텍은 콜라겐/젤라틴 유사 단백질을 다루므로 원리상 mTG 가교의 잠재적 기질 영역에 있으나, 실제로 mTG(미생물 트랜스글루타미나제) 효소를 제조·공급하거나 아텔로콜라겐 가교에 사용한다는 근거는 확인되지 않았다. 아텔로콜라겐은 텔로펩타이드 제거 기반 정제·성형 기술로, 효소 가교 명시 없음. 국·영문 검색에서 셀론텍과 mTG의 직접 접점 전무 — 무관으로 판정(소재 인접성만 존재).",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "CLT"
+  },
+  {
+    "company": "셀론텍 (Cellontech, 구 세원셀론텍)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-CLT-016"
+    ],
+    "rationale": "셀론텍은 콜라겐 기반 재생의료·의료기기·세포치료 기업으로 종양학 항체-약물 접합체(ADC) 파이프라인, 링커/접합기술, mTG 기반 부위특이 접합 공급 정황이 전혀 없다. 'Sewon Cellontech antibody drug conjugate' 등 영문 검색에서도 일반 mTG-ADC 문헌만 나오고 셀론텍 연결은 부재 — 무관.",
+    "verified_grade": "하",
+    "rejected_evidence": [],
+    "_code": "CLT"
+  },
+  {
+    "company": "Corza Medical",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 85,
+    "supporting_evidence_ids": [
+      "EV-COR-002",
+      "EV-COR-004",
+      "EV-COR-005",
+      "EV-COR-007"
+    ],
+    "rationale": "주력 지혈 제품 TachoSil이 말(equine) 콜라겐 스펀지를 담체로 하는 콜라겐 기반 의료기기이며, 설립·제조 인수의 핵심 자산이다. 추가로 콜라겐 소재 기업 NeuColl 인수 이력이 있어 콜라겐과 직접 사업 연관이 명확하다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "COR"
+  },
+  {
+    "company": "Corza Medical",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-COR-009",
+      "EV-COR-003"
+    ],
+    "rationale": "Corza는 수술 봉합·지혈·안과 의료기기 기업으로, 미생물 트랜스글루타미나제(mTG)를 이용한 가교나 조직 실런트 기술의 근거를 찾지 못했다. TachoSil의 접착은 피브리노겐-트롬빈 응고 기전이며 mTG 가교가 아니다. 검색상 접점 없음.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "COR"
+  },
+  {
+    "company": "Corza Medical",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 2,
+    "supporting_evidence_ids": [
+      "EV-COR-009",
+      "EV-COR-001"
+    ],
+    "rationale": "종양학 항체-약물 접합체(ADC) 파이프라인, 링커·부위특이 접합 기술, mTG-ADC 공급 등 어떤 접점도 확인되지 않았다. Corza는 수술 의료기기 사업으로 ADC 모달리티와 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "COR"
+  },
+  {
+    "company": "다나그린 (DaNAgreen Co., Ltd.)",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 33,
+    "supporting_evidence_ids": [
+      "EV-DNG-003",
+      "EV-DNG-011"
+    ],
+    "rationale": "다나그린의 핵심기술은 단백질을 '교차결합(crosslinking)'해 다공성 세포지지체를 만드는 것으로, mTG가 표준 도구로 쓰이는 단백질 가교-스캐폴드 도메인과 정확히 겹친다. 그러나 공개 자료(홈페이지·언론·특허 스니펫)는 가교제를 'mTG'로 명시하지 않고 '특허 교차결합 기술'로만 서술한다. 오히려 주 출발물질인 혈청 알부민은 native 상태에서 mTG 기질로 부적합하다는 문헌(US20020009770A1)이 있어, 다나그린은 mTG가 아닌 다른 가교화학(예: 산화효소·화학가교·구조변형)을 쓸 가능성이 크다. 따라서 도메인 인접성은 있으나 mTG 직접 사용은 미확인 → 인접·응용/하. honest_gap: 다나그린 특허 본문(KR10-2021-0014705)이 이미지PDF·Google Patents 404로 가교제 확정 실패.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "DNG"
+  },
+  {
+    "company": "다나그린 (DaNAgreen Co., Ltd.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 4,
+    "supporting_evidence_ids": [],
+    "rationale": "다나그린은 세포배양용 단백질 3D 스캐폴드(배양육·조직공학·약물스크리닝) 기업으로, 항체·링커·세포독성 페이로드 등 항체-약물 접합체(ADC) 파이프라인이나 부위특이적 접합기술, ADC용 mTG 효소 공급이 전혀 확인되지 않는다. 'DaNAgreen/다나그린 + antibody drug conjugate/site-specific conjugation' 검색은 회사와 무관한 일반 mTG-ADC 학술문헌만 반환했다. 무관으로 판정.",
+    "verified_grade": null,
+    "rejected_evidence": [],
+    "_code": "DNG"
+  },
+  {
+    "company": "다나그린 (DaNAgreen Co., Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 58,
+    "supporting_evidence_ids": [
+      "EV-DNG-001",
+      "EV-DNG-002",
+      "EV-DNG-006",
+      "EV-DNG-005"
+    ],
+    "rationale": "다나그린의 Protinet은 콜라겐/동물 ECM을 대체하는 '세포외기질(ECM) 유사 다공성 스캐폴드'로, 콜라겐 매트릭스가 쓰이는 응용영역(3D 세포배양, 조직공학, 배양육 스캐폴드, 약물스크리닝)에서 정면으로 경쟁·대체한다. 다만 소재는 콜라겐이 아니라 혈청단백질·대두·해조류 단백질이며, 콜라겐/젤라틴을 원료로 생산·판매하지는 않는다. 즉 콜라겐 자체 사업(직접사업)은 아니고 콜라겐 응용공간의 인접·대체 기술이다 → 인접·응용/중. 단백질 스캐폴드라는 소재·기능 접점은 명확하나 콜라겐 소재 직접 취급은 없음.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "DNG"
+  },
+  {
+    "company": "대웅제약 (Daewoong Pharmaceutical Co., Ltd.)",
+    "item": "ADC",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 48,
+    "supporting_evidence_ids": [
+      "EV-DWG-011",
+      "EV-DWG-006",
+      "EV-DWG-007",
+      "EV-DWG-013"
+    ],
+    "rationale": "대웅제약 자체에는 공개된 ADC 파이프라인이 없으나, 최대주주(약 30% 지분) 관계인 자회사 한올바이오파마가 2024년 6월 미국 Crystal Bioscience와 항체 디스커버리 플랫폼(총 2090만달러)을 도입하고 항체디스커버리팀을 신설하며 '차세대 ADC 항암제 시장 진출'을 명시적으로 표방했다(the bell·더바이오 교차확인). 한올은 batoclimab 등 임상단계 항체 개발 역량도 보유해 ADC의 항체 골격 기반이 될 수 있다. 다만 현 단계는 항체 발굴 도입이며 링커·페이로드·부위특이 접합(mTG 등) 등 ADC 접합기술이나 구체 ADC 자산은 미공개여서, 제약사 중 유일하게 ADC 접점이 있으나 초기 인접·응용 수준으로 판정한다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "DWG"
+  },
+  {
+    "company": "대웅제약 (Daewoong Pharmaceutical Co., Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 24,
+    "supporting_evidence_ids": [
+      "EV-DWG-004",
+      "EV-DWG-010",
+      "EV-DWG-014"
+    ],
+    "rationale": "대웅제약의 EGF 창상치료제(이지에프 외용액/새살연고)는 섬유아세포를 자극해 콜라겐 '합성'을 촉진하는 기전으로 콜라겐과 생물학적 접점이 있으나, 이는 성장인자 의약품이지 콜라겐/젤라틴 원료·바이오잉크·콜라겐 기반 의료기기 등 콜라겐 소재를 직접 생산·응용하는 사업이 아니다. 대웅 자사 명의의 콜라겐 소재·재조합 콜라겐 특허는 검색으로 확인되지 않았고, 검색에서 나온 유일한 mTG-콜라겐 스캐폴드 특허는 타사(Bio-Change) 소유였다. 따라서 콜라겐 소재 관점의 연관도는 '하'.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "DWG"
+  },
+  {
+    "company": "대웅제약 (Daewoong Pharmaceutical Co., Ltd.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-DWG-001",
+      "EV-DWG-014",
+      "EV-DWG-011"
+    ],
+    "rationale": "대웅제약의 주력 톡신 나보타(보툴리눔 톡신)는 SNARE 단백질을 절단하는 프로테아제로 가교효소인 미생물 트랜스글루타미나제(mTG)와 기전이 무관하다. mTG를 이용한 조직 가교, 배양육 스캐폴드, ADC 부위특이 접합 등 어떤 접점도 대웅제약 및 자회사에서 확인되지 않았다(국문·영문 검색 및 특허 검토 완료). 한올바이오파마의 ADC 진출도 현재 항체 발굴 단계로 mTG 접합기술 채택 근거는 없다. 무관으로 정직하게 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "DWG"
+  },
+  {
+    "company": "Evonik Industries AG — Health Care",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 8,
+    "supporting_evidence_ids": [
+      "EV-EVO-009",
+      "EV-EVO-004"
+    ],
+    "rationale": "Evonik의 콜라겐/조직공학 소재는 존재하나 가교 방식은 광가교(메타크릴레이트 등)로 명시되며(WO2024002806A1), 미생물 트랜스글루타미나제(mTG)를 생산·공급·응용한다는 근거는 발견되지 않음. honest_gap: '(1) Evonik transglutaminase / mTG / protein crosslinking (2) Evonik VECOLLAN patent 검색을 국·영문으로 시도했으나 Evonik과 mTG 연결 근거 전무. Evonik 특허는 효소가교가 아닌 광가교 방식임을 확인. 따라서 무관으로 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "EVO"
+  },
+  {
+    "company": "Evonik Industries AG — Health Care",
+    "item": "ADC",
+    "relevance_type": "공급망·파트너",
+    "relevance_level": "하",
+    "relevance_score": 30,
+    "supporting_evidence_ids": [
+      "EV-EVO-003"
+    ],
+    "rationale": "Evonik은 종양학용 HPAPI·세포독성 API의 봉쇄형 CDMO 제조와 PEG계 기능성 부형제를 공급하여 ADC 페이로드/부형제 공급망의 잠재적 접점을 가짐(ADC Review 리소스가이드에 등재). 그러나 자체 ADC 파이프라인, 항체-약물 부위특이접합, 링커 접합, mTG 기반 접합 서비스를 직접 수행한다는 근거는 미발견. honest_gap: 'Evonik bioconjugation/ADC linker/site-specific conjugation service' 검색에서 Evonik의 직접 접합 역량 확인 실패. 간접 공급 접점만 존재하므로 관련도 '하'.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "EVO"
+  },
+  {
+    "company": "Evonik Industries AG — Health Care",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 92,
+    "supporting_evidence_ids": [
+      "EV-EVO-002",
+      "EV-EVO-004",
+      "EV-EVO-006",
+      "EV-EVO-009"
+    ],
+    "rationale": "Evonik은 발효 기반 동물유래-무함유 재조합 콜라겐-유사 단백질 플랫폼 VECOLLAN을 상용화(2025-09 임상등급 출시, 2026 검증물질 제공 예정)했고, 스펀지·하이드로겔·마이크로입자·섬유·바이오잉크 형태로 조직재생·창상치유·미용·바이오프린팅에 응용. 관련 특허(WO2024002806A1) 및 의료기기 바이오소재 사업 다수 확인 → 콜라겐 아이템과 직접사업 강한 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "EVO"
+  },
+  {
+    "company": "Geistlich Pharma AG",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 96,
+    "supporting_evidence_ids": [
+      "EV-GEI-001",
+      "EV-GEI-002",
+      "EV-GEI-003",
+      "EV-GEI-005",
+      "EV-GEI-006",
+      "EV-GEI-007",
+      "EV-GEI-010",
+      "EV-GEI-011"
+    ],
+    "rationale": "Geistlich의 핵심 사업 자체가 콜라겐/골 재생 바이오소재다. 돼지 유래 콜라겐(Bio-Oss Collagen), 이중층 콜라겐 막(Bio-Gide), Type I/III 콜라겐 매트릭스(Mucograft, Fibro-Gide), 입자형 콜라겐 창상재(DermaForm)까지 제품·R&D·특허·최근 뉴스 전 영역이 콜라겐 소재에 직결. 글로벌 재생치의학 시장 리더로서 최상위 직접 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GEI"
+  },
+  {
+    "company": "Geistlich Pharma AG",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 22,
+    "supporting_evidence_ids": [
+      "EV-GEI-005",
+      "EV-GEI-006",
+      "EV-GEI-012"
+    ],
+    "rationale": "Geistlich은 콜라겐 가교(crosslinking)를 핵심 R&D 역량으로 삼으나, 실제 사용 기술은 EDC/NHS 화학 가교와 DHT 물리 가교이며(특허 WO2017093502A1), 미생물 트랜스글루타미나제(mTG) 효소 가교 사용 근거는 확인되지 않았다. mTG는 학계에서 콜라겐 가교의 대체 수단으로 알려져 있어 '콜라겐 가교'라는 응용 영역상 잠재적 인접성은 있으나, Geistlich이 mTG를 채택/공급/연구한다는 증거는 없어 연관 수준은 '하'.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GEI"
+  },
+  {
+    "company": "Geistlich Pharma AG",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 2,
+    "supporting_evidence_ids": [
+      "EV-GEI-012"
+    ],
+    "rationale": "Geistlich은 항체-약물 접합체(ADC) 파이프라인, ADC 링커/접합 기술, mTG 기반 부위특이 접합 공급 등 종양학 ADC 모달리티와의 접점이 전혀 없다. 사업·연구가 재생치의학 콜라겐/골 소재에 한정되어 무관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "GEI"
+  },
+  {
+    "company": "GELITA AG",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 68,
+    "supporting_evidence_ids": [
+      "EV-GEL-009",
+      "EV-GEL-010",
+      "EV-GEL-011"
+    ],
+    "rationale": "GELITA는 트랜스글루타미나제(mTG/factor XIII 계열)로 젤라틴을 가교해 지혈 드레싱·조직고정용 의료접착제를 만드는 특허 패밀리(US9295751B2, EP2037972B1, WO2008076407)를 보유·공동출원했다. 즉 mTG를 효소로 생산·판매하지는 않으나, 자사 젤라틴의 가교 응용 기술로 mTG를 직접 활용한다. 단 이는 조직·지혈용 응용이며 ADC 부위특이적 접합과는 별개다. 따라서 직접사업이 아닌 인접·응용, 연관도 중.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GEL"
+  },
+  {
+    "company": "GELITA AG",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 8,
+    "supporting_evidence_ids": [],
+    "rationale": "GELITA는 젤라틴·콜라겐 펩타이드 소재 기업으로 자체 ADC 파이프라인, 링커·페이로드 접합 기술, 또는 ADC용 mTG 효소 공급이 전혀 확인되지 않는다. 'GELITA antibody drug conjugate transglutaminase site-specific' 검색은 GELITA와 무관한 일반 mTG-ADC 학술문헌(Sigma-Aldrich, Bioconjugate Chemistry 등)만 반환했다. GELITA의 mTG 접점은 젤라틴 가교(지혈·조직)이지 항체 접합이 아니므로 ADC와는 무관으로 판정.",
+    "verified_grade": null,
+    "rejected_evidence": [],
+    "_code": "GEL"
+  },
+  {
+    "company": "GELITA AG",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 96,
+    "supporting_evidence_ids": [
+      "EV-GEL-001",
+      "EV-GEL-002",
+      "EV-GEL-003",
+      "EV-GEL-004",
+      "EV-GEL-005"
+    ],
+    "rationale": "GELITA는 세계적 젤라틴(콜라겐 변성체)·콜라겐 펩타이드 제조사로, 콜라겐이 사업의 핵심 그 자체다. 헬스&뉴트리션용 바이오액티브 콜라겐 펩타이드(VERISOL), 의료용 젤라틴(MEDELLAPRO: 지혈·창상·조직공학·바이오프린팅), 배양육 스캐폴드, 저내독소 젤라틴 등 콜라겐/젤라틴 전 응용 스펙트럼을 직접 영위한다. 최고 수준 직접사업 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GEL"
+  },
+  {
+    "company": "Gelatex Technologies OÜ",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 90,
+    "supporting_evidence_ids": [
+      "EV-GLX-001",
+      "EV-GLX-002",
+      "EV-GLX-003",
+      "EV-GLX-005",
+      "EV-GLX-007"
+    ],
+    "rationale": "Gelatex의 창업 기원과 핵심 소재가 젤라틴(gelatin, 변성 콜라겐) 나노섬유이며, Gelacell 젤라틴 스캐폴드를 정식 판매하고 배양육용 식품등급 젤라틴 스캐폴드를 공급한다. 등록특허 US11697892B2가 젤라틴·콜라겐을 방사 대상 바이오고분자로 명시한다. 콜라겐/젤라틴 소재·응용(조직재생·배양육 스캐폴드)에 직접 해당 → 강한 직접사업 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GLX"
+  },
+  {
+    "company": "Gelatex Technologies OÜ",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 35,
+    "supporting_evidence_ids": [
+      "EV-GLX-005",
+      "EV-GLX-011",
+      "EV-GLX-012"
+    ],
+    "rationale": "Gelatex의 젤라틴 스캐폴드는 수불용성·기계적 안정화를 위해 가교가 필요하고, mTG는 젤라틴을 식품안전 방식으로 가교하는 대표 효소로 이들의 식용 배양육 스캐폴드에 응용 가능한 기술 접점이 뚜렷하다. 다만 Gelatex가 실제로 mTG를 채택/공급한다는 직접 증거는 확인되지 않아(honest_gap) 응용 가능성 수준의 인접 연관으로 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "GLX"
+  },
+  {
+    "company": "Gelatex Technologies OÜ",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-GLX-013"
+    ],
+    "rationale": "Gelatex는 나노섬유 소재(배양육·조직공학·창상·화장품) 기업으로 항체·링커·세포독성 페이로드·종양학 파이프라인이 전무하며, mTG를 ADC 부위특이 접합 목적으로 공급/사용한다는 근거도 없다. 복수 검색어로 조회했으나 접점 미발견 → 무관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "GLX"
+  },
+  {
+    "company": "주식회사 제노스 (Genoss Co., Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 92,
+    "supporting_evidence_ids": [
+      "EV-GNS-002",
+      "EV-GNS-003",
+      "EV-GNS-005",
+      "EV-GNS-008",
+      "EV-GNS-010"
+    ],
+    "rationale": "제노스는 콜라겐을 핵심 원료로 하는 의료기기를 직접 제조·판매한다. 소 힘줄 유래 제1형 콜라겐 흡수성 치과 차폐막 'GENOSS Collagen Membrane'(FDA 510(k) K102307), 시트형 콜라겐 이식재 Collagen Graft x1D/x2D(2025.7 출시), 콜라겐 혼합 이종골이식재 OSTEON Xeno Collagen(2023 국내허가)까지 콜라겐 응용 제품군을 보유하고, 골조직 유도재생용 차폐막 특허(KR20130038598A)로 자체 IP도 확보했다. 콜라겐이 사업의 중심 소재이므로 직접사업·연관도 상.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GNS"
+  },
+  {
+    "company": "주식회사 제노스 (Genoss Co., Ltd.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 16,
+    "supporting_evidence_ids": [
+      "EV-GNS-006",
+      "EV-GNS-012"
+    ],
+    "rationale": "제노스가 콜라겐·하이드로겔을 가교(crosslinking)하는 것은 사실이나(KR20160122657A '이중가교', KR102071029B1 등), 이는 화학·물리적(EDC·방사선·열처리 계열) 비효소 가교로 확인된다. 미생물 트랜스글루타미나제(mTG) 효소의 생산·공급·사용 근거는 국문·영문 교차검색과 제노스 출원인 특허 검토에서 전혀 나타나지 않았다. mTG의 전형적 응용(효소적 콜라겐 가교, 배양육, ADC 접합)과의 접점이 없어 무관·하로 판정한다. (가교 소재라는 넓은 인접성은 존재하나 mTG 특정 효소와는 무관)",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GNS"
+  },
+  {
+    "company": "주식회사 제노스 (Genoss Co., Ltd.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 4,
+    "supporting_evidence_ids": [
+      "EV-GNS-012"
+    ],
+    "rationale": "제노스는 심혈관·정형·치과 의료기기와 메디컬 에스테틱(필러·화장품) 기업으로, 항체-약물 접합체(ADC) 파이프라인, 링커·페이로드 접합기술, ADC용 mTG 효소 공급 등 어떤 종양학 모달리티 접점도 확인되지 않는다. 'Genoss transglutaminase/antibody drug conjugate' 검색은 제노스와 무관한 일반 mTG-ADC 학술문헌만 반환했다. 명백한 무관.",
+    "verified_grade": "하",
+    "rejected_evidence": [],
+    "_code": "GNS"
+  },
+  {
+    "company": "주식회사 제네웰 (Genewel Co., Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 94,
+    "supporting_evidence_ids": [
+      "EV-GNW-002",
+      "EV-GNW-003",
+      "EV-GNW-005",
+      "EV-GNW-007",
+      "EV-GNW-008",
+      "EV-GNW-009"
+    ],
+    "rationale": "콜라겐은 제네웰 사업의 핵심 소재다. 상용 창상피복재 '메가덤 울트라'가 아텔로콜라겐+히알루론산나트륨을 주성분으로 하고(EV-GNW-002), 콜라겐(20-99wt%) 기반 지혈·유착방지 폼 특허(WO2016010330A1, EV-GNW-009)와 경희대 공동 ADM(무세포진피) 콜라겐 습식방사 섬유 특허(US12583909B2, EV-GNW-008)를 보유한다. R&D 전반이 콜라겐 지혈·조직수복·창상재생에 집중되어 있어 최고 수준의 직접사업 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GNW"
+  },
+  {
+    "company": "주식회사 제네웰 (Genewel Co., Ltd.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 10,
+    "supporting_evidence_ids": [
+      "EV-GNW-008",
+      "EV-GNW-009"
+    ],
+    "rationale": "제네웰은 콜라겐을 다루지만 가교 방식이 EDC·글루타르알데히드·BDDE/디에폭시·열가교·PVA/PVP 등 화학·물리적 방법이며, 확인된 어떤 특허·제품에도 트랜스글루타미나제(mTG)가 사용되지 않는다(EV-GNW-008, EV-GNW-009). 'Genewel transglutaminase/mTG 트랜스글루타미나제' 검색은 제네웰과 무관한 일반 mTG-콜라겐 학술문헌만 반환했다. 산업적으로 콜라겐 가교에 mTG 적용 가능성은 있으나 제네웰의 실제 활용 증거가 없어 무관으로 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GNW"
+  },
+  {
+    "company": "주식회사 제네웰 (Genewel Co., Ltd.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 4,
+    "supporting_evidence_ids": [
+      "EV-GNW-008"
+    ],
+    "rationale": "제네웰은 창상·지혈·유착방지·조직수복 의료기기 기업으로 종양학 ADC(항체-약물 접합체) 파이프라인, 링커·페이로드 접합기술, ADC용 mTG 공급이 전혀 확인되지 않는다. 유일한 'ADM/ADC' 접점인 US12583909B2의 ADM은 무세포진피(acellular dermal matrix) 콜라겐 소재로 항체-약물 접합체와 명백히 무관(명칭 혼동 주의). 따라서 ADC 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "GNW"
+  },
+  {
+    "company": "한스바이오메드 (Hans Biomed Corp.)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 95,
+    "supporting_evidence_ids": [
+      "EV-HAN-002",
+      "EV-HAN-003",
+      "EV-HAN-006",
+      "EV-HAN-007",
+      "EV-HAN-008"
+    ],
+    "rationale": "한스바이오메드의 핵심 사업 자체가 콜라겐 기반이다. 무세포진피기질(SureDerm, BellaCell HD)은 콜라겐이 주성분인 인체 진피 이식재이고, 벨라젠 플러스는 콜라겐 76% 이상의 동종진피 콜라겐 필러이며, 셀르디엠(CellREDM) 스킨부스터는 hADM의 콜라겐·엘라스틴·GAGs를 활용한다. 유방재건 ADM(BellaCell HD)은 피어리뷰 논문으로도 특성 분석되었고, 세계 최초 스펀지형 ADM(SUREDERM Repair)까지 콜라겐 기질 기술을 확장 중이다. 콜라겐이 제품·R&D 전반의 원천 소재로 최상위 직접사업 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "HAN"
+  },
+  {
+    "company": "한스바이오메드 (Hans Biomed Corp.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 12,
+    "supporting_evidence_ids": [
+      "EV-HAN-016",
+      "EV-HAN-002"
+    ],
+    "rationale": "콜라겐을 대량 다루지만 가교 방식이 mTG(미생물 트랜스글루타미나제) 효소 가교가 아니다. 회사의 ADM·필러는 인체/돼지 진피를 탈세포화한 천연 콜라겐 기질을 동결건조한 것으로, mTG 효소 사용·공급·연구 정황이 국·영문 검색에서 전혀 확인되지 않았다(학술 일반문헌만 반환). 소재상 mTG 가교의 잠재 응용 여지는 있으나 현재 사업·연구·특허 어디에도 접점이 없어 무관으로 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "HAN"
+  },
+  {
+    "company": "한스바이오메드 (Hans Biomed Corp.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-HAN-017",
+      "EV-HAN-001"
+    ],
+    "rationale": "한스바이오메드는 인체조직 이식재·에스테틱 의료기기 기업으로 종양학 항체-약물 접합체(ADC) 파이프라인, 링커·페이로드 접합 기술, ADC용 mTG 공급이 전혀 없다. 'Hans Biomed ADC' 검색 결과는 모두 별개 기업인 중국 제약사 'Hansoh Pharma(翰森)'로, 한스바이오메드와 무관하다. 회사의 ADM(무세포진피)은 항체-약물 접합체 ADC와 무관한 동음이의 약어다. 완전 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "HAN"
+  },
+  {
+    "company": "휴메딕스 (Humedix Co., Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 55,
+    "supporting_evidence_ids": [
+      "EV-HUM-003",
+      "EV-HUM-004",
+      "EV-HUM-013"
+    ],
+    "rationale": "휴메딕스의 핵심 소재는 HA·PDRN이며 콜라겐 원료를 자체 생산하지 않는다. 다만 엘앤씨바이오와의 공급계약을 통해 콜라겐·ECM(hADM) 성분 스킨부스터 '엘라비에 리투오'를 상용화하고, 체내 콜라겐 생성을 자극하는 PLA 필러 '에스테필'의 국내 판권을 확보하는 등 콜라겐 응용 제품을 에스테틱 사업으로 유통·마케팅한다. 따라서 콜라겐 소재의 직접 생산/연구는 아니나 콜라겐 기반·콜라겐 유도 에스테틱 제품에 인접·응용 접점을 가진다.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "HUM"
+  },
+  {
+    "company": "휴메딕스 (Humedix Co., Ltd.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-HUM-005",
+      "EV-HUM-016"
+    ],
+    "rationale": "휴메딕스의 필러 가교는 BDDE/PEGDE 등 화학 가교제 기반(HiVE 공법)이며 미생물 트랜스글루타미나제(mTG)를 이용한 효소 가교나 mTG 관련 사업·특허·논문이 확인되지 않았다. 국문·영문 다중 검색에서도 휴메딕스와 mTG의 접점 근거가 전무하여 무관으로 판정한다.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "HUM"
+  },
+  {
+    "company": "휴메딕스 (Humedix Co., Ltd.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 15,
+    "supporting_evidence_ids": [
+      "EV-HUM-015"
+    ],
+    "rationale": "휴메딕스는 자체 ADC(항체약물접합체) 파이프라인·링커·접합기술이 없다. 다만 같은 휴온스그룹 계열의 별도 법인 휴온스랩이 재조합 히알루로니다제 SC 플랫폼 '하이디퓨즈'로 항체·ADC를 피하주사 제형으로 전환하는 전임상을 진행하는 그룹 차원의 간접 인접성이 존재한다. 이는 휴메딕스 사업이 아니며(하이디퓨즈도 ADC 자체가 아닌 SC 전환 보조제) 휴메딕스 개별 기업 기준으로는 ADC 무관으로 판정한다.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "HUM"
+  },
+  {
+    "company": "Integra LifeSciences Holdings Corporation",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 96,
+    "supporting_evidence_ids": [
+      "EV-INT-001",
+      "EV-INT-002",
+      "EV-INT-003",
+      "EV-INT-004",
+      "EV-INT-005",
+      "EV-INT-006",
+      "EV-INT-007",
+      "EV-INT-009"
+    ],
+    "rationale": "콜라겐은 Integra의 핵심 사업·기술 플랫폼이다. 소 1형 콜라겐이 Integra Dermal Regeneration Template, DuraGen, NeuraGen 등 전 제품군의 기본 원료이며 누적 1,200만 명 이상 이식. 콜라겐-GAG 가교 매트릭스는 자사 특허(US6969523B1)로 보호되고, SurgiMend·DuraSorb 등 콜라겐 기반 신제품이 계속 규제 진행 중. 창상·경막·신경 조직재생 의료기기 대표기업으로 콜라겐 소재 응용의 직접사업 최상 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "INT"
+  },
+  {
+    "company": "Integra LifeSciences Holdings Corporation",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 12,
+    "supporting_evidence_ids": [
+      "EV-INT-005",
+      "EV-INT-006",
+      "EV-INT-012"
+    ],
+    "rationale": "Integra는 콜라겐 가교(crosslinking)를 핵심 공정으로 수행하나, 자사 특허·제품 문서상 가교 방식은 글루타르알데히드 등 화학적 가교이며 미생물 트랜스글루타미나제(mTG) 같은 효소 가교를 사용한다는 근거가 없다. mTG는 1형 콜라겐 가교에 쓰일 수 있는 이론적 대체 기술이라는 개념적 인접성만 존재할 뿐, Integra의 채택·공급·연구 근거는 반복 검색에도 확인되지 않아 무관(하)로 판정. 콜라겐 가교라는 공통 도메인 때문에 완전 0은 아니나 실질 접점 없음.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "INT"
+  },
+  {
+    "company": "Integra LifeSciences Holdings Corporation",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-INT-012"
+    ],
+    "rationale": "Integra는 신경외과·ENT·조직재생 의료기기 기업으로 종양학 항체-약물 접합체(ADC) 파이프라인, 링커·접합 기술, mTG-ADC 공급 등 어떠한 접점도 없다. 국·영문 반복 검색에서 Integra와 ADC를 연결하는 근거가 전무하여 무관(하)로 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "INT"
+  },
+  {
+    "company": "주식회사 제테마 (Jetema Co., Ltd.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 8,
+    "supporting_evidence_ids": [
+      "EV-JET-012",
+      "EV-JET-015"
+    ],
+    "rationale": "제테마는 HA 필러·보툴리눔 톡신 미용 기업으로, 필러 가교는 BDDE 계열 화학가교(EV-JET-012)를 사용하며 미생물 트랜스글루타미나제(mTG) 효소가교 기술·공급·응용 근거가 전혀 없다. '제테마 트랜스글루타미나제/Jetema mTG' 국·영문 검색은 제테마와 무관한 일반 mTG 학술문헌만 반환(EV-JET-015). 젤라틴·콜라겐 mTG 가교 사업도 부재. 무관 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "JET"
+  },
+  {
+    "company": "주식회사 제테마 (Jetema Co., Ltd.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-JET-007",
+      "EV-JET-015"
+    ],
+    "rationale": "제테마는 톡신·필러·스킨부스터 중심의 미용/재생의학 기업으로 자체 ADC(항체-약물 접합체) 파이프라인, 항체·링커·페이로드 접합기술, ADC용 mTG 공급이 전혀 확인되지 않는다(EV-JET-015). R&D는 보툴리눔 톡신(A형/E형)과 필러에 집중(EV-JET-007). 스킨부스터 아디떼의 hADM(무세포동종진피=ADM)은 콜라겐 진피기질로 종양학 ADC와 무관한 별개 개념임에 유의. 무관 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "JET"
+  },
+  {
+    "company": "주식회사 제테마 (Jetema Co., Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 60,
+    "supporting_evidence_ids": [
+      "EV-JET-003",
+      "EV-JET-004",
+      "EV-JET-005",
+      "EV-JET-010",
+      "EV-JET-011",
+      "EV-JET-012"
+    ],
+    "rationale": "제테마 핵심사업은 HA 필러·보툴리눔 톡신이라 콜라겐 소재 자체 생산은 아니지만, 콜라겐 접점이 다수 존재한다: (1) PLLA 스킨부스터 '에꼴라S'로 자가 콜라겐 생성 유도(EV-JET-003, EV-JET-010), (2) 콜라겐·엘라스틴·HA를 함유한 무세포동종진피(hADM) ECM 스킨부스터 '아디떼'를 출시·재생의학 확장(EV-JET-004, EV-JET-011) — 단 아디떼 원 개발/특허는 메드파크이고 제테마는 판매·포트폴리오 파트너(EV-JET-005), (3) 생분해성 고분자(PLLA/PCL계) 나노입자 필러 특허(WO2025080084A1, EV-JET-012). 즉 콜라겐 자극·콜라겐 함유 ECM 공급이라는 응용 영역에 실질적으로 진입해 있으나 콜라겐 원료를 직접 제조하지는 않으므로 '인접·응용/중'으로 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "JET"
+  },
+  {
+    "company": "Johnson & Johnson MedTech (Ethicon)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 90,
+    "supporting_evidence_ids": [
+      "EV-JNJ-003",
+      "EV-JNJ-004",
+      "EV-JNJ-005",
+      "EV-JNJ-002"
+    ],
+    "rationale": "Ethicon biosurgery는 콜라겐/젤라틴 소재 지혈 의료기기를 직접 판매한다. INSTAT MCH는 미세섬유상 콜라겐 지혈제(콜라겐 직접), SURGIFOAM(가교 돼지 젤라틴 스펀지)과 SURGIFLO(젤라틴+트롬빈 매트릭스)는 젤라틴(콜라겐 유도체) 기반이다. 콜라겐/젤라틴 소재·응용에 명확히 직접 사업으로 연관. (단 SURGICEL 계열은 ORC로 콜라겐 아님.)",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "JNJ"
+  },
+  {
+    "company": "Johnson & Johnson (Innovative Medicine 부문)",
+    "item": "ADC",
+    "relevance_type": "직접연구",
+    "relevance_level": "상",
+    "relevance_score": 85,
+    "supporting_evidence_ids": [
+      "EV-JNJ-008",
+      "EV-JNJ-009"
+    ],
+    "rationale": "J&J는 2024년 Ambrx($2B) 인수로 차세대 ADC 플랫폼(비천연 아미노산 부위특이 접합)과 임상 파이프라인 ARX517(PSMA)·ARX788(HER2)·ARX305(CD70)을 확보, 자체 ADC를 직접 연구개발한다. 다만 이는 배정 기업인 MedTech/Ethicon이 아니라 모회사 J&J의 Innovative Medicine(제약) 부문 사업이며, 접합 화학은 옥심 기반으로 mTG를 사용하지 않는다.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "JNJ"
+  },
+  {
+    "company": "Johnson & Johnson MedTech (Ethicon)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 12,
+    "supporting_evidence_ids": [
+      "EV-JNJ-010",
+      "EV-JNJ-012",
+      "EV-JNJ-009"
+    ],
+    "rationale": "J&J/Ethicon이 자사 제품·연구에서 미생물 트랜스글루타미나제(mTG)를 가교제나 ADC 접합에 사용한다는 근거는 확인되지 않았다. mTG+젤라틴 지혈 특허군은 경쟁사 Lifebond/Bard Shannon(BD) 소유이고, J&J의 젤라틴 제품(Surgifoam 등)은 mTG 가교 근거가 없으며, J&J ADC(Ambrx)는 옥심/비천연아미노산 접합으로 mTG를 쓰지 않는다. 따라서 무관으로 판정하되, mTG-젤라틴 가교 기술이 Ethicon과 동일한 지혈제 시장(경쟁사 Lifebond)에 존재한다는 점을 정직한 갭으로 기록.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "JNJ"
+  },
+  {
+    "company": "Keenova Therapeutics plc (구 Mallinckrodt)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 88,
+    "supporting_evidence_ids": [
+      "EV-KEE-003",
+      "EV-KEE-004",
+      "EV-KEE-005",
+      "EV-KEE-010"
+    ],
+    "rationale": "핵심 상용 제품 StrataGraft은 정제된 제I형(뮤린) 콜라겐 하이드로겔 진피 매트릭스를 소재로 하는 FDA 승인 생체공학 인공피부다. 또 다른 포트폴리오 제품 XIAFLEX는 제I·III형 콜라겐을 분해하는 콜라게나제 생물의약품이다. 콜라겐 매트릭스 인공피부 IP도 보유. 콜라겐 소재·응용에 직접적으로 관여하는 직접사업으로 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "KEE"
+  },
+  {
+    "company": "Keenova Therapeutics plc (구 Mallinckrodt)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 12,
+    "supporting_evidence_ids": [
+      "EV-KEE-004",
+      "EV-KEE-012"
+    ],
+    "rationale": "StrataGraft은 콜라겐 스캐폴드를 사용하나, 그 콜라겐 매트릭스는 정제 제I형 콜라겐과 세포 자가합성 ECM 기반이며 미생물 트랜스글루타미나제(mTG) 효소 가교를 사용한다는 근거가 없다. mTG-콜라겐 가교는 학계 일반 문헌에만 존재할 뿐 Keenova/Stratatech와의 연결이 검색되지 않음. 개념적 인접성(콜라겐 스캐폴드 분야)은 있으나 실제 접점 무 → 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "KEE"
+  },
+  {
+    "company": "Keenova Therapeutics plc (구 Mallinckrodt)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-KEE-009",
+      "EV-KEE-012"
+    ],
+    "rationale": "Keenova는 희귀·미충족 질환용 브랜드 치료제(류마티스·안과·신장·호흡기·신경·비뇨기·정형외과 등)에 집중하며 종양학 ADC 파이프라인이나 mTG 기반 부위특이 접합 기술 보유 근거가 없다. 항체-약물 접합체와 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "KEE"
+  },
+  {
+    "company": "엘앤씨바이오 (L&C Bio Co., Ltd., 290650)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 94,
+    "supporting_evidence_ids": [
+      "EV-LNC-001",
+      "EV-LNC-003",
+      "EV-LNC-004",
+      "EV-LNC-006",
+      "EV-LNC-008",
+      "EV-LNC-009"
+    ],
+    "rationale": "엘앤씨바이오의 전 사업·연구 포트폴리오가 콜라겐 기반 세포외기질(ECM) 이식재다. 주력 무세포진피 메가덤(콜라겐·엘라스틴 ECM), ECM 스킨부스터 리투오, 연골재생재 메가카티, 미세화 진피 주입재 메가필이 모두 인체 유래 콜라겐/ECM 소재이며, 콜라겐 보존 초미세 ADM 제조 특허·탈세포 연골 페이스트 논문 등 R&D·IP도 콜라겐 매트릭스 중심. 콜라겐 소재의 직접 사업·연구 주체로 연관성 최상.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "LNC"
+  },
+  {
+    "company": "엘앤씨바이오 (L&C Bio Co., Ltd., 290650)",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 20,
+    "supporting_evidence_ids": [
+      "EV-LNC-006",
+      "EV-LNC-011",
+      "EV-LNC-017"
+    ],
+    "rationale": "엘앤씨바이오는 콜라겐/ECM 가교가 핵심인 조직재생 소재를 다루나, 실제 채택 가교 기술은 히알루론산-CMC 다당류 가교, E-beam 방사선, 초저온 분쇄 등 물리·화학적 방식이다. 미생물 트랜스글루타미나제(mTG) 효소 가교의 제품·공정·특허·논문 채택 근거는 국문·영문(transglutaminase/TGase) 다중 검색에서 발견되지 않았다. '콜라겐 가교'라는 분야 일반 인접성만 인정되어 연관도 '하'.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "LNC"
+  },
+  {
+    "company": "엘앤씨바이오 (L&C Bio Co., Ltd., 290650)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 4,
+    "supporting_evidence_ids": [
+      "EV-LNC-004",
+      "EV-LNC-005"
+    ],
+    "rationale": "엘앤씨바이오는 인체조직 기반 재생의료 이식재 기업으로, 제약 자회사 엘앤씨메디케어도 정형외과·신경외과 전문의약품(ETC)·제네릭 유통 및 100여 개 허가권 중심이다. 항체-약물 접합체(ADC) 파이프라인, 링커·부위특이적 접합 기술, ADC용 mTG 공급 접점이 다중 검색(국문·영문)에서 전혀 확인되지 않았다. 종양학 ADC 모달리티와 무관으로 정직하게 판정. (주의: 회사의 ADM=무세포진피는 ADC와 무관한 별개 개념)",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "LNC"
+  },
+  {
+    "company": "Medtronic plc",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 8,
+    "supporting_evidence_ids": [
+      "EV-MDT-002",
+      "EV-MDT-003",
+      "EV-MDT-006",
+      "EV-MDT-010"
+    ],
+    "rationale": "Medtronic의 지혈제/실런트(Veriset, DuraSeal, TissuePatch)는 산화셀룰로오스·PEG 등 비동물 합성 소재 기반으로 트랜스글루타미나제 가교를 사용하지 않는다. 젤라틴-mTG 지혈 특허 패밀리는 BD/Lifebond 소유이며 Medtronic 소유가 아니다. mTG 공급·응용·자체 사용 근거가 전혀 확인되지 않아 무관으로 판정한다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "MDT"
+  },
+  {
+    "company": "Medtronic plc",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-MDT-009"
+    ],
+    "rationale": "Medtronic은 의료기기 기업으로 항체-약물 접합체 파이프라인, 링커·페이로드·부위특이적 접합 기술, mTG 기반 ADC 접합 공급 사업이 없다. ADC 종양학 모달리티와 접점이 없어 명백히 무관이다.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "MDT"
+  },
+  {
+    "company": "Medtronic plc",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 52,
+    "supporting_evidence_ids": [
+      "EV-MDT-004",
+      "EV-MDT-002",
+      "EV-MDT-003"
+    ],
+    "rationale": "배정된 Surgical 지혈제/실런트 포트폴리오 자체는 합성(비콜라겐) 소재로, 이 영역에서는 콜라겐 연관이 없다(임무 브리핑의 'Veriset=콜라겐' 가정은 오류로 확인). 다만 Medtronic은 척추/정형 사업의 INFUSE Bone Graft에서 흡수성 콜라겐 스펀지(ACS)를 rhBMP-2 담체로 사용하는 콜라겐 함유 의료기기를 시판하므로, 기업 차원의 콜라겐 응용은 실재한다. 콜라겐을 담체/스캐폴드로 조달·사용하는 인접·응용 수준으로 판정한다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "MDT"
+  },
+  {
+    "company": "Mission Barns, Inc.",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 15,
+    "supporting_evidence_ids": [
+      "EV-MIS-003",
+      "EV-MIS-004",
+      "EV-MIS-005"
+    ],
+    "rationale": "Mission Barns는 부착성 세포 + 식용 스캐폴드 기반 배양 지방 기업으로 mTG(미생물 트랜스글루타미나제)를 생산·판매하거나 스캐폴드 가교에 사용한다는 근거가 없다. 회사 핵심 특허(US20230100306A1)는 세포 부착 코팅으로 fibronectin·gelatin·collagen을 명시하나 transglutaminase/가교 화학은 전혀 언급하지 않는다. 배양육 업계 일반적으로 젤라틴-mTG 가교 스캐폴드가 쓰이지만, 이는 산업 일반론이며 Mission Barns 특정 채택 근거는 'Mission Barns transglutaminase/binder/crosslink' 검색으로도 확인되지 않았다(honest_gap). 따라서 mTG는 무관, 연관도 하.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "MIS"
+  },
+  {
+    "company": "Mission Barns, Inc.",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [],
+    "rationale": "Mission Barns는 식품(배양 돼지 지방·미트볼·베이컨) 기업으로 항체·링커·페이로드·종양학 모달리티와 전혀 무관하다. '\"Mission Barns\" antibody drug conjugate/oncology/pharmaceutical' 검색은 회사와 무관한 일반 ADC 학술문헌만 반환했다. 자체 ADC 파이프라인·부위특이적 접합기술·ADC용 mTG 공급 등 어떤 접점도 없다. 무관, 연관도 하.",
+    "verified_grade": null,
+    "rejected_evidence": [],
+    "_code": "MIS"
+  },
+  {
+    "company": "Mission Barns, Inc.",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 32,
+    "supporting_evidence_ids": [
+      "EV-MIS-003",
+      "EV-MIS-005"
+    ],
+    "rationale": "Mission Barns는 콜라겐/젤라틴을 제조·판매하지 않으나, 배양 지방을 위해 부착성 세포를 식용 스캐폴드에 부착·조직화하며(EV-MIS-003), 회사 바이오리액터 특허(US20230100306A1)가 세포 부착 코팅 옵션으로 gelatin·collagen·fibronectin을 명시한다(EV-MIS-005). 다만 콜라겐/젤라틴은 pectin·chitosan 등과 함께 나열된 여러 선택지 중 하나의 코팅일 뿐, 핵심 소재나 제품이 아니고 전용 채택도 확정되지 않았다. 배양육 스캐폴드라는 콜라겐 응용 도메인에 인접하나 약한 연결이므로 인접·응용, 연관도 하.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "MIS"
+  },
+  {
+    "company": "MiMedx Group, Inc.",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 12,
+    "supporting_evidence_ids": [
+      "EV-MMX-004",
+      "EV-MMX-007"
+    ],
+    "rationale": "MiMedx는 CollaFix 플랫폼에서 콜라겐 섬유를 가교(crosslink)하지만, 그 가교제는 미생물 트랜스글루타미나제(mTG)가 아니라 천연 폴리페놀 NDGA(nordihydroguaiaretic acid)다(EV-MMX-007). dHACM allograft 처리(PURION)나 어떤 제품에서도 mTG(효소적 가교) 사용·공급·연구 증거가 발견되지 않았다. '콜라겐 가교'라는 개념적 인접성은 있으나 효소(mTG) 접점은 없어 무관으로 판정한다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "MMX"
+  },
+  {
+    "company": "MiMedx Group, Inc.",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 4,
+    "supporting_evidence_ids": [
+      "EV-MMX-012"
+    ],
+    "rationale": "MiMedx는 태반·양막 조직 동종이식 기반 재생의학 기업으로 종양학 항체-약물 접합체(ADC) 파이프라인, 링커·페이로드 접합 기술, ADC용 mTG 효소 공급이 전혀 확인되지 않는다(EV-MMX-012). 국문/영문 다중 검색에서도 MiMedx-ADC 접점이 없어 명백히 무관.",
+    "verified_grade": "하",
+    "rejected_evidence": [],
+    "_code": "MMX"
+  },
+  {
+    "company": "MiMedx Group, Inc.",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 86,
+    "supporting_evidence_ids": [
+      "EV-MMX-001",
+      "EV-MMX-004",
+      "EV-MMX-005",
+      "EV-MMX-006",
+      "EV-MMX-008"
+    ],
+    "rationale": "MiMedx의 핵심 상업제품인 태반/양막 dHACM allograft(EpiFix·AmnioFix 등)는 콜라겐 I·III·IV·V·VI형이 풍부한 콜라겐 기반 세포외기질(ECM)이며(EV-MMX-005), 창상·조직재생 의료기기로 콜라겐 아이템 정의(콜라겐 매트릭스·조직재생 기기)에 직접 부합한다. 나아가 CollaFix 플랫폼은 정제 가용성 콜라겐을 습식방사·가교해 만든 전용 콜라겐 섬유 근골격 수복재로(EV-MMX-004), 다수 콜라겐 섬유 특허군(EV-MMX-006)과 Shriners/USF 라이선스(EV-MMX-008)를 보유한다. 콜라겐이 사업·연구의 소재 근간이므로 직접사업, 연관도 상. (단 원료 콜라겐 판매업은 아니고 콜라겐 기반 조직/디바이스 응용이며, CollaFix는 현재 상업 우선순위가 낮아 만점보다는 소폭 하향.)",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "MMX"
+  },
+  {
+    "company": "Mosa Meat B.V.",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 20,
+    "supporting_evidence_ids": [
+      "EV-MOS-004",
+      "EV-MOS-005",
+      "EV-MOS-006",
+      "EV-MOS-008"
+    ],
+    "rationale": "배양육 조직화/스캐폴드 가교는 산업 전반적으로 mTG가 쓰이는 응용 영역이라 도메인 인접성은 존재한다. 그러나 Mosa Meat의 공개된 특허·기술은 알지네이트를 칼슘 이온 가교와 카보디이미드(EDC) 화학으로 가교하며, mTG(효소 가교) 사용 근거는 전무하다. 'Mosa Meat transglutaminase' 검색에서도 자체 사용 사례가 없어 실질 접점은 낮음(하).",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "MOS"
+  },
+  {
+    "company": "Mosa Meat B.V.",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 2,
+    "supporting_evidence_ids": [
+      "EV-MOS-001",
+      "EV-MOS-003",
+      "EV-MOS-012"
+    ],
+    "rationale": "Mosa Meat는 배양 소고기(식품) 전문 푸드테크 기업으로 종양학·항체·링커·페이로드 등 ADC(항체-약물 접합체) 파이프라인이나 접합기술이 전혀 없다. mTG를 ADC 부위특이 접합에 공급/응용하는 정황도 없다(자체적으로 mTG조차 미사용). §0 PRIME DIRECTIVE에 따라 정직하게 무관 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "MOS"
+  },
+  {
+    "company": "Mosa Meat B.V.",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 25,
+    "supporting_evidence_ids": [
+      "EV-MOS-004",
+      "EV-MOS-005",
+      "EV-MOS-006",
+      "EV-MOS-007"
+    ],
+    "rationale": "Mosa Meat는 배양육 식용 스캐폴드/구조화 분야에 있어 콜라겐·젤라틴이 흔히 쓰이는 영역과 인접하고, 콜라겐 세포접착 모티프를 모방한 RGD 펩타이드를 알지네이트에 접합해 사용한다. 그러나 특허 WO2021158105A1에서 동물유래 콜라겐 사용을 배양육 원칙과 상충한다며 명시적으로 회피하고, 스캐폴드도 알지네이트/피브린 계열이다. 따라서 콜라겐 소재의 직접 사업/연구 접점은 없고 인접·회피에 가까워 관련성 낮음(하). 콜라겐·젤라틴 원료 공급 관점의 잠재 고객성은 낮게 평가됨.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "MOS"
+  },
+  {
+    "company": "Nitta Gelatin Inc.",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 95,
+    "supporting_evidence_ids": [
+      "EV-NIT-001",
+      "EV-NIT-002",
+      "EV-NIT-003",
+      "EV-NIT-004",
+      "EV-NIT-005",
+      "EV-NIT-006",
+      "EV-NIT-007",
+      "EV-NIT-008",
+      "EV-NIT-009"
+    ],
+    "rationale": "콜라겐·젤라틴이 회사의 핵심 사업 그 자체. 식품·제약용 젤라틴/콜라겐 펩타이드(Wellnex, Replenwell), 세포배양용 아텔로콜라겐(Cellmatrix), 저엔도톡신 생의료 콜라겐/젤라틴(beMatrix, iPS-RPE 임상 사용), 콜라겐 펩타이드 기능성 특허(US8227424B2/US8410062B2), 인도 콜라겐 펩타이드 증설까지 전 밸류체인을 보유. 최고 수준의 직접 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "NIT"
+  },
+  {
+    "company": "Nitta Gelatin Inc.",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 45,
+    "supporting_evidence_ids": [
+      "EV-NIT-005",
+      "EV-NIT-012",
+      "EV-NIT-013"
+    ],
+    "rationale": "Nitta는 mTG(미생물 트랜스글루타미나제) 효소를 제조·판매하지 않는다. 다만 Nitta의 젤라틴/콜라겐이 mTG 가교 연구의 기질로 반복 사용(조직공학 스캐폴드·GelMA 3D 프린팅·근육 배양 하이드로겔)되며, 배양육 스캐폴드 응용에서도 mTG 가교 접점이 존재한다. 즉 효소의 '기판 공급자'로서 공급망·인접 응용 관계이나 mTG 기술 자체의 주체는 아님 → 중.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "NIT"
+  },
+  {
+    "company": "Nitta Gelatin Inc.",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [
+      "EV-NIT-014"
+    ],
+    "rationale": "Nitta는 항체-약물 접합체(ADC) 파이프라인·링커/접합 기술·관련 특허가 전무. mTG가 ADC 부위특이 접합에 쓰이지만 이는 Ajinomoto 등 제3자 효소 기반이며 Nitta의 젤라틴/콜라겐 사업과 무관. 'Nitta Gelatin + ADC/immunoconjugate/site-specific conjugation' 검색 결과 0건으로 무관 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "NIT"
+  },
+  {
+    "company": "Nexture Bio, Inc. (formerly Matrix Meats / Matrix Food Technologies)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 55,
+    "supporting_evidence_ids": [
+      "EV-NXT-005",
+      "EV-NXT-007",
+      "EV-NXT-013",
+      "EV-NXT-002"
+    ],
+    "rationale": "회사의 핵심 기술은 살아있는 조직 ECM(콜라겐이 주성분)을 모사하는 전기방사 나노섬유 스캐폴드이며, 전신 특허(US2020/0245658)에 콜라겐·젤라틴이 전기방사 소재로 명시됨 → 콜라겐 소재/응용 도메인과 기술적으로 인접. 다만 상용 제품 전략은 '동물성분 무함유'로 동물 유래 콜라겐/젤라틴을 식물 다당류(완두·대두)로 대체하는 방향(콜라겐 대체재 성격)이라 '직접사업'은 아님. 종합하여 인접·응용 중.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "NXT"
+  },
+  {
+    "company": "Nexture Bio, Inc.",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 15,
+    "supporting_evidence_ids": [
+      "EV-NXT-014",
+      "EV-NXT-007",
+      "EV-NXT-013"
+    ],
+    "rationale": "회사/전신이 미생물 트랜스글루타미나제를 스캐폴드 가교에 사용한다는 직접 증거 없음. 전신 특허에도 crosslinking/transglutaminase 언급 없고 공정은 전기방사임. 학계에서 젤라틴 스캐폴드의 mTG 가교가 일반적이라 이론적 인접 가능성은 있으나(따라서 완전 0은 아님), 회사 특정 근거 부재로 무관·하로 판정. honest_gap은 EV-NXT-014 참조.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "NXT"
+  },
+  {
+    "company": "Nexture Bio, Inc.",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-NXT-015"
+    ],
+    "rationale": "회사는 배양육·세포배양용 스캐폴드/마이크로캐리어 소재 기업으로 종양학 ADC(항체-약물 접합체) 파이프라인·링커·접합기술·mTG 공급과 접점 전무. 'Nexture Bio' ADC 검색 결과는 전부 별개 상장사 NextCure로 혼동일 뿐임. 무관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "NXT"
+  },
+  {
+    "company": "Organogenesis Holdings Inc.",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 92,
+    "supporting_evidence_ids": [
+      "EV-ORG-003",
+      "EV-ORG-004",
+      "EV-ORG-008",
+      "EV-ORG-001",
+      "EV-ORG-002"
+    ],
+    "rationale": "콜라겐은 Organogenesis의 핵심 소재다. Apligraf는 소 I형 콜라겐 격자를 진피 스캐폴드로, PuraPly AM은 정제 가교 돼지유래 콜라겐 매트릭스를 주소재로 사용하며(FDA 승인), 전기처리 콜라겐 등 콜라겐 특허를 다수 보유한다. 콜라겐 기반 창상·조직재생 의료기기가 연 5.6억 달러 매출의 주력이므로 직접사업·연관도 상.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ORG"
+  },
+  {
+    "company": "Organogenesis Holdings Inc.",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 22,
+    "supporting_evidence_ids": [
+      "EV-ORG-004",
+      "EV-ORG-008",
+      "EV-ORG-009"
+    ],
+    "rationale": "mTG(미생물 트랜스글루타미나제)는 콜라겐 가교의 공지 기법이고 Organogenesis는 '가교 콜라겐 매트릭스'(PuraPly AM)를 제조하므로 기술적 인접성은 존재한다. 그러나 PuraPly는 'native cross-linked'로 표기되고, Organogenesis 명의 mTG 특허나 mTG 효소 사용을 명시한 증거는 확인되지 않았다(honest_gap). 따라서 특정 효소(mTG) 사용 근거 부재로 연관도 하.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ORG"
+  },
+  {
+    "company": "Organogenesis Holdings Inc.",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-ORG-011",
+      "EV-ORG-001"
+    ],
+    "rationale": "Organogenesis는 재생의학(창상치유·수술/스포츠의학) 기업으로 종양학 항체-약물 접합체 파이프라인, 링커·페이로드·부위특이적 접합 기술, mTG 기반 ADC 접합 사업이 전무하다. 검색 결과 ADC 관련 활동 음성 확인. 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ORG"
+  },
+  {
+    "company": "RegenHU (REGENHU AG)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 55,
+    "supporting_evidence_ids": [
+      "EV-RGH-003",
+      "EV-RGH-004",
+      "EV-RGH-005",
+      "EV-RGH-009"
+    ],
+    "rationale": "RegenHU는 콜라겐 원료 생산자가 아니라, 콜라겐·젤라틴 기반 바이오잉크를 프린팅하는 3D 바이오프린터·소프트웨어·공정을 공급하는 인에이블링 플랫폼 기업이다. 자사 브랜드 BioInk는 '화학적 정의 하이드로겔'로 콜라겐 명시가 확인되지 않고 OsteoInk는 인산칼슘이지만, 자사 장비가 콜라겐 바이오잉크(피부·심장·HAP/콜라겐 골 스캐폴드) 프린팅에 광범위하게 사용된다. 따라서 콜라겐 소재 응용 생태계에 인접·응용으로 연관(중).",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "RGH"
+  },
+  {
+    "company": "RegenHU (REGENHU AG)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 8,
+    "supporting_evidence_ids": [
+      "EV-RGH-005",
+      "EV-RGH-012"
+    ],
+    "rationale": "RegenHU의 바이오프린팅 가교는 광가교·열 기반으로 기술되며, 미생물 트랜스글루타미나제(mTG) 사용·공급·연구 접점은 확인되지 않는다. 'RegenHU transglutaminase/crosslinking bioink' 검색 결과 자사 관련 히트가 없었고, 관련 mTG 문헌은 별개 기업 Regeneron 소관이었다. 무관(하).",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "RGH"
+  },
+  {
+    "company": "RegenHU (REGENHU AG)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-RGH-012"
+    ],
+    "rationale": "RegenHU는 종양학 항체-약물 접합체(ADC) 파이프라인·링커/접합기술·mTG 공급 어느 것도 보유하지 않는다. 검색상 mTG-ADC 접합 문헌은 유사 상호의 별개 기업 Regeneron에서 나온 것으로 RegenHU와 무관. 상호 혼동 주의. 무관(하).",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "RGH"
+  },
+  {
+    "company": "Regenity Biosciences (구 Collagen Matrix, Inc.)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 96,
+    "supporting_evidence_ids": [
+      "EV-RGN-001",
+      "EV-RGN-002",
+      "EV-RGN-003",
+      "EV-RGN-004",
+      "EV-RGN-005",
+      "EV-RGN-006",
+      "EV-RGN-007",
+      "EV-RGN-012"
+    ],
+    "rationale": "회사의 원천이자 핵심 사업이 콜라겐 그 자체다. 1997년 'Collagen Matrix'로 설립, 콜라겐 기반 생분해성 재생 의료기기(치과 Matrixflex 가교 콜라겐 막, 반월판 RejuvaKnee 소 콜라겐 임플란트, 경막 DuraMatrix I/III형 콜라겐 막, 섬유상 콜라겐 창상 드레싱)를 개발·제조하고 OEM/CDM으로 공급한다. 특허 패밀리도 가교 콜라겐 막에 집중. 콜라겐 소재·의료기기 응용 아이템과 직접·최상 연관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "RGN"
+  },
+  {
+    "company": "Regenity Biosciences (구 Collagen Matrix, Inc.)",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 24,
+    "supporting_evidence_ids": [
+      "EV-RGN-004",
+      "EV-RGN-007",
+      "EV-RGN-008",
+      "EV-RGN-014"
+    ],
+    "rationale": "회사 핵심 제품이 '가교(crosslinked) 콜라겐 막'이라 mTG의 대표 응용(콜라겐/조직 가교)과 개념적으로 인접하다. 그러나 실제 확인된 가교 방식은 화학 가교제·환원당(리보스) 계열이며, 미생물 트랜스글루타미나제(mTG) 효소 가교를 사용한다는 근거는 다각도 검색에도 확인되지 않았다(EV-RGN-014 honest_gap). 따라서 '가교 콜라겐'이라는 응용 인접성만 인정, 연관 수준은 '하'.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "RGN"
+  },
+  {
+    "company": "Regenity Biosciences (구 Collagen Matrix, Inc.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 2,
+    "supporting_evidence_ids": [
+      "EV-RGN-013"
+    ],
+    "rationale": "Regenity는 콜라겐·합성폴리머 기반 재생 의료기기(치과·정형·신경외과·창상) 전문 기업으로 종양학 항체-약물 접합체(ADC), 항체·링커·페이로드, site-specific bioconjugation, mTG 기반 ADC 접합 어느 것과도 사업·연구 접점이 확인되지 않았다. 전용 검색에서 회사 관련 결과 0건. 무관으로 정직 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "RGN"
+  },
+  {
+    "company": "로킷헬스케어 (ROKIT Healthcare, Inc.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 62,
+    "supporting_evidence_ids": [
+      "EV-ROK-002",
+      "EV-ROK-004",
+      "EV-ROK-005"
+    ],
+    "rationale": "로킷의 핵심 바이오잉크는 환자 자가지방 유래 탈세포 ECM(MA-ECM)으로 콜라겐이 풍부한 매트릭스이며, 연골 재생 산물도 콜라겐 리치로 명시된다. 콜라겐/ECM을 4D 바이오프린팅 재생치료의 핵심 소재로 응용하나, 콜라겐 원료 생산·판매 기업은 아니고 자가 ECM 내 성분으로 활용하는 형태라 '인접·응용/중'으로 판정. 학술적으로도 ECM 유래 콜라겐 바이오잉크와 정합(다만 해당 논문 로킷 저자소속은 미확인).",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "ROK"
+  },
+  {
+    "company": "로킷헬스케어 (ROKIT Healthcare, Inc.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 6,
+    "supporting_evidence_ids": [
+      "EV-ROK-009",
+      "EV-ROK-011",
+      "EV-ROK-013"
+    ],
+    "rationale": "로킷의 패치 제조 가교/고형화는 미생물 트랜스글루타미나제 효소가 아니라 '물리적 냉각(동결·고형화)' 공정 기반이며(美·中 특허 명시), 자가 ECM을 그대로 사용한다. 'Rokit + transglutaminase' 검색에서 로킷 자체 mTG 사용·특허 미발견. 콜라겐 가교 소재를 다루므로 이론적 인접 가능성은 있으나 실제 접점 근거 없음 → 무관/하.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "ROK"
+  },
+  {
+    "company": "로킷헬스케어 (ROKIT Healthcare, Inc.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-ROK-013"
+    ],
+    "rationale": "로킷은 재생의학·바이오프린팅 기업으로 항체-약물 접합체(항체+링커+페이로드) 종양학 파이프라인·링커/접합 기술·mTG 기반 부위특이 접합 공급 어느 것과도 접점이 확인되지 않는다. 4D 바이오프린팅으로 혈관화 암조직 모델을 제작한 사례는 치료제 스크리닝용 조직모델일 뿐 ADC 모달리티와 무관 → 무관/하.",
+    "verified_grade": "하",
+    "rejected_evidence": [],
+    "_code": "ROK"
+  },
+  {
+    "company": "Rousselot (Darling Ingredients Inc. 브랜드)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 98,
+    "supporting_evidence_ids": [
+      "EV-ROU-001",
+      "EV-ROU-002",
+      "EV-ROU-003",
+      "EV-ROU-004",
+      "EV-ROU-005",
+      "EV-ROU-006",
+      "EV-ROU-012"
+    ],
+    "rationale": "Rousselot은 세계 콜라겐/젤라틴 약 30%를 생산하는 최대급 공급사로 Peptan 콜라겐 펩타이드, Nextida GC, 그리고 의료용 초순수 젤라틴/콜라겐(X-Pure GelMA, GelDAT, 세계 최초 GMP GelMA)을 보유. 콜라겐은 이 기업의 핵심 정체성으로 최고 수준 직접 연관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "ROU"
+  },
+  {
+    "company": "Rousselot (Darling Ingredients Inc. 브랜드)",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 55,
+    "supporting_evidence_ids": [
+      "EV-ROU-008",
+      "EV-ROU-005"
+    ],
+    "rationale": "Rousselot은 mTG(미생물 트랜스글루타미나제)를 직접 제조·공급하지 않으나, 다수 피어리뷰 연구가 Rousselot X-Pure 젤라틴/GelMA를 mTG로 가교해 3D 프린팅용 레올로지·기계강도를 조절함. 즉 Rousselot 소재는 mTG 가교의 대표적 기질(substrate)이며, 자사 GelDAT도 효소 가교를 명시. 소재-효소 응용 접점으로 인접·응용 중간 연관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "ROU"
+  },
+  {
+    "company": "Rousselot (Darling Ingredients Inc. 브랜드)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 5,
+    "supporting_evidence_ids": [],
+    "rationale": "Rousselot의 자체 ADC(항체-약물 접합체) 파이프라인·링커/접합기술·mTG의 ADC 부위특이 접합 공급 정황은 확인되지 않음. 검색 시 등장한 'Rousselot research group'의 항체 광표지 연구는 동명이인 학술그룹으로 본 기업과 무관. 종양학 ADC 모달리티와 접점 없음 — 무관.",
+    "verified_grade": null,
+    "rejected_evidence": [],
+    "_code": "ROU"
+  },
+  {
+    "company": "씨위드 (SeaWith, Inc.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 12,
+    "supporting_evidence_ids": [
+      "EV-SEA-004",
+      "EV-SEA-007",
+      "EV-SEA-011"
+    ],
+    "rationale": "씨위드의 핵심 스캐폴드 ACe-gel은 갈조류 유래 알지네이트-셀룰로오스 하이드로겔로, 알지네이트는 통상 칼슘 이온성 가교로 겔화되며 미생물 트랜스글루타미나제(mTG) 효소가교 근거가 없다. 논문 초록·홈페이지·특허 소개 어디에도 transglutaminase/트랜스글루타미나제 언급이 없다. honest_gap: 'SeaWith transglutaminase', '씨위드 트랜스글루타미나제', 'ACe-gel crosslinking' 검색과 Food Hydrocolloids 초록 확인, KIPRIS 출원인 검색 시도했으나(방화벽 차단) mTG 사용 정황을 전혀 찾지 못함. 따라서 mTG와 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "SEA"
+  },
+  {
+    "company": "씨위드 (SeaWith, Inc.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-SEA-001",
+      "EV-SEA-004"
+    ],
+    "rationale": "씨위드는 해조류 스캐폴드·미세조류 배양액 기반 배양육(식품) 기업으로, 종양학 모달리티인 항체-약물 접합체(ADC)와는 사업·연구·기술 어느 축으로도 접점이 없다. 자체 ADC 파이프라인, 링커·페이로드 접합기술, ADC용 mTG 효소 공급 모두 확인되지 않는다. 완전 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "SEA"
+  },
+  {
+    "company": "씨위드 (SeaWith, Inc.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 45,
+    "supporting_evidence_ids": [
+      "EV-SEA-004",
+      "EV-SEA-006",
+      "EV-SEA-007",
+      "EV-SEA-002"
+    ],
+    "rationale": "씨위드는 배양육 3D 스캐폴드 시장(콜라겐/젤라틴 기반 스캐폴드가 대표 소재군)에서 활동하나, 콜라겐을 사용하지 않고 오히려 이를 대체하는 갈조류 유래 알지네이트-셀룰로오스 'animal-free' 스캐폴드(ACe-gel)를 개발·B2B 공급한다. 즉 콜라겐 소재를 직접 생산·응용하는 것이 아니라 콜라겐 스캐폴드와 기능적으로 경쟁·대체하는 인접 포지션이다. 배양육 스캐폴드라는 동일 응용영역에 있어 연관 '중', 단 소재가 비(非)콜라겐이므로 직접사업/직접연구는 아님. self_confidence 높음(논문·다중 언론 교차확인).",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "SEA"
+  },
+  {
+    "company": "Smith+Nephew plc — Advanced Wound Management",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 92,
+    "supporting_evidence_ids": [
+      "EV-SNP-002",
+      "EV-SNP-003",
+      "EV-SNP-004",
+      "EV-SNP-005",
+      "EV-SNP-007",
+      "EV-SNP-008"
+    ],
+    "rationale": "S+N AWM은 콜라겐 소재 의료기기를 다수 직접 상용화한다: BIOSTEP 콜라겐 매트릭스 드레싱(±은), OASIS 돼지 SIS 콜라겐/ECM 매트릭스, REGENETEN 흡수성 소 콜라겐 생유도성 임플란트, 콜라게나제 SANTYL(콜라겐 표적 효소). 2019년 Osiris 인수로 피부대체재·재생의학(ECM/콜라겐 기반) 확장. 콜라겐/ORC 복합 창상드레싱 IP 지형에도 위치. 콜라겐이 창상·조직재생 제품의 핵심 소재로 직접사업에 해당하며 연관도 상.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "SNP"
+  },
+  {
+    "company": "Smith+Nephew plc — Advanced Wound Management",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 8,
+    "supporting_evidence_ids": [
+      "EV-SNP-012"
+    ],
+    "rationale": "S+N이 콜라겐 소재를 광범위하게 다루지만, 그 가교/제조에 mTG(미생물 트랜스글루타미나제)를 사용한다는 근거는 전혀 없다. 콜라겐/ORC 드레싱은 화학가교(예: EDC) 또는 천연 ECM(SIS·소 콜라겐) 방식이며, mTG 효소 생산·응용·공급 접점이 확인되지 않았다. 'Smith+Nephew transglutaminase' 등 검색은 S+N 무관 학술문헌만 반환. GELITA(젤라틴 mTG 가교)와 달리 S+N에는 mTG 응용 증거가 없어 무관 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "SNP"
+  },
+  {
+    "company": "Smith+Nephew plc — Advanced Wound Management",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-SNP-012"
+    ],
+    "rationale": "S+N은 창상관리·정형외과·스포츠의학 의료기기 기업으로 종양학 ADC(항체-약물 접합체) 모달리티와 무관하다. 자체 ADC 파이프라인, 링커·페이로드 접합기술, ADC용 mTG 효소 공급 등 어떤 접점도 조사에서 확인되지 않았다. 주의: 이 맥락의 ADC는 무세포진피(ADM)가 아니며, S+N의 ECM/콜라겐 매트릭스 제품과도 개념적으로 구분된다. 명시적 무관.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "SNP"
+  },
+  {
+    "company": "스페이스에프 (Space F Corp.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 48,
+    "supporting_evidence_ids": [
+      "EV-SPF-003",
+      "EV-SPF-007",
+      "EV-SPF-011"
+    ],
+    "rationale": "스페이스에프는 고기의 힘줄 역할을 하는 '가식성 지지체(edible scaffold)'를 자체 개발했고 롯데정밀화학과 고기능성 소재를 공동개발한다. 배양육 식용 스캐폴드는 콜라겐/젤라틴이 대표 소재군이며(input.yaml Collagen 정의에 '배양육 스캐폴드' 포함), 도메인 문헌은 콜라겐 지지체를 표준 소재로 다룬다. 다만 스페이스에프 지지체가 실제 콜라겐/젤라틴 조성인지는 공개자료로 미확인이어서 '직접사업'이 아닌 인접·응용, 연관도 '중'.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "SPF"
+  },
+  {
+    "company": "스페이스에프 (Space F Corp.)",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 18,
+    "supporting_evidence_ids": [
+      "EV-SPF-003",
+      "EV-SPF-011"
+    ],
+    "rationale": "배양육 식용 지지체를 미생물 트랜스글루타미나제(mTG)로 가교하는 것은 학계 공통 기법이나, 스페이스에프가 mTG를 채택했다는 직접 근거는 다중 검색(국문·영문, 특허 포함)에서 확인되지 않았다. 지지체 소재·가교제 공정이 비공개여서 도메인 인접성 차원의 약한 연관만 인정, 연관도 '하'.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "SPF"
+  },
+  {
+    "company": "스페이스에프 (Space F Corp.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 2,
+    "supporting_evidence_ids": [
+      "EV-SPF-001",
+      "EV-SPF-002",
+      "EV-SPF-003"
+    ],
+    "rationale": "스페이스에프는 식품(세포배양육) 기업으로, 항체-약물 접합체(ADC) 파이프라인·링커/부위특이적 접합기술·ADC용 mTG 공급 등 어떠한 종양학 접점도 검색에서 확인되지 않았다. 사업·연구 영역이 ADC와 전혀 겹치지 않아 무관으로 정직하게 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "SPF"
+  },
+  {
+    "company": "Steakholder Foods Ltd. (구 MeaTech 3D Ltd.)",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 30,
+    "supporting_evidence_ids": [
+      "EV-STK-005",
+      "EV-STK-008",
+      "EV-STK-004"
+    ],
+    "rationale": "Steakholder는 '가교된(crosslinked) 조직 층' 기반 텍스처 바이오잉크(생선 flaky, 특허 EV-STK-005/008)와 배양육 텍스처링을 다루는데, 이는 mTG(단백질 가교 효소)가 전형적으로 활용되는 응용영역과 인접한다. 그러나 회사가 실제로 microbial transglutaminase(mTG)를 사용/공급한다는 직접 근거는 확인되지 않았다. honest_gap: '\"Steakholder Foods\" transglutaminase', 'gelatin scaffold crosslinking bio-ink' 등으로 검색했으나 일반 학술 결과만 나오고 회사 특정 mTG 사용 언급은 없었다. 가교 방식(효소 vs 화학 vs 물리)이 공개되지 않아 '인접·응용/하'로 판정.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "STK"
+  },
+  {
+    "company": "Steakholder Foods Ltd. (구 MeaTech 3D Ltd.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 2,
+    "supporting_evidence_ids": [
+      "EV-STK-001",
+      "EV-STK-002",
+      "EV-STK-007"
+    ],
+    "rationale": "Steakholder Foods는 배양육·대체육 3D 바이오프린팅 식품기업으로 종양학·항체·의약품 파이프라인이 전무하다. honest_gap: '\"Steakholder Foods\" OR \"MeaTech\" antibody drug conjugate ADC pharmaceutical' 검색 결과 회사와 ADC의 연결점이 전혀 없었다. mTG를 ADC 부위특이적 접합에 공급하는 접점도 확인되지 않음. 명확히 무관으로 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "STK"
+  },
+  {
+    "company": "Steakholder Foods Ltd. (구 MeaTech 3D Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "하",
+    "relevance_score": 30,
+    "supporting_evidence_ids": [
+      "EV-STK-004",
+      "EV-STK-005",
+      "EV-STK-006"
+    ],
+    "rationale": "재조사 결과 Steakholder가 콜라겐/젤라틴을 자사 바이오잉크·스캐폴드 원료로 사용한다는 확증 없음(공식 자료상 식물성 블렌드+배양세포, 배합 비공개). 배양육 바이오잉크가 콜라겐/젤라틴의 전형 응용영역이라는 도메인 인접성만 존재 → 인접·응용/하로 하향.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "STK"
+  },
+  {
+    "company": "티센바이오팜 (TissenBioFarm Co., Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 63,
+    "supporting_evidence_ids": [
+      "EV-TBF-006",
+      "EV-TBF-002",
+      "EV-TBF-001"
+    ],
+    "rationale": "티센바이오팜의 배양육 식용 바이오잉크·스캐폴드 기초 원료로 콜라겐·젤라틴이 자사 특허(WO2023063468A1) 본문에 식용 가능 재료로 명시된다. 콜라겐/젤라틴을 조직 지지체(edible scaffold) 소재로 실제 활용하는 접점이 확인되어 인접·응용 연관 '중'. 다만 콜라겐이 상용 제품의 확정 단일 소재라는 근거나 콜라겐 원료 자체 사업은 미확인(알지네이트·아가로오스 등 복수 후보와 병렬 기재), 화장품 원료(T-NUTREX)도 배지/성장인자 기반이라 콜라겐 특정 근거 없음 → '상'은 아님.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "TBF"
+  },
+  {
+    "company": "티센바이오팜 (TissenBioFarm Co., Ltd.)",
+    "item": "mTG",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 58,
+    "supporting_evidence_ids": [
+      "EV-TBF-006",
+      "EV-TBF-007"
+    ],
+    "rationale": "트랜스글루타미나제(mTG)가 티센바이오팜 자사 특허 WO2023063468A1에서 젤라틴·콜라겐 등 식용 단백질 섬유의 가교제로 명시적으로 언급되며, KR102590675B1의 노즐 수용챔버 가교 공정과도 정합한다. 배양육 스캐폴드/바이오잉크 가교라는 실제 응용 접점이 자사 IP에 등장하므로 인접·응용 '중'. 다만 mTG를 특정·독점 채택했다는 상용 공정 확정 근거나 ADC용 mTG 공급 접점은 없어 '상'은 아님. 식품 분야 표준 효소이나 자사 특허 명기라는 점에서 동종 바이오프린팅사 대비 접점이 구체적.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "TBF"
+  },
+  {
+    "company": "티센바이오팜 (TissenBioFarm Co., Ltd.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 4,
+    "supporting_evidence_ids": [
+      "EV-TBF-014",
+      "EV-TBF-001"
+    ],
+    "rationale": "티센바이오팜은 배양육·식용 바이오잉크·세포배양 유래 화장품 원료 푸드테크 기업으로, 항체-약물 접합체(ADC) 파이프라인·링커/접합기술·ADC용 mTG 공급 접점이 국문·영문 다중 검색에서 전혀 확인되지 않았다. mTG를 다루더라도 식품 가교 용도이며 종양학 ADC 모달리티와 무관. 정직하게 무관 판정.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "TBF"
+  },
+  {
+    "company": "테고사이언스 (Tego Science, Inc.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 8,
+    "supporting_evidence_ids": [
+      "EV-TEG-014",
+      "EV-TEG-004"
+    ],
+    "rationale": "테고사이언스는 케라틴세포·섬유아세포 배양 세포치료제와 배양피부(칼로덤·홀로덤·네오덤) 기업으로, mTG(미생물 트랜스글루타미나제) 효소를 생산·사용·공급하거나 콜라겐/젤라틴 가교 공정에 mTG를 적용한다는 근거가 전혀 확인되지 않는다. 국문·영문 교차검색('테고사이언스/Tegoscience transglutaminase') 모두 회사 연관 결과 0건이었다. 로스미르·TPX 계열 섬유아세포가 콜라겐 ECM을 합성하는 과정에 내인성 조직 트랜스글루타미나제(TG2)가 생물학적으로 관여할 수 있으나, 이는 세포의 자연 생리이지 기업의 mTG 효소 사업이 아니므로 무관으로 판정한다.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "TEG"
+  },
+  {
+    "company": "테고사이언스 (Tego Science, Inc.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 4,
+    "supporting_evidence_ids": [
+      "EV-TEG-014"
+    ],
+    "rationale": "테고사이언스는 세포치료·재생의료·배양피부 기업으로, 종양학 모달리티인 항체-약물 접합체(ADC) 파이프라인이나 링커·페이로드 접합기술, ADC용 mTG 효소 공급 등 어떠한 접점도 확인되지 않는다. 'Tegoscience antibody-drug conjugate' 검색은 회사와 무관한 일반 mTG-ADC 학술문헌만 반환했다. 완전 무관.",
+    "verified_grade": "하",
+    "rejected_evidence": [],
+    "_code": "TEG"
+  },
+  {
+    "company": "테고사이언스 (Tego Science, Inc.)",
+    "item": "Collagen",
+    "relevance_type": "인접·응용",
+    "relevance_level": "중",
+    "relevance_score": 55,
+    "supporting_evidence_ids": [
+      "EV-TEG-004",
+      "EV-TEG-003",
+      "EV-TEG-005",
+      "EV-TEG-007",
+      "EV-TEG-008"
+    ],
+    "rationale": "테고사이언스는 콜라겐 원료·소재를 직접 생산·판매하지는 않으나, 콜라겐과 강하게 인접·응용 관계에 있다. (1) 주름개선 세포치료제 로스미르는 이식된 진피 섬유아세포가 콜라겐 등 세포외기질(ECM)을 합성해 진피구조를 복원하는 것이 핵심 작용기전이다. (2) TPX-114/TPX-115(회전근개 치료제)는 섬유아세포로 콜라겐성 힘줄·건 조직을 재생한다. (3) 3D 배양피부모델 네오덤은 섬유아세포+생체재료로 진피층(콜라겐성 ECM)을 재현한다. 즉 콜라겐을 '세포가 생성하는 표적 조직 구성물'로 다루는 세포/조직공학적 응용이며, 콜라겐 소재 제조·판매(직접사업)나 재조합 콜라겐 R&D(직접연구)와는 다르다. 따라서 인접·응용, 연관도 중으로 판정한다.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "TEG"
+  },
+  {
+    "company": "티앤알바이오팹 (T&R Biofab Co., Ltd.)",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 90,
+    "supporting_evidence_ids": [
+      "EV-TNR-003",
+      "EV-TNR-004",
+      "EV-TNR-006",
+      "EV-TNR-008",
+      "EV-TNR-013",
+      "EV-TNR-014",
+      "EV-TNR-016"
+    ],
+    "rationale": "티앤알바이오팹의 핵심 제품 deCelluid는 콜라겐·GAG·엘라스틴을 함유한 돼지 조직 유래 탈세포화 ECM(dECM) 바이오잉크로, 콜라겐이 소재의 본질이다(EV-TNR-003). 인공피부 R&D에서 단일 콜라겐 대비 dECM의 콜라겐 섬유 형성 우수성을 입증했고(EV-TNR-004), 젤라틴(콜라겐 변성체) 기반 GelMA 광가교 하이드로젤을 활용한다(EV-TNR-006). 머크(EV-TNR-013)·J&J 에티콘(EV-TNR-014)·쥬디스인터내셔널(EV-TNR-016) 등과 콜라겐/젤라틴 기반 바이오잉크·연조직 스캐폴드·창상피복재를 상업화·공동개발한다. 콜라겐/젤라틴 소재의 의료기기·바이오잉크·인공피부·배양육 스캐폴드 응용을 직접 영위하므로 직접사업, 연관도 상.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "TNR"
+  },
+  {
+    "company": "티앤알바이오팹 (T&R Biofab Co., Ltd.)",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 14,
+    "supporting_evidence_ids": [
+      "EV-TNR-006"
+    ],
+    "rationale": "티앤알바이오팹은 젤라틴·콜라겐 등 단백질 소재를 다루므로 개념적으로 mTG 가교 대상 소재를 취급하나, 실제 가교 방식은 GelMA 광가교와 생체적합 화학 가교제 중심이며 미생물 트랜스글루타미나제(mTG) 효소를 사용·생산·공급한다는 근거는 확인되지 않았다(EV-TNR-006). '티앤알바이오팹 transglutaminase/트랜스글루타미나제 가교' 국·영문 검색은 기업 특이적 결과 없이 일반 학술문헌만 반환했다. mTG 효소 자체와의 직접 접점이 없어 무관, 연관도 하.",
+    "verified_grade": "중",
+    "rejected_evidence": [],
+    "_code": "TNR"
+  },
+  {
+    "company": "티앤알바이오팹 (T&R Biofab Co., Ltd.)",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 4,
+    "supporting_evidence_ids": [],
+    "rationale": "티앤알바이오팹은 3D 바이오프린팅·재생의료(지지체·바이오잉크·오가노이드·세포치료제) 기업으로, 항체-약물 접합체(ADC) 파이프라인, 링커·페이로드 부위특이적 접합기술, 또는 ADC용 mTG 효소 공급이 전혀 확인되지 않는다. '\"T&R Biofab\" antibody-drug conjugate / transglutaminase conjugation' 검색은 기업과 무관한 일반 mTG-ADC 학술문헌(Bioconjugate Chemistry, Nature 등)만 반환했다. 종양학 모달리티와 사업·연구 영역이 상이하여 명확히 무관, 연관도 하.",
+    "verified_grade": null,
+    "rejected_evidence": [],
+    "_code": "TNR"
+  },
+  {
+    "company": "Vericel Corporation",
+    "item": "Collagen",
+    "relevance_type": "직접사업",
+    "relevance_level": "상",
+    "relevance_score": 90,
+    "supporting_evidence_ids": [
+      "EV-VER-002",
+      "EV-VER-003",
+      "EV-VER-005",
+      "EV-VER-006",
+      "EV-VER-007",
+      "EV-VER-008"
+    ],
+    "rationale": "Vericel의 최대 제품 MACI는 정의상 '돼지 Type I/III 콜라겐 멤브레인(collagen membrane) 위 자가배양 연골세포'로, 콜라겐 스캐폴드가 제품의 필수 구성이며 2024년 매출 1억9,730만 달러(총매출의 ~85%)를 차지한다. MACI Arthro(2024), 발목 MASCOT 임상(2025) 등 R&D 확장도 모두 동일 콜라겐 멤브레인 기반이다. 다만 콜라겐 멤브레인 원소재는 Matricel(독일)이 독점 공급(계약 2030/2033)하므로 콜라겐 소재 자체를 자체 생산하기보다 세포치료 완제품에 핵심 부품으로 사용·상업화하는 형태다. 그럼에도 사업의 중핵에 콜라겐이 위치하므로 직접사업·상.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "VER"
+  },
+  {
+    "company": "Vericel Corporation",
+    "item": "mTG",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 6,
+    "supporting_evidence_ids": [
+      "EV-VER-011",
+      "EV-VER-004"
+    ],
+    "rationale": "Vericel은 미생물 트랜스글루타미나제(mTG)를 생산·공급·응용하지 않는다. 'Vericel transglutaminase' 검색은 회사와 무관한 일반 mTG 특허만 반환했다. MACI 고정에 fibrin sealant를 사용하나 이는 미생물 mTG가 아니며 콜라겐/젤라틴 효소 가교 응용도 아니다. NexoBrid의 효소는 단백분해효소(anacaulase)로 가교효소와 무관. 따라서 mTG 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "VER"
+  },
+  {
+    "company": "Vericel Corporation",
+    "item": "ADC",
+    "relevance_type": "무관",
+    "relevance_level": "하",
+    "relevance_score": 3,
+    "supporting_evidence_ids": [
+      "EV-VER-011",
+      "EV-VER-001"
+    ],
+    "rationale": "Vericel은 자가세포치료·조직재생(연골·표피)과 화상케어에 특화된 기업으로 종양학 ADC(항체-약물 접합체) 파이프라인, 링커/페이로드 접합기술, ADC용 mTG 효소 공급이 전혀 없다. 'Vericel antibody drug conjugate' 검색은 타사 일반 ADC 특허(US10195289, US10471037 등)만 반환했다. ADC 무관.",
+    "verified_grade": "상",
+    "rejected_evidence": [],
+    "_code": "VER"
+  }
+]

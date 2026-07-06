@@ -23,7 +23,9 @@ import pandas as pd
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent.parent
+# 런타임 작업영역(out/)을 우선 사용하되, 없으면 커밋된 감사 데이터셋(reports/data/)로 폴백
 OUT = ROOT / "out"
+DATA_FALLBACK = ROOT / "reports" / "data"
 
 CONF_COLOR = {"상": "#1a7f37", "중": "#bf8700", "하": "#cf222e"}  # 녹색 / 주황 / 적색
 CONF_BG = {"상": "#e6f4ea", "중": "#fff4e0", "하": "#fce8e8"}
@@ -31,6 +33,8 @@ CONF_BG = {"상": "#e6f4ea", "중": "#fff4e0", "하": "#fce8e8"}
 
 def _load(name: str) -> list[dict]:
     path = OUT / name
+    if not path.exists():
+        path = DATA_FALLBACK / name   # 커밋된 감사 데이터셋 폴백
     if not path.exists():
         return []
     try:

@@ -1,0 +1,7408 @@
+[
+  {
+    "evidence_id": "EV-3DS-001",
+    "verified_confidence": "중",
+    "verification_reason": "IR·공시(SEC 8-K) 1차 유형이나 SEC 사이트 403으로 원문 직접 페치 실패, WebSearch가 반환한 8-K 요약으로만 확인. 발행일도 추정.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-002",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(Med-Tech Insights) 2차 출처 + 발췌, 헬스케어 실적·인증 구조적 사실이나 단일 2차 출처.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식 보도자료 1차 출처 + 발췌, 콜라겐을 스캐폴드 원료로 하는 Print to Perfusion 공정(Collagen 아이템 직접 연관) 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-004",
+    "verified_confidence": "상",
+    "verification_reason": "IR·공시(GlobeNewswire) 1차 출처 + 발췌, Systemic Bio 설립·h-VIOS 플랫폼 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론 2차 출처이나 3개 독립매체(3DPI, 3DPrint.com, 3D ADEPT) 교차확인. 뉴스·동향 12개월 이내로 최신성 충족.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론 2차 출처 + TISSIUM 공식보도·다수 매체 교차확인된 FDA De Novo 사실이나 뉴스·동향 발행일(2025-06-24)이 12개월 창을 근소하게 초과.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-007",
+    "verified_confidence": "하",
+    "verification_reason": "특허 1차 유형이나 3D Systems 명의 콜라겐 바이오프린팅 등록특허 번호를 공개DB에서 특정 실패(관련 특허는 타 재단 귀속). 발행일 미상·inconclusive. 다만 3DS의 Collagen 연관은 파트너십(008/009)·Print to Perfusion(003)으로 확립되어 아이템 판정을 좌우하는 하중 큰 사실 아님 → accept(하).",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-008",
+    "verified_confidence": "상",
+    "verification_reason": "공식 보도자료 1차 출처 + 발췌, CollPlant rhCollagen 바이오잉크 공동개발(Collagen 직접 연관 강근거). 2020 JDA + 2021 유방재건 교차확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-009",
+    "verified_confidence": "상",
+    "verification_reason": "IR·공시(United Therapeutics IR) 1차 출처 + 발췌, rhCollagen 폐 스캐폴드 협업·CollPlant 라이선스 구조적 사실. 다중 교차참조.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(Med-Tech Insights) 2차 출처 + 발췌, TISSIUM 공동개발 구조적 사실. 단일 2차 출처.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-011",
+    "verified_confidence": "하",
+    "verification_reason": "논문 1차 유형이나 3DS-특정 아닌 일반 TG-콜라겐 문헌으로 3DS의 mTG 채택 근거 무발견(추론적 negative). 다만 3DS 대표공정이 광중합(003)임이 확립되어 mTG 무관 결론은 보강되며, 단독으로 아이템 판정 좌우하는 하중 큰 사실 아님 → accept(하).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-3DS-012",
+    "verified_confidence": "하",
+    "verification_reason": "ADC 부재 negative finding으로 출처유형 기타(미확인)·검색 무발견·발행일 미상. 3DS는 3D프린팅·재생의학 기업으로 ADC 무관이 명백한 배경정보 → accept(하).",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(SDBJ) 기반 2차 출처이나 회사소개·언론이 일치하고 다수 교차확인된 구조적 사업 사실. 1차 공식출처가 아니어서 상은 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-002",
+    "verified_confidence": "중",
+    "verification_reason": "공식홈페이지 1차 출처이나 WebFetch 봇차단(403)으로 원문 미열람, 검색 스니펫으로만 확인되어 상 불가.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지 1차 출처 + 근거발췌 확보, 콜라겐 바이오잉크 직접 사업의 핵심 근거로 원문접근 이슈 없음.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-004",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지 1차 출처 + Sigma-Aldrich·Fisher 유통카탈로그로 교차확인된 기술 플랫폼 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-005",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지 1차 출처 + 제품 발췌 확보, 가교시약 목록의 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-006",
+    "verified_confidence": "중",
+    "verification_reason": "공식홈페이지 1차 출처이나 mTG는 교육/설명 맥락 언급일 뿐 제품·자체기술 채택 근거 아님(주제적 인접성만). self_confidence 중과 일치.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론 2차 출처이나 SDBJ·BICO 두 출처 교차확인된 M&A 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(News-Medical/Nanoscribe) 2차 출처, 원문접근 가능한 협업 발표 사실. 단일계열 보도로 상은 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론 2차 출처. 뉴스·동향 카드로 발행일(2024-05)이 12개월 창 밖이나 48개월 초과는 아님. honest_gap 명시.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-010",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허(Google Patents) 1차 출처, 원문접근 가능 + Assignee·등록번호 발췌 확보. 콜라겐 직접 IP 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ABM-011",
+    "verified_confidence": "중",
+    "verification_reason": "ADC/mTG 부재를 확인하는 negative finding으로 출처유형 기타(미확인)·검색 무발견 기반의 추론적 성격. honest_gap 문서화됨. ABM의 핵심 아이템(Collagen)은 타 카드로 확립되어 좌우 사실 아님.",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지(1차)+Wikipedia 교차, 원문 URL·발췌. 구조적 회사·제품 정체성 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지 'Our Recipe'(1차)+Green Matters·Lab Manager 교차. 스캐폴드가 대두/밀 식물단백이며 콜라겐 아님 = Collagen 아이템 연관 판정 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-003",
+    "verified_confidence": "상",
+    "verification_reason": "Nature Food 논문 기반(source_type 논문·1차)+Lab Manager 교차, 원문 URL·발췌. Levenberg 원천기술.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-004",
+    "verified_confidence": "중",
+    "verification_reason": "Aleph 공식 보도자료(Businesswire, 2차/공식보도 인용)+vegconomist·Food Ingredients First 교차. 배양 콜라겐 플랫폼 = Collagen 아이템 직접 접점의 하중 큰 사실이나 발췌·교차 확보로 중 판정(하 아님).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-005",
+    "verified_confidence": "중",
+    "verification_reason": "FoodNavigator(2차)+Wiley 피어리뷰(2023)·3Dnatives 교차로 트랜스글루타미나제 사용 사실은 확실. mTG(미생물) 특정만 미확정(정직한 gap). mTG 아이템 응용 접점 근거로 하 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-006",
+    "verified_confidence": "상",
+    "verification_reason": "특허 US20200140810A1(1차)+원문 URL+발췌. 스캐폴드는 텍스처 대두단백, 응고제는 thrombin/fibrin으로 콜라겐·TG 스캐폴드 미명시.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-007",
+    "verified_confidence": "중",
+    "verification_reason": "ABA Landslide 특허지형 리포트(2차) 발췌에 'cell-free animal collagen' 직접 언급, EV-ALE-004 보도자료 교차. 구체 콜라겐 특허번호는 미확보(honest_gap)이나 콜라겐 특허 존재 자체는 확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-008",
+    "verified_confidence": "중",
+    "verification_reason": "TechCrunch·Food Navigator(2차) 교차, 원문 URL·발췌. 규제승인 마일스톤이나 발행 2024-01로 12개월 초과.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-009",
+    "verified_confidence": "중",
+    "verification_reason": "Green Queen·Calcalist(2차) 교차, 원문 URL·발췌. 뉴스 발행일 unknown으로 최신성 미확정.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-010",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire 공식 보도자료(2차/공식보도 인용)+Meat+Poultry·Food Dive, 원문 URL·발췌. 구조적 투자·파트너십 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-011",
+    "verified_confidence": "중",
+    "verification_reason": "Green Queen·Food Business MEA(2차)+AgFunderNews 정합. 구조적 MoU 사실이나 발행일 unknown.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ALE-012",
+    "verified_confidence": "중",
+    "verification_reason": "AgFunderNews·Cultivated X(2차) 교차, 원문 URL·발췌. 구조적 자금유치 사실이나 정확 발행일 unknown.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지(1차)+발췌·원문, OFM/콜라겐 사업 정체성 구조적 사실. 교차확인 존재.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-002",
+    "verified_confidence": "하",
+    "verification_reason": "Wikipedia(기타·미확인) 단일 출처. 다만 공식 홈페이지(EV-ARO-001)와 교차·정합하는 제품 포트폴리오 배경정보로 반려 불요.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-003",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 논문(PMC, 1차)로 OFM의 콜라겐 함량 확인, 발췌·원문·교차 확보. 콜라겐 연관 핵심.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-004",
+    "verified_confidence": "상",
+    "verification_reason": "논문(1차)으로 비가교(non-crosslinked) 콜라겐 ECM 확인. mTG 미사용 판정의 핵심 근거, 원문·발췌 확보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-005",
+    "verified_confidence": "상",
+    "verification_reason": "PLOS One 피어리뷰 논문(1차)+원문·발췌. 단일이나 1차 출처 기준 충족.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-006",
+    "verified_confidence": "상",
+    "verification_reason": "등록 특허 원문(Google Patents US8415159B2, 1차)+발췌. 콜라겐 forestomach ECM 스캐폴드 원천특허.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-007",
+    "verified_confidence": "중",
+    "verification_reason": "USPTO 특허(1차)이나 소유자(Aroa) 정밀대조 honest_gap. 콜라겐 조성물 특허 존재는 확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) FY26 실적, 발행일 12개월 이내. 1차 IR 원문 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 임상 동향, 최신성 충족·교차. 확정 데이터 아닌 진행 상태.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-010",
+    "verified_confidence": "상",
+    "verification_reason": "TELA Bio SEC 10-K(IR·공시, 1차)+PR Newswire 교차. 핵심 콜라겐 ECM 공급 파트너십.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ARO-011",
+    "verified_confidence": "중",
+    "verification_reason": "공식 홈페이지(1차)+honest_gap 검색 기반 ADC/mTG 부재 확인. 부재 추론이므로 상은 아님. 비연관 배경근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-001",
+    "verified_confidence": "상",
+    "verification_reason": "10-K 요약(IR·공시 1차) 4개 제품군·2개 세그먼트, 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-002",
+    "verified_confidence": "상",
+    "verification_reason": "10-K(IR·공시 1차) Preservation Services=인체 심혈관 동종조직, 발췌 명확.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-003",
+    "verified_confidence": "상",
+    "verification_reason": "FY2024 실적 보도(IR·공시 1차) 총매출·성장률.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-004",
+    "verified_confidence": "상",
+    "verification_reason": "PMC 리뷰(논문 1차)+IFU, BioGlue 알부민/글루타르알데히드 가교 명시(콜라겐 원료 아님).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-005",
+    "verified_confidence": "중",
+    "verification_reason": "공식 제품페이지(1차)이나 403, 검색 스니펫 발췌. PhotoFix 콜라겐 광산화 가교 명시.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-006",
+    "verified_confidence": "중",
+    "verification_reason": "MPO/임상문헌(논문 1차)이나 발행일 미상, 단일. 광산화 가교 R&D 접점.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-007",
+    "verified_confidence": "중",
+    "verification_reason": "DCFmodeling(업계리포트 2차) On-X 열분해탄소, 발행일 미상. 콜라겐/mTG 무관 배경.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-008",
+    "verified_confidence": "중",
+    "verification_reason": "PRNewswire(2차) AMDS 임상 데이터, 뉴스 12개월 초과(24개월 내). 스텐트 배경정보.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-009",
+    "verified_confidence": "중",
+    "verification_reason": "제3자 특허(1차) 대조로 Artivion mTG 미사용 확인, 자사는 글루타르알데히드/광산화(honest_gap).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-010",
+    "verified_confidence": "중",
+    "verification_reason": "PRNewswire(2차) PerClot Baxter 매각, 다당류 지혈제(콜라겐 아님).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-011",
+    "verified_confidence": "상",
+    "verification_reason": "StockTitan 8-K/10-K(IR·공시 1차) 스텐트그래프트 중심 M&A 이력.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ART-012",
+    "verified_confidence": "중",
+    "verification_reason": "공식 제품페이지(1차) CryoPatch 등 동종조직=콜라겐 기반이나 발행일 미상, 원료사업 아님.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지 1차 출처 + 발췌 + 복수 언론(3dprint, Molecular Devices, cellandgene) 교차확인된 핵심 사업 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지 1차 출처 + 발췌, 제품군 구조적 사실. TSIM 별도 검색 교차확인.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(Microvessels) 1차 출처 + 발췌, Angiomics 제품 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-004",
+    "verified_confidence": "중",
+    "verification_reason": "논문(PMC) 1차 유형이나 원문 403 미열람이며 해당 콜라겐 각막 프린터가 BAB인지 미확정(추론). self_confidence 중과 일치.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가",
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-005",
+    "verified_confidence": "상",
+    "verification_reason": "규제기관(VA 미 보훈부) 보도자료 1차 출처 + 발췌, BioBone 개발 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-006",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허(USPTO US11,623,400) 1차 출처 + 발췌, 광가교 하드웨어 특허 보유 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-007",
+    "verified_confidence": "중",
+    "verification_reason": "특허(Justia) 1차 출처이나 포트폴리오 성격 요약 발췌로 개별 특허 검증은 부분적. self_confidence 중과 일치.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(PRWeb/Bio-IT World) 2차 출처이나 복수 매체 교차확인된 협업 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-009",
+    "verified_confidence": "상",
+    "verification_reason": "규제기관(VA 미 보훈부) 1차 출처 + 발췌, 파트너십·시설 구축 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론/수상 2차 출처, 뉴스·동향이나 정확 발표일 미상('2025')으로 12개월 창 확정 불가. honest_gap 명시.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-011",
+    "verified_confidence": "중",
+    "verification_reason": "논문 1차 유형이나 ASL-특정이 아닌 일반 바이오프린팅 mTG 문헌으로 ASL 직접 취급 근거는 무발견(추론적 인접성). honest_gap 문서화.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ASL-012",
+    "verified_confidence": "중",
+    "verification_reason": "ADC 부재 negative finding으로 출처유형 기타(미확인)·검색 무발견 기반. ASL은 바이오프린팅 하드웨어 기업으로 ADC 무관이 명백하며 아이템 판정 좌우 사실 아님.",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-001",
+    "verified_confidence": "중",
+    "verification_reason": "FinancialContent(2차) Advanced Surgery 매출·성장, SEC 실적과 정합.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-002",
+    "verified_confidence": "상",
+    "verification_reason": "EMA 심사문서(규제 1차) FLOSEAL 소 콜라겐/젤라틴 글루타르알데히드 가교 명시. mTG 아님 핵심근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-003",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차) HEMOPATCH 소 진피 콜라겐 NHS-PEG. 두 번째 독립 콜라겐 제품.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-004",
+    "verified_confidence": "상",
+    "verification_reason": "DailyMed(규제 1차) TISSEEL/ARTISS fibrin 조성, 콜라겐 아님 명확.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-005",
+    "verified_confidence": "중",
+    "verification_reason": "제3자 특허(1차)의 경쟁제품 언급으로 CoSeal PEG 확인. Baxter 비콜라겐 축.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-006",
+    "verified_confidence": "중",
+    "verification_reason": "Business Wire(2차) HEMOPATCH 출시, 뉴스 12개월 초과(24개월 내), PR Newswire 교차.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-007",
+    "verified_confidence": "상",
+    "verification_reason": "PMC 리뷰(논문 1차)+EMA, Floseal 글루타르알데히드 vs mTG 구분 명확. mTG 판정 하중 핵심.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-008",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허(1차) mTG 지혈 특허군은 Lifebond→Bard/BD 소유, Baxter 무관 명확.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-009",
+    "verified_confidence": "중",
+    "verification_reason": "Justia Baxter 특허(1차) 지혈 조성물, mTG 청구항 부재 확인(honest_gap).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-010",
+    "verified_confidence": "중",
+    "verification_reason": "Business Wire(2차) PerClot 인수, 다당류(콜라겐/mTG 아님).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-011",
+    "verified_confidence": "상",
+    "verification_reason": "Baxter 공식 뉴스룸(1차) RECOTHROM/PREVELEAK 인수, 재조합 트롬빈 확보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-012",
+    "verified_confidence": "중",
+    "verification_reason": "MassDevice(2차) Seprafilm 인수, HA/CMC 기반(콜라겐/mTG 아님).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-013",
+    "verified_confidence": "상",
+    "verification_reason": "Baxter 공식 뉴스룸(1차) Vantive 매각, 24개월 내·FinancialContent 교차. 뉴스카드 12개월 초과로 recency_ok=false.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BAX-014",
+    "verified_confidence": "중",
+    "verification_reason": "기타(미확인) ADC/mTG 음성확인(honest_gap), Baxter 종양학 ADC 모달리티 부재.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-001",
+    "verified_confidence": "상",
+    "verification_reason": "BD IR(1차)+Bullfincher, FY2025 매출·최대부문. 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-002",
+    "verified_confidence": "상",
+    "verification_reason": "SEC 10-Q(1차) 5개 부문 재편 공시, BioPharma Systems 명시.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-003",
+    "verified_confidence": "중",
+    "verification_reason": "BD 공식 제품페이지(1차)이나 403, 검색 스니펫·다수 유통/임상 문서로 교차확인. XenMatrix 콜라겐 매트릭스.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-004",
+    "verified_confidence": "상",
+    "verification_reason": "ClinicalTrials.gov 프로토콜(규제 1차) AquaPure 탈세포 콜라겐 스캐폴드 명시.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-005",
+    "verified_confidence": "중",
+    "verification_reason": "MedTech Dive(2차) AlloMax 무세포 진피 콜라겐 스캐폴드.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-006",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차) Neopak 바이오의약품 프리필드 시린지. ADC 자체는 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-007",
+    "verified_confidence": "상",
+    "verification_reason": "BD 공식 뉴스(1차) 2026-01 1.1억달러 투자, 12개월 내.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-008",
+    "verified_confidence": "상",
+    "verification_reason": "SEC 8-K/공시(1차) Waters 합병 사업재편, 2026-02.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-009",
+    "verified_confidence": "중",
+    "verification_reason": "규제 프로토콜(1차) AquaPure 특허 존재 언급이나 특허번호 미확보(honest_gap). 배경정보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BD-010",
+    "verified_confidence": "중",
+    "verification_reason": "기타(미확인) mTG 음성확인(honest_gap), XenMatrix 비가교로 mTG 무관 뒷받침.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-001",
+    "verified_confidence": "중",
+    "verification_reason": "공식홈 403 차단으로 2차 언론(3printr/VUB) 교차확인 대체. 발췌·URL 확보되나 1차 접근 불가.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-002",
+    "verified_confidence": "중",
+    "verification_reason": "공식 제품페이지 발췌지만 직접 페치 403으로 검색 스니펫 기반. GelMA=콜라겐 유래 링크는 EV-BIX-005 논문 등으로 뒷받침되어 중 유지.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-003",
+    "verified_confidence": "중",
+    "verification_reason": "2차 리셀러/언론이 제품군 열거, 발췌·URL·cross_ref 확보. 검증 가능하나 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-004",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 논문(1차, ACS/PubMed) 접근 가능·발췌 확보, 창업진 저자 확인. 재조합 콜라겐 바이오프린팅 직접연구 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-005",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 논문(1차) 접근 가능·발췌 확보, UGent biblio 교차확인. 젤라틴(콜라겐 유래) 광가교 핵심 플랫폼 기술.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-006",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론(3Dnatives 등) 교차확인 제품출시이나 발행일 2024-12로 12개월 초과, 최신성 미충족.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-007",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론 교차확인 제품출시(비콜라겐 폴리에스터)이나 발행일 2025-05로 12개월 초과.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-008",
+    "verified_confidence": "중",
+    "verification_reason": "공식 뉴스지만 직접 페치 403·발행일 미상·단일 스니펫 출처로 최신성/교차확인 미흡.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-009",
+    "verified_confidence": "중",
+    "verification_reason": "다수 2차 언론(TCT/flanders.bio) 교차확인된 Readily3D 협업. 발췌·URL 확보하나 1차 자사 발표 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-010",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론(TCT)·AstroCardia 파트너 페이지 교차확인. 발췌·URL 확보, 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-011",
+    "verified_confidence": "중",
+    "verification_reason": "2차 업계리포트(Tracxn) 자금조달, 발췌 확보하나 최신 라운드 세부 미공개·단일 출처.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-012",
+    "verified_confidence": "중",
+    "verification_reason": "특허 '존재'는 다수 언론이 명시하나 구체 번호 미확보·Espacenet/Google Patents/공식홈 접근 실패(honest_gap). 다만 기술기반은 논문(004/005)으로 이미 확립되어 하중 결정적 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-BIX-013",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 논문(1차) 접근 가능·발췌 확보. mTG-GelMA 대표논문이 NTU 소속으로 BIO INX와 무관함을 확증하는 하중 큰 부정 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-001",
+    "verified_confidence": "상",
+    "verification_reason": "CELLINK 공식홈(1차), 발췌·URL·cross_ref 확보. 바이오프린팅 선도 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-002",
+    "verified_confidence": "상",
+    "verification_reason": "Advanced BioMatrix/CELLINK 공식 제품페이지(1차), Lifeink 순수 콜라겐 바이오잉크 발췌·URL 확보, cellink.com 교차확인. 콜라겐 직접사업 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-003",
+    "verified_confidence": "상",
+    "verification_reason": "GelMA 공식 제품페이지(1차), 발췌·URL 확보. 젤라틴·콜라겐 소재 직접취급 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-004",
+    "verified_confidence": "상",
+    "verification_reason": "공식 조직공학 페이지(1차), 발췌·URL·cross_ref 다수 확보. 콜라겐/젤라틴 기반 R&D 플랫폼.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-005",
+    "verified_confidence": "중",
+    "verification_reason": "공식 응용페이지(1차) 발췌 확보하나 신약개발 '응용' 일반 서술이며 ADC 모달리티와는 무관(3D모델 도구).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-006",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론(3DPrint/Nordic Life Science) 교차확인 구조조정이나 발행일 2025-04로 12개월 초과, 최신성 미충족.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-007",
+    "verified_confidence": "상",
+    "verification_reason": "BICO 연차보고서(1차 IR·공시) PDF 접근 가능·발췌 확보, 발행일 12개월 내. 매출·시장지위 1차 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-008",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허(1차) Google Patents 접근 가능·발췌 확보. 콜라겐/탈세포화 매트릭스 명세 언급.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-009",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론이 특허번호 인용·cellink.com 교차확인. 발췌·URL 확보하나 1차 특허원문 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-010",
+    "verified_confidence": "중",
+    "verification_reason": "공식 제품페이지(1차) 공동특허 서술이나 특허번호 미기재 마케팅 주장으로 검증강도 제한.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-011",
+    "verified_confidence": "중",
+    "verification_reason": "공식 보도자료(1차) 파트너십, 발췌·URL 확보하나 2023-10로 다소 경과. 배경 파트너십.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-012",
+    "verified_confidence": "중",
+    "verification_reason": "1차 논문이나 'mTG-GelMA 가교'는 분야 일반이며 CELLINK 자체 채택 근거는 미발견(추론 기반 인접성).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-013",
+    "verified_confidence": "중",
+    "verification_reason": "공식 제품페이지(1차)가 가교제=CaCl2/광가교임을 확증. mTG 상품 부재는 검색기반 honest_gap이나 문서화되어 판정 좌우 부실 아님.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CEL-014",
+    "verified_confidence": "중",
+    "verification_reason": "ADC 무관을 다중 검색으로 문서화한 honest_gap 부정 근거. 미확인 출처지만 검색어·0건 결과가 명시되어 결정적 부실은 아님.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론/기업정보(2차) 사업 개요, 공식 홈페이지 소개와 정합·발췌 확보.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-002",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 시지가이드 콜라겐 멤브레인, 인수기사로 교차확인. 콜라겐 연관 핵심이나 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 시지덤 MCF 콜라겐 피부이식재, 발췌·교차 확보. 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-004",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지(1차)+발췌. HA/CaHA 필러 라인업 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 2023 실적 뉴스, 발행일(2024-01)이 12개월 초과로 최신성 미충족. 교차확인 존재.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-006",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차) 노보시스/SLOREL 기술, 발췌·교차확인. 1차 논문/특허 원문 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-007",
+    "verified_confidence": "중",
+    "verification_reason": "Nature Sci Rep 논문(1차)이나 CGBio 귀속은 인용·추론 성격. 콜라겐이 대체대상으로 언급된 보조 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) FDA IDE 승인, 복수 교차확인이나 발행일(2025-04)이 12개월 초과로 최신성 미충족.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 덴탈오션 인수/콜라겐 멤브레인 연계, 복수 언론 교차확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) SLOREL·콜라겐 멤브레인 기술, 특허 등록번호는 honest_gap(상위 검색특허는 타사 소유 확인). 기술 보유 사실은 확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 대웅제약 rhBMP-2 공급 파트너십, 발췌·교차확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 노보시스 북미 사업화 계약, FDA IDE와 정합하나 단일출처로 계약 상세 추가확인 권장.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CGB-013",
+    "verified_confidence": "하",
+    "verification_reason": "종합 검색(기타·미확인)의 ADC/mTG 부재 추론. 콜라겐 아이템의 긍정적 연관을 좌우하지 않는 비연관 배경근거.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식 IR 1차 출처 + 발췌 확보, 회사 정체성(rhCollagen 기반) 구조적 사실. 교차확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지 1차 출처 + 발췌, 주력 제품군 구조적 사실. 2개 카드 교차참조.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식 기술페이지 1차 출처 + 발췌, 식물기반 rhCollagen 플랫폼의 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-004",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지 1차 출처 + 발췌. 메타크릴레이트 광가교 방식(mTG 대조 핵심)을 명시하는 구조적 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(3D Printing Industry) 2차 출처의 연구성과 보도, 원문접근 가능·발췌 확보하나 1차 논문/공시 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(StockTitan) 2차 출처의 뉴스, 발행일(2026-02) 12개월 이내로 최신성 충족하나 단일 2차 출처.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(StockTitan)/IR 인용 2차 출처, 재무 뉴스로 12개월 이내. 단일 2차 출처.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-008",
+    "verified_confidence": "중",
+    "verification_reason": "공식 IR 보도자료 1차 출처이나 뉴스·동향 카드로 발행일(2025-01)이 12개월 창 밖. self_confidence 중과 일치.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-009",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허(US 11,801,329) IR 발표 1차 출처 + 발췌. 광중합 진피필러 특허, mTG 무관 확인 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-010",
+    "verified_confidence": "중",
+    "verification_reason": "특허 IR 보도자료 1차 출처이나 발췌가 일반적(허여 사실)이고 단일 출처. self_confidence 중과 일치.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-011",
+    "verified_confidence": "상",
+    "verification_reason": "IR·공시(PRNewswire) 1차 출처 + 발췌, AbbVie/Allergan 독점 계약 구조적 사실. 교차참조 다수.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-012",
+    "verified_confidence": "중",
+    "verification_reason": "3D Systems 보도자료(주요언론 유형) 2차 출처이나 3DS 측 증거파일과도 교차확인되는 공동개발 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-013",
+    "verified_confidence": "중",
+    "verification_reason": "공식 IR 1차 출처이나 단일 출처·발췌 일반적. self_confidence 중과 일치.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLP-014",
+    "verified_confidence": "상",
+    "verification_reason": "Google Patents 1차 출처, Assignee(Aston University) 직접 확인 + 발췌. CollPlant의 mTG 미사용(광가교) negative finding을 뒷받침하는 검증가능한 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-001",
+    "verified_confidence": "중",
+    "verification_reason": "공식 홈페이지(1차)이나 WebFetch 403으로 원문 직접열람 불가(스니펫 확보). 다수 카드와 교차. 접근제약으로 상에서 하향.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지 연혁(1차)+발췌·교차. 콘드론 국내최초 세포치료제 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지 R&D(1차)+발췌·교차. 바이오콜라겐 제품 포트폴리오.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 카티졸 콜라겐 관절강주사, 발췌·교차확인. 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 리젠씰 콜라겐 조직보충재, 발췌 확보. 단일계열 언론.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 콜라겐 필러 테라필/루시젠, 복수 언론 교차확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-007",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지 R&D(1차)+발췌. 세포·바이오콜라겐 RMS 플랫폼 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) FDA DMF 등재, 발췌·교차확인. 1차 규제문서 원문은 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 공급계약 뉴스, 발행일 unknown으로 최신성 미확정. 인수기사로 교차확인.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 신공장/매출 동향, 발행일 unknown으로 최신성 미확정. 교차 존재.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 유럽 바이오콜라겐 특허 등록, 구체 번호는 honest_gap. 특허 존재는 복수 보도.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 캐나다·일본·인도네시아 특허, 발췌 확보하나 번호 미표기. 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-013",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 이브이첨단소재 M&A, 발행일(2024-11) 발췌·교차확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-014",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) LG화학 등 공동마케팅·필러 수출 파트너십, 인수기사로 교차확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-015",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 콜라겐 응용범위(스캐폴드 등), 발췌 확보. 단일계열 언론.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-CLT-016",
+    "verified_confidence": "하",
+    "verification_reason": "복합 검색(기타·미확인)의 ADC/mTG 부재 추론. 콜라겐 아이템의 긍정적 연관을 좌우하지 않는 비연관 배경근거.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지/보도자료(1차)+발췌, 구조적 사업분야 사실. EV-COR-002와 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-002",
+    "verified_confidence": "상",
+    "verification_reason": "FDA 처방정보(규제기관 1차)+발췌, 말 콜라겐 스펀지 담체 명시. Collagen 직접 연관 하중 사실이 2개 출처로 교차확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론 보도자료(2차)+발췌. 최근 12개월 내 동향이나 1차 미확보, 단일 출처. 아이템 무관 배경.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론 보도자료(2차)+발췌, 구조적 설립 이력. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(GlobeNewswire, 2차)+발췌, TachoSil 제조 인수 사실. 3개 카드 교차이나 출처유형 2차로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-006",
+    "verified_confidence": "중",
+    "verification_reason": "공식 홈페이지(1차)이나 단순 서비스 공지, 발췌 짧음. 최근 12개월 동향, 아이템 무관 배경.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-007",
+    "verified_confidence": "하",
+    "verification_reason": "출처가 3차 성격 ZoomInfo(미확인), 발췌 있으나 검증 약함. 단, Collagen 연관은 EV-COR-002(상)로 이미 확정되어 본 카드는 보조 정황에 불과하므로 반려 아닌 accept(하).",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-008",
+    "verified_confidence": "하",
+    "verification_reason": "특허 원문 링크는 있으나 Corza 양수인 귀속 미확인의 결론적 honest_gap, 대상도 봉합사(비콜라겐). 하중 큰 긍정 사실이 아니라 배경/음성 정보이므로 accept(하).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-COR-009",
+    "verified_confidence": "중",
+    "verification_reason": "출처유형 기타(미확인)의 검색 기반 음성 결론이나, 회사 프로파일(EV-COR-001~005) 전반이 수술 봉합/지혈 기업임을 뒷받침해 검증 가능. mTG/ADC 무관 하중 사실이 중이라 accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(KoreaTechDesk, 2차) Protinet 정의, 다수 소개자료와 교차. greenqueen 원문은 403이나 카드 자체 출처는 접근 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-002",
+    "verified_confidence": "중",
+    "verification_reason": "공식홈페이지 유형이나 원 홈페이지 403으로 넥스트유니콘 배포 스니펫 인용, 발행일 미상. 복수 소개 스니펫 일치.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론/기업정보(2차) 핵심기술(reformed protein 교차결합). 발행일 미상이나 다수 카드 교차. 가교제 종류는 미공개.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(한국경제, 2차) 창업정보, 원문 403으로 스니펫 인용이나 Crunchbase 등과 일치. 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(한국경제, 2차) 미니장기·독성시험 플랫폼, 원문 403 스니펫 인용. EV-DNG-004와 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(전자신문, 2차) 하이브리드 배양육, 첨단넷 동일보도 교차확인. 접근 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(서울신문, 2차) 12개월 내 어류 배양육/SFA 동향, 원문 403 스니펫 인용. EV-DNG-008과 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(서울신문, 2차) 12개월 내 생산 스케일업/인증 동향, EV-DNG-007과 교차. 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(플래텀, 2차) 시리즈A 투자, platum·venturesquare·wowtale 교차. 원문 403 스니펫 인용. 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-010",
+    "verified_confidence": "하",
+    "verification_reason": "특허(1차 유형)이나 PDF 이미지 본문 추출 불가·Google Patents 404로 출원인이 다나그린인지 서지 최종확정 실패, 가교제 종류도 확인 불가. 다만 mTG/콜라겐 연관을 좌우하는 결정적 사실이 아닌 미확정 배경정보라 accept(하).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-011",
+    "verified_confidence": "중",
+    "verification_reason": "특허(Bio-Change, 1차)·문헌 근거로 mTG-스캐폴드 도메인 존재 및 다나그린 무관을 확인. 다나그린이 mTG가 아닐 '가능성'은 추론이나 사실 기반(알부민 native mTG 부적합)이 1차. 미확정 시사에 그쳐 중으로 accept.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DNG-012",
+    "verified_confidence": "중",
+    "verification_reason": "경상북도 보도자료/식품음료신문(2차) 컨소시엄 참여, 검증 가능. 개별 라이선스/M&A는 미확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(아주경제·메디파나, 2차)의 나보타 매출·수출 비중, IR공시(EV-DWG-002)와 교차되나 카드 자체 출처는 2차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-002",
+    "verified_confidence": "상",
+    "verification_reason": "KRX 사업보고서 공시(1차)+언론 교차확인. 원문 URL 접근 가능, 근거발췌 확보, 구조적 재무사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 기반 '1품 1조' 비전, 검증 가능하나 단일·2차. 주력 모달리티는 합성신약·톡신으로 ADC 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-004",
+    "verified_confidence": "상",
+    "verification_reason": "대웅홀딩스 공식 제품페이지(1차)+메디컬헤럴드, EGF의 콜라겐 합성 유도 발췌 확보. 발행일 미상이나 구조적 제품사실. 콜라겐 '유도' 인접성 근거.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-005",
+    "verified_confidence": "중",
+    "verification_reason": "공식 R&D 페이지 403으로 주요언론(2차) 대체. 검증 가능하나 원 1차 접근 불가.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(the bell, 2차) 기반 그룹 R&D 분담(한올=항체·항암). 다수 카드와 교차. 종양학 항체 역량 시사.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 4,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-007",
+    "verified_confidence": "상",
+    "verification_reason": "HanAll 공식/PR Newswire 공식 보도자료(1차)+임상 파이프라인 발췌, URL 접근 가능. 단 현재는 나상항체로 ADC 접합체 아님.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(머니투데이·서울경제, 2차) 12개월 내 인수 뉴스, 교차. mRNA·역노화로 관심 아이템 무관.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(파이낸셜뉴스, 2차) 12개월 내 나보타 수출 동향, EV-DWG-001과 교차. 관심 아이템과 직접 무관.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(메디컬헤럴드, 2차) EGF 연혁, 발행일 미상. EGF IP는 확인되나 콜라겐·mTG·ADC 자사 특허는 아님.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(the bell·더바이오, 2차) 2개 매체 교차로 한올 ADC 진출(항체 발굴 플랫폼 도입) 확인. ADC 접점의 핵심 근거이나 발굴단계로 구체 접합기술 미확인. 중으로 accept.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 4,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(메디게이트, 2차) Evolus 파트너십, EV-DWG-001과 교차. 톡신 상업화로 관심 아이템 무관.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-013",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(바이오스펙테이터, 2차) 지분 지배관계(구조적 사실이라 시점 무관). 다수 카드와 교차. ADC 그룹움직임 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-DWG-014",
+    "verified_confidence": "상",
+    "verification_reason": "Google Patents 특허공보(1차) 출원인=Bio-Change Ltd 발췌 확보, 대웅 무관을 명확히 입증(오귀속 방지). URL 접근 가능.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차) 사업개요, 원문 URL·발췌 확보, 구조적 사실로 시점무관, cross_ref 2건 교차확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차) 바이오소재 라인업, 발췌·URL 확보, VECOLLAN 콜라겐 직접 근거, cross_ref 2건.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-003",
+    "verified_confidence": "중",
+    "verification_reason": "HPAPI CDMO는 공식홈(1차)으로 확실하나 ADC 페이로드 접점은 '잠재적'으로 명시된 추론이며 직접 수행 근거 미발견.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-004",
+    "verified_confidence": "상",
+    "verification_reason": "VECOLLAN 재조합 콜라겐 공식 제품페이지(1차), 발췌·URL 확보, cross_ref 3건 교차확인. 콜라겐 아이템 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 4,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-005",
+    "verified_confidence": "상",
+    "verification_reason": "약물전달 CDMO 공식페이지(1차), 발췌·URL 확보, 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-006",
+    "verified_confidence": "중",
+    "verification_reason": "Evonik 공식 프레스가 403이라 PR Newswire(2차 보도자료)로 대체 확인. 발행일 12개월 내로 최신성 충족, cross_ref로 뒷받침.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-007",
+    "verified_confidence": "중",
+    "verification_reason": "복수 산업언론(2차) 교차확인 되나 정확 발표일 미확정으로 최신성 미충족.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-008",
+    "verified_confidence": "중",
+    "verification_reason": "2개 산업언론(2차) 교차확인된 M&A 동향이나 발행일 unknown으로 최신성 미충족. 배경정보.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-009",
+    "verified_confidence": "상",
+    "verification_reason": "등록/공개 특허(1차) Google Patents 접근 가능, 발췌·우선일 확보. 광가교 명시로 mTG 무관 확증하는 하중 큰 IP 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-010",
+    "verified_confidence": "상",
+    "verification_reason": "공식 보도(1차) mRNA 지질 투자 발표, 발췌·URL 확보, 구조적 파트너십.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-EVO-011",
+    "verified_confidence": "중",
+    "verification_reason": "단일 2차 업계뉴스, 검증 가능하나 교차확인 부족. 아이템 관련성 낮은 배경 파트너십.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식 제품 사이트(1차)+원문URL+발췌, 2건 교차확인. 구조적 사실로 최신성 무관.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차) 제품 구성 발췌+URL, 교차확인. 콜라겐 복합재 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차) 발췌+URL, 연조직 콜라겐 매트릭스 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-004",
+    "verified_confidence": "중",
+    "verification_reason": "source_type 공식홈페이지(1차)이나 직원수·규모는 ZoomInfo 2차 추정 포함, 단일 확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-005",
+    "verified_confidence": "중",
+    "verification_reason": "Dental Tribune(2차) 기반이나 특허(EV-GEI-006)로 교차확인된 화학 가교 R&D 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-006",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허(1차)+원문URL+발췌, EDC/NHS 화학가교 명시(mTG 미기재).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-007",
+    "verified_confidence": "중",
+    "verification_reason": "등록특허 US10960107(1차)은 검증되나 Bio-Gide US5837278은 2차 문헌 인용 혼재.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-008",
+    "verified_confidence": "중",
+    "verification_reason": "공식 뉴스(1차) 발췌 있으나 발행일 미상, 단일 확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-009",
+    "verified_confidence": "중",
+    "verification_reason": "공식 뉴스(1차) 2024 인수, LinkedIn/Lucerne 교차이나 Meta 일자 미확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-010",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차) FDA 510k, 발행일 추정이나 12개월 내, MPO/BioSpace 병행 확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-011",
+    "verified_confidence": "하",
+    "verification_reason": "공식 news 페이지 403 접근불가·발행일 미상, 검색 스니펫 기반 배경 동향. 콜라겐 연관은 타 카드로 충분해 하중 낮음.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEI-012",
+    "verified_confidence": "중",
+    "verification_reason": "기타(미확인) 음성확인(honest_gap)이나 재생치의학 콜라겐 정체성과 일관된 ADC/mTG 무관 판정.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-001",
+    "verified_confidence": "상",
+    "verification_reason": "GELITA 공식 About(1차), 발췌·URL 확보, 시장리포트 교차확인. 젤라틴·콜라겐 대기업 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-002",
+    "verified_confidence": "상",
+    "verification_reason": "MEDELLAPRO 공식 제품페이지(1차), 발췌·URL 확보, Pharma Excipients 교차확인. 의료용 젤라틴 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-003",
+    "verified_confidence": "상",
+    "verification_reason": "VERISOL 등 콜라겐 펩타이드 공식페이지(1차), 발췌·URL 확보. 콜라겐 직접사업 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-004",
+    "verified_confidence": "상",
+    "verification_reason": "Bioscience/의료기기 공식페이지(1차), 발췌·URL 확보, 학술리뷰와 정합. 3D프린팅·배양육 R&D.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-005",
+    "verified_confidence": "상",
+    "verification_reason": "GELITA 공식 기술블로그(1차) 저내독소 그레이드, 발췌·URL·발행일 확보, Pharma Excipients 교차확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-006",
+    "verified_confidence": "중",
+    "verification_reason": "2차 산업언론 신제품 동향, 발행일 12개월 내 최신성 충족하나 단일 출처.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-007",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론 컨퍼런스 동향, 발행일 최신, cross_ref 뒷받침. 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-008",
+    "verified_confidence": "중",
+    "verification_reason": "Pharma Excipients(2차) 제품출시 동향, 발행일 최신, cross_ref 뒷받침.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-009",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허(1차) Google Patents 접근 가능·발췌 확보, Espacenet 패밀리 정합. mTG-젤라틴 직접 접점의 하중 큰 IP 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-010",
+    "verified_confidence": "상",
+    "verification_reason": "특허 패밀리(1차) 접근 가능·발췌 확보, 동일 주제로 EV-GEL-009와 정합. mTG-젤라틴 가교 IP.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-011",
+    "verified_confidence": "중",
+    "verification_reason": "특허 공동출원인(1차) 사실은 확실하나 상업적 협업은 공동보유에서 추론이며 계약세부 미공개(honest_gap).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GEL-012",
+    "verified_confidence": "중",
+    "verification_reason": "2차 업계리포트, GELITA는 비당사자라는 맥락/부정 정보. 발행일 최신이나 단일 출처 배경.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(Invest in Estonia, 2차)+발췌, 공식 about 페이지와 교차. 구조적 기업정보이나 1차 단독 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식/유통 제품페이지(1차)+발췌, Gelacell 스캐폴드 용도 명확. EV-GLX-005와 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지(1차)+발췌, 배양육용 스캐폴드 공급 사실. 다수 언론 일치.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-004",
+    "verified_confidence": "상",
+    "verification_reason": "공식 기술페이지(1차)+발췌, 특허 US11697892B2로 뒷받침되는 핵심 플랫폼. 발행일 미상이나 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-005",
+    "verified_confidence": "중",
+    "verification_reason": "유통 제품페이지(2차)+발췌, 젤라틴 스캐폴드 별도 라인 명시. Collagen 연관 하중 사실이나 출처유형 2차. 특허(EV-GLX-007, 상)로 보강되어 accept.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-006",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(Tracxn, 2차)+발췌, 공적 R&D 과제 정보. 금액·기간은 리포트 인용값으로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-007",
+    "verified_confidence": "상",
+    "verification_reason": "Google Patents 등록특허 원문(1차)+발췌, 양수인 Gelatex 확인, 젤라틴·콜라겐을 방사 가능 고분자로 명시. Collagen 연관 핵심 하중 사실이 견고.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(Ilex 뉴스, 2차)+발췌, 유통 파트너십. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(EU-Startups/AIN, 2차)+발췌, 시드는 교차확인되나 Series A 클로징 미확인. 뉴스성이며 발행일 2022로 12개월 창 밖.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(FoodNavigator/vegconomist, 2차)+발췌, 파일럿 파트너 개별명 비공개. 구조적 협력 배경으로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-011",
+    "verified_confidence": "중",
+    "verification_reason": "PubMed 논문(1차)으로 젤라틴+mTG 일반 적용성은 견고하나, Gelatex의 실제 mTG '접점'은 직접 확인 못한 추론. 하중 사실이나 중 등급이라 accept(반려 아님).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-012",
+    "verified_confidence": "중",
+    "verification_reason": "논문(MDPI/Gels, 1차)+발췌로 분야 일반 동향(효소 가교) 확인. Gelatex 특정 채택 여부 미확인 추론. 중.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GLX-013",
+    "verified_confidence": "중",
+    "verification_reason": "출처유형 기타(미확인)의 종합 음성 결론이나 공식 홈페이지·특허 검토로 검증 가능. ADC 무관 하중 사실이 중이라 accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차) + 사람인 기업정보 교차확인, 발췌·URL 확보. 사업영역 구조적 사실(발행일 unknown이나 시점 무관).",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-002",
+    "verified_confidence": "상",
+    "verification_reason": "US FDA 510(k) K102307(규제기관·1차) 원문·발췌 확보. 소 힘줄 제1형 콜라겐 차폐막으로 콜라겐 직접 사업 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 4,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-003",
+    "verified_confidence": "중",
+    "verification_reason": "세계일보(2차) 보도, 발췌·URL 확보. OSTEON Xeno Collagen 허가 사실, 콜라겐 응용 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-004",
+    "verified_confidence": "중",
+    "verification_reason": "공식홈페이지(1차) 자기서술 R&D 주장으로 발행일 unknown, 특허(EV-005~007)로 보강 필요. 검증 가능하나 홍보성.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-005",
+    "verified_confidence": "상",
+    "verification_reason": "특허 KR20130038598A(1차), 출원인 제노스 확인·원문·발췌 확보. 콜라겐 GBR 차폐막 IP로 제품(EV-002)과 정합.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-006",
+    "verified_confidence": "상",
+    "verification_reason": "특허 KR102071029B1(1차), 출원인 제노스 확인·원문·발췌 확보. 이중가교(화학·물리) 하이드로겔로 mTG 무관 보강 근거.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-007",
+    "verified_confidence": "상",
+    "verification_reason": "특허 KR101806373B1(1차), 출원인 제노스 확인·원문·발췌 확보. 심혈관·골재생 IP(사업범위 확인용).",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-008",
+    "verified_confidence": "중",
+    "verification_reason": "디지틀조선(2차) 보도이나 본문 403으로 헤드라인·검색요약 근거, 12개월 이내. Collagen Graft x2D 콜라겐 신제품.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-009",
+    "verified_confidence": "하",
+    "verification_reason": "헬스경향(2차)이나 본문 403·발행일 unknown·계약상대 미확보(honest_gap). 필러 ODM 배경정보로 아이템 하중 낮음.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-010",
+    "verified_confidence": "하",
+    "verification_reason": "세계일보(2차)이나 본문 403 검색요약 근거, 발행일 18개월 경과 뉴스. 러시아 허가 배경 동향.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-011",
+    "verified_confidence": "중",
+    "verification_reason": "네이트뉴스(2차) 보도, 발췌·URL 확보, 12개월 이내. 필러·화장품 전시 동향(HA·PDRN 중심).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNS-012",
+    "verified_confidence": "하",
+    "verification_reason": "출처유형 기타(미확인)의 부재증명 카드로 추론 비중 큼. mTG/ADC 무관 결론은 이중가교 특허 EV-GNS-006(상)로 보강되어 하로 승인.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-001",
+    "verified_confidence": "중",
+    "verification_reason": "동성 계열사 공식소개(1차) + 기업정보 DB 교차확인이나 genewel.com 원문 403으로 스니펫 기반, 발행일 unknown.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-002",
+    "verified_confidence": "중",
+    "verification_reason": "공식 제품페이지(1차) 근거이나 본문 403으로 스니펫만 확보. 아텔로콜라겐 성분은 특허(EV-GNW-005)로 보강되는 콜라겐 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-003",
+    "verified_confidence": "중",
+    "verification_reason": "동성 공식소개(1차) 기반, 발췌 확보하나 발행일 unknown. 사업영역 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-004",
+    "verified_confidence": "하",
+    "verification_reason": "디지틀조선(2차) 보도이나 본문 403으로 스니펫만, 발행일 30개월 경과 뉴스. 콜라겐 함유 여부 미확인 배경정보로 아이템 판정에 하중 낮음.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-005",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허 WO2016010330A1(1차), Google Patents 원문 접근·발췌 확보. 콜라겐(20-99wt%) 중심 R&D 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-006",
+    "verified_confidence": "중",
+    "verification_reason": "동성화인텍 뉴스(2차) 스니펫 기반, 발행일 unknown. 성균관대 공동연구 배경정보.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-007",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허 US12583909B2(1차), 어사이니 Genewel+경희대 확인, 원문 접근·발췌 확보. 콜라겐 습식방사 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-008",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허 US12583909B2(1차), 원문·발췌 확보. BDDE/diepoxy 화학가교·트랜스글루타미나제 미언급으로 mTG 무관·콜라겐 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-009",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허 WO2016010330A1(1차), 원문·발췌 확보. 콜라겐 중심 지혈·유착방지, 열가교(비-mTG) 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-010",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허 EP2366409B1(1차), Google Patents 원문·발췌 확보. 유착방지 온도감응 조성물 IP 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-011",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허 US10987447B2(1차), 원문·발췌 확보. 창상피복재 항균 드레싱 IP 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-012",
+    "verified_confidence": "하",
+    "verification_reason": "팜이데일리·네이트(2차) 두 매체 교차하나 본문 403 스니펫, 발행일 15개월 경과 뉴스. 신공장 배경 동향으로 하중 낮음.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-013",
+    "verified_confidence": "하",
+    "verification_reason": "팜이데일리(2차) 스니펫 기반, 발행일 15개월 경과 뉴스. 글로벌 파트너십 확장 배경 동향.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-014",
+    "verified_confidence": "중",
+    "verification_reason": "동성 공식소개(1차) 기반, 발췌 확보하나 발행일 unknown·지분율 미확보(honest_gap). 계열구조 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-GNW-015",
+    "verified_confidence": "중",
+    "verification_reason": "경희대 공동은 특허 US12583909B2(1차)로 확인, 성균관대는 언론 스니펫으로 부분 교차. 발췌·URL 확보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 4,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차) + 위키 교차확인, 발췌·URL 확보. 구조적 사업사실로 시점 무관.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식 제품페이지(1차)로 SureDerm ADM 콜라겐 성분 확인, 발췌·URL 확보. 콜라겐 연관 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식 보도자료(1차)로 벨라젠 콜라겐 함량 확인, 발췌·URL 확보. 구조적 제품사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-004",
+    "verified_confidence": "중",
+    "verification_reason": "네이버 증권 리포트/DART 요약(IR·공시 계열) 기반이나 단일·30개월 경과 수치. 발췌·URL 확보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 실적 보도, 발췌·URL 확보, 최신. 1차 IR 원문은 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-006",
+    "verified_confidence": "중",
+    "verification_reason": "바이오타임즈 등 주요언론(2차) 보도, 발췌·URL 확보. 셀르디엠 콜라겐·ECM 근거이나 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-007",
+    "verified_confidence": "중",
+    "verification_reason": "스포츠경향 등 주요언론(2차) 보도, 발췌·URL 확보, 최신. 특허 출원중 단계로 1차 검증 불가.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-008",
+    "verified_confidence": "상",
+    "verification_reason": "PMC 피어리뷰 논문(1차), 원문 접근 가능·발췌 확보. BellaCell HD 콜라겐 이식재 특성 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-009",
+    "verified_confidence": "중",
+    "verification_reason": "보도자료 인용(2차), 발췌 확보하나 발행일 unknown·단일 출처. 배경 제품정보(리프팅 실)로 아이템 무관.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-010",
+    "verified_confidence": "중",
+    "verification_reason": "뉴스핌 등 주요언론(2차), 발췌·URL 확보, 12개월 이내 최신 동향.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-011",
+    "verified_confidence": "중",
+    "verification_reason": "상상인증권 업계리포트(2차) 브리핑, 발췌·URL 확보, 최신. 추정치 성격.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 보도, 발췌·URL 확보, 최신. 등록 특허번호 미확보(honest_gap)이나 출원중 단계로 정합.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-013",
+    "verified_confidence": "중",
+    "verification_reason": "딜사이트·이데일리(2차) 교차확인, 발췌·URL 확보, 최신. 지분·CB 사실 정합.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-014",
+    "verified_confidence": "중",
+    "verification_reason": "딜사이트·스마트투데이(2차) 보도, 발췌·URL 확보, 최신. 지분 매각 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-015",
+    "verified_confidence": "중",
+    "verification_reason": "비즈워치 거버넌스워치(2차) 보도, 발췌·URL 확보, 최신. 단일 출처.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-016",
+    "verified_confidence": "하",
+    "verification_reason": "출처유형 기타(미확인)·발행일 unknown의 부재증명 카드로 추론 비중 큼. mTG 무관 결론은 천연 콜라겐 ADM을 보인 EV-HAN-002(상)로 보강되어 하로 승인.",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HAN-017",
+    "verified_confidence": "하",
+    "verification_reason": "출처유형 기타(미확인)·발행일 unknown·교차확인 없는 부재증명 카드. ADC 무관은 인체조직 이식재 기업이라는 프로필(EV-HAN-001~008)로 자명하여 하로 승인.",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차) + 한국경제 교차확인, 발췌·URL 확보, 최신. HA·PDRN 기반 사업 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-002",
+    "verified_confidence": "상",
+    "verification_reason": "영문 공식홈페이지(1차)로 포트폴리오 확인, 발췌·URL 확보, 최신.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-003",
+    "verified_confidence": "중",
+    "verification_reason": "한국경제·더바이오(2차) 보도, 발췌·URL 확보. hADM 스킨부스터로 콜라겐 접점(단, 원료는 엘앤씨바이오 공급).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-004",
+    "verified_confidence": "중",
+    "verification_reason": "메디컬투데이(2차) 보도, 발췌·URL 확보. PLA 필러 콜라겐 유도(간접 접점) 판권 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-005",
+    "verified_confidence": "중",
+    "verification_reason": "공식홈페이지+약사공론(1차/2차 혼합), 발췌·URL 확보, 최신. HiVE·BDDE 화학가교로 mTG 무관 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-006",
+    "verified_confidence": "중",
+    "verification_reason": "휴메딕스 보도자료(1차) 기반, 발췌·URL 확보하나 단일·정형화된 발행일. HA 필러 R&D 선정 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-007",
+    "verified_confidence": "중",
+    "verification_reason": "영문 공식홈페이지(1차) 제품 나열, 발췌·URL 확보. HA·PDRN 전문의약품(콜라겐 소재 아님).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-008",
+    "verified_confidence": "중",
+    "verification_reason": "약사공론·청년일보(2차) 실적 보도, 발췌·URL 확보, 12개월 이내. 1차 IR 원문은 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-009",
+    "verified_confidence": "중",
+    "verification_reason": "한국경제(2차) 보도, 발췌·URL 확보, 최신. HA 필러 NMPA 허가 동향.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-010",
+    "verified_confidence": "중",
+    "verification_reason": "휴메딕스 보도자료·약사공론(2차), 발췌·URL 확보, 최신. PN·HA 밸피엔 허가신청(콜라겐 소재 아님).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-011",
+    "verified_confidence": "중",
+    "verification_reason": "뉴시스·아시아경제·약사공론(2차) 다수 교차, 발췌·URL 확보, 최신. HA/PN 필러 러시아 특허(mTG·콜라겐·ADC 무관).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-012",
+    "verified_confidence": "중",
+    "verification_reason": "약사공론(2차) 보도, 발췌·URL 확보, 최신. KR 등록번호 미특정·후보 assignee 타사(honest_gap)이나 기사 기반 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-013",
+    "verified_confidence": "중",
+    "verification_reason": "엘앤씨바이오 공지·한국경제(2차) 보도, 발췌·URL 확보. hADM 공급계약으로 휴메딕스 콜라겐 접점(공급·유통 경유).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-014",
+    "verified_confidence": "중",
+    "verification_reason": "팜이데일리·보도자료(2차), 발췌·URL 확보. 유통 파트너십(엘앤씨·광동·아르케) 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-015",
+    "verified_confidence": "중",
+    "verification_reason": "팜이데일리·바이오스펙테이터(2차), 발췌·URL 확보. ADC 접점은 별도법인 휴온스랩 하이디퓨즈로 휴메딕스 자체 아님 — ADC 무관 판정 근거(단일 출처).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-HUM-016",
+    "verified_confidence": "하",
+    "verification_reason": "출처유형 기타(미확인)·발행일 unknown의 부재증명 카드로 추론 비중 큼. mTG 무관 결론은 BDDE 화학가교를 보인 EV-HUM-005(중)로 보강되어 하로 승인.",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-001",
+    "verified_confidence": "상",
+    "verification_reason": "IR·공시(SEC 10-K) 1차 출처 + 발췌, 콜라겐 매트릭스 제품군이 회사 정체성 핵심임을 명시하는 구조적 사실. 다중 교차참조.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-002",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(StockTitan)의 10-K 요약 2차 출처. 사업부·매출 구조적 사실이나 1차 공시 직접 인용 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(EMEA) 1차 출처 + 발췌, Type I 콜라겐이 R&D 플랫폼 중심임을 명시하는 구조적 사실. 다중 교차참조.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-004",
+    "verified_confidence": "상",
+    "verification_reason": "특허(Google Patents) 1차 출처 + 발췌, 콜라겐-GAG 복합 소재 조성 구조적 사실. 원문접근 가능.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-005",
+    "verified_confidence": "상",
+    "verification_reason": "특허(US6969523B1) 1차 출처, Assignee(Integra) 직접 확인 + 발췌. 화학(글루타르알데히드) 가교이며 mTG 미사용을 뒷받침하는 강근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-006",
+    "verified_confidence": "상",
+    "verification_reason": "특허(US6969523B1) 1차 출처 + 발췌, 가교 공정 세부(0.5% 글루타르알데히드) 확인. mTG 아닌 알데히드 화학가교 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-007",
+    "verified_confidence": "중",
+    "verification_reason": "IR·공시 보도자료 1차 유형, 뉴스·동향 발행일(2025-09) 12개월 이내로 최신성 충족하나 정확 게시일 근사. self_confidence 중과 일치.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-008",
+    "verified_confidence": "상",
+    "verification_reason": "규제기관(FDA 경고서한) 1차 출처 + 발췌, 규제 리스크 사실. 뉴스·동향으로 발행일(2024-12)이 12개월 창 밖이나 24개월 이내로 검증가능.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-009",
+    "verified_confidence": "중",
+    "verification_reason": "IR·공시 보도자료 1차 유형이나 게시일 미상으로 뉴스·동향 최신성 확정 불가. 콜라겐 신제품 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-010",
+    "verified_confidence": "상",
+    "verification_reason": "IR·공시(GlobeNewswire) 1차 출처 + 발췌, Acclarent 인수완료 M&A 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-011",
+    "verified_confidence": "상",
+    "verification_reason": "IR·공시(SEC EDGAR) 1차 출처 + 발췌, SIA/DuraSorb 인수 구조적 사실. 게시일 근사이나 1차 공시 검증가능.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-INT-012",
+    "verified_confidence": "상",
+    "verification_reason": "논문(ScienceDirect/ACS) 1차 출처 + 발췌, Integra 특허(글루타르알데히드)와의 대조로 mTG/ADC 무관을 명확히 하는 검증가능 근거. honest_gap 문서화·다중 교차참조.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-001",
+    "verified_confidence": "중",
+    "verification_reason": "THE VC 업계리포트(2차)로 매출구성 집계, 원 1차는 DART/KIND 사업보고서. 발행일 미상이나 EV-JET-002와 교차되고 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-002",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(컨슈머타임스, 2차) 단일 출처이나 매출 추세를 EV-JET-001과 교차확인. 구조적 사실로 최신성 충족.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(전자신문, 2차) 기반 제품(에꼴라S/PLLA) 출시 사실, 근거발췌·URL 접근 가능. 콜라겐 자극 접점.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(뉴스핌, 2차) 기반 hADM/ECM 아디떼 콜라겐 접점. 2개 카드로 교차되나 1차 출처 아님. 콜라겐 직접 접점의 핵심 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 기반 아디떼 원 제조/특허=메드파크 구분 명시. 발췌·URL 접근 가능, EV-JET-004와 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(메디컬투데이, 2차) 단일 출처이나 PN 스킨부스터 허가 사실 검증 가능. 교차 카드 없음.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(팜이데일리, 2차) 기반 톡신 R&D(A형 상용화·E형 파이프라인), EV-JET-008과 교차. 1차 아님으로 상 불가.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 기반 톡신 품목허가 타임라인, EV-JET-007과 교차확인. 검증·접근 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(파이낸셜뉴스·한국경제, 2차) 12개월 내 핵심 뉴스, 2개 매체 교차. 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(한국경제, 2차) 12개월 내 동향, 에꼴라(콜라겐자극) 글로벌 확장, EV-JET-003과 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 12개월 내 동향, 콜라겐 함유 ECM 아디떼 재생의학 응용, EV-JET-004와 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-012",
+    "verified_confidence": "중",
+    "verification_reason": "특허(Google Patents, 1차) URL·특허번호 발췌 확보하나 assignee 검색페이지·발행일 미상이고 IP 용도 일부 추정. HA 가교는 BDDE 화학가교로 mTG 아님.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-013",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(Businesskorea·벤처스퀘어, 2차) 화동 라이선스아웃·유통계약 교차확인. 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-014",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 글로벌 수출계약, EV-JET-013과 교차. 필러·톡신 거래로 관심 아이템과 무관.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JET-015",
+    "verified_confidence": "상",
+    "verification_reason": "재조사: DART 기반 사업구성(HA필러·톡신·리프팅실)·파이프라인 공식 확인으로 ADC/mTG 부재를 뒷받침. 필러 가교는 BDDE 화학가교. 무관 결론 상향 확정 → accept(상).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-001",
+    "verified_confidence": "상",
+    "verification_reason": "IR·공시(10-K) 기반 1차 출처, 구조적 사업분야 사실, 근거발췌 존재. 세부 수치 일부 마스킹은 등급에 영향 없음.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-002",
+    "verified_confidence": "상",
+    "verification_reason": "J&J MedTech 공식 제품페이지(1차) + 근거발췌, 구조적 제품 소재 사실. SURGICEL=ORC(비콜라겐) 판정 명확.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식 포트폴리오 자료(1차)+발췌, 젤라틴(콜라겐 유도체) 소재 명시. Collagen 아이템 직접 연관 하중 사실이며 근거 견고.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-004",
+    "verified_confidence": "상",
+    "verification_reason": "공식 제품페이지(1차)+발췌, 돼지 유래 젤라틴 매트릭스로 Collagen 연관 명확. EV-JNJ-003과 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-005",
+    "verified_confidence": "중",
+    "verification_reason": "제품 정체성(미세섬유상 콜라겐 지혈제)은 명확하나 출처가 유통 카탈로그(Medline, 2차) 단일이고 발행일 미상. Collagen 연관이나 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-006",
+    "verified_confidence": "상",
+    "verification_reason": "공식 제품페이지(1차)+발췌. 피브린/ORC 기반(비콜라겐) biosurgery 범위 확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(PR Newswire 보도자료 인용, 2차)+발췌. 뉴스성 정보이나 발행일 2023-11로 12개월 창 밖. 배경정보(합성 폴리머, 아이템 무관).",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차)+공식 보도자료 인용, 인수 완료일 교차확인. ADC는 별개 제약부문 배경정보. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(OncLive, 2차)+발췌. 접합화학이 옥심/비천연아미노산(mTG 아님)임을 명시 — mTG-ADC 무관 판정의 하중 사실이나 중 등급이라 반려 불필요.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-010",
+    "verified_confidence": "상",
+    "verification_reason": "Google Patents 원문(1차 특허)+발췌, 양수인 Lifebond/Bard Shannon 확인. mTG-젤라틴 특허가 J&J 아님을 입증하는 하중 사실이 견고.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-011",
+    "verified_confidence": "중",
+    "verification_reason": "IR·공시 요약(1차 성격) 기반이나 미래지향적 분사 의향으로 해석 여지 존재. 최근 12개월 내 동향, 배경정보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-JNJ-012",
+    "verified_confidence": "중",
+    "verification_reason": "출처유형 기타(미확인)의 종합 음성 결론이나 EV-JNJ-009(중)·010(상 특허)로 교차 뒷받침되어 검증 가능. mTG 무관 판정의 하중 사실이 중이라 accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-001",
+    "verified_confidence": "중",
+    "verification_reason": "Pharma Manufacturing(2차)+PRNewswire 공식 보도자료·IR 교차, 원문 URL·발췌. 구조적 분사·리브랜드 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-002",
+    "verified_confidence": "중",
+    "verification_reason": "MarketScreener(2차) 시장정보 기반, 원문 URL·발췌, EV-KEE-001 교차. 포트폴리오에 XIAFLEX(콜라게나제) 포함. 매출 수치는 시장정보 소스.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-003",
+    "verified_confidence": "상",
+    "verification_reason": "FDA 승인 보도자료(규제기관 1차)+FDA 제품페이지·US Pharmacist 교차, 원문 URL·발췌. StrataGraft가 뮤린 제I형 콜라겐 매트릭스 기반 = Collagen 아이템 연관의 하중 큰 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-004",
+    "verified_confidence": "상",
+    "verification_reason": "Burns 저널 피어리뷰 논문(1차, PubMed 38087659)+원문 URL+발췌, EV-KEE-003 교차. 정제 제I형 콜라겐 하이드로겔 공정 = Collagen 소재 사용 직접 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-005",
+    "verified_confidence": "상",
+    "verification_reason": "XIAFLEX HCP 기전 페이지(규제기관 1차)+Wikipedia·FDA 라벨(125338) 교차, 발췌 확보. 콜라게나제로 콜라겐 분해(응용) 제품 = Collagen 아이템 접점.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-006",
+    "verified_confidence": "중",
+    "verification_reason": "NIH SEED(규제기관계)+Keenova IR 교차, 발췌 확보. RMAT·orphan 지정·BARDA 지원의 배경정보. 발행일 미상이나 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-007",
+    "verified_confidence": "중",
+    "verification_reason": "pharmaphorum(2차)+Pharma Manufacturing 교차, 원문 URL·발췌. 리브랜드·NYSE 상장계획 뉴스로 발행 2025-11 최신성 충족.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-008",
+    "verified_confidence": "중",
+    "verification_reason": "Dermatology Times·Keenova IR(규제기관계) 2개 소스 교차, 발췌 확보. 뉴스 발행일 미상으로 최신성 미확정.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-009",
+    "verified_confidence": "상",
+    "verification_reason": "Keenova IR 보도자료(IR·공시 1차)+원문 URL+발췌. 전략 치료영역 목록에 종양학·ADC 부재 = ADC 무관 판정 근거. 발행 2025-11 최신성 충족.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-010",
+    "verified_confidence": "중",
+    "verification_reason": "Justia/Google Patents(특허 1차)+USPTO PDF·AU 등록 교차, 발췌 확보. 콜라겐 인공피부 냉장·동결보존 IP로 mTG 가교 특허는 미검색. 콜라겐 소재보다 보관공정 특허.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-011",
+    "verified_confidence": "중",
+    "verification_reason": "FiercePharma(2차)+복수 언론 교차, 원문 URL·발췌. Mallinckrodt-Endo 합병 및 XIAFLEX 편입 경로의 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-KEE-012",
+    "verified_confidence": "중",
+    "verification_reason": "honest_gap 부재 근거 카드(기타·미확인 tier, 발췌 존재). mTG 가교·ADC 종양학 파이프라인 미검색. EV-KEE-009 전략목록·EV-KEE-010 IP와 정합해 mTG·ADC 무관 결론 지지. 하중 큰 사실이나 정합성 충분해 하 아닌 중, accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차) 제품페이지로 MegaDerm ADM 콜라겐/ECM 구조 확인, 발췌·URL 확보. 콜라겐 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-002",
+    "verified_confidence": "중",
+    "verification_reason": "한국경제(2차) 실적 보도, 별도 흑자전환 보도로 교차확인, 발췌·URL 확보, 최신.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-003",
+    "verified_confidence": "중",
+    "verification_reason": "딜사이트·한국경제(2차) 교차확인, 발췌·URL 확보, 최신. Re2O 콜라겐/ECM 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-004",
+    "verified_confidence": "중",
+    "verification_reason": "더바이오·보도자료(2차), 발췌·URL 확보. 콜라겐/ECM 제품 포트폴리오 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-005",
+    "verified_confidence": "중",
+    "verification_reason": "서울경제·더바이오(2차) 보도, 발췌·URL 확보. ADC 무관 판정의 핵심 근거이나 신뢰도 중으로 반려 대상 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-006",
+    "verified_confidence": "상",
+    "verification_reason": "Frontiers/PMC 피어리뷰 논문(1차), 원문 접근 가능·발췌 확보. HA-CMC 가교(비-mTG)와 콜라겐/ECM 연구 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-007",
+    "verified_confidence": "중",
+    "verification_reason": "PMC 논문(1차)이나 저자소속 L&C 연계는 검색 기반 추정으로 재확인 갭. ADM/콜라겐 개질 연구 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-008",
+    "verified_confidence": "중",
+    "verification_reason": "Synapse/PatSnap 업계리포트(2차), 발췌·URL 확보하나 발행일 unknown. MegaCarti 임상 파이프라인.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-009",
+    "verified_confidence": "중",
+    "verification_reason": "한국경제·더바이오(2차) 특허 보도, 발췌·URL 확보. 콜라겐 보존 ADM 제조 특허(초저온 분쇄, 비-mTG) 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-010",
+    "verified_confidence": "중",
+    "verification_reason": "헬스조선·보사 주요언론(2차) 보도, 발췌·URL 확보. 출원번호 KIPRIS 미확보(honest_gap)이나 기사 기반 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-011",
+    "verified_confidence": "중",
+    "verification_reason": "한국경제(2차) 보도, 발췌·URL 확보. HA(다당류) 가교 채택 확인으로 mTG 무관 보강 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-012",
+    "verified_confidence": "중",
+    "verification_reason": "한국경제(2차) 보도, 발췌·URL 확보, 12개월 이내 최신 동향.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-013",
+    "verified_confidence": "중",
+    "verification_reason": "바이오타임즈(2차) 보도, 발췌·URL 확보, 12개월 이내. 수요 동향.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-014",
+    "verified_confidence": "중",
+    "verification_reason": "더벨·한국경제(2차) 보도, 발췌·URL 확보, 최신. 중국 유통 파트너십 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-015",
+    "verified_confidence": "중",
+    "verification_reason": "공식 회사소개(1차)이나 발행일 unknown. 중국 JV 연혁 구조적 사실, 발췌·URL 확보.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-016",
+    "verified_confidence": "중",
+    "verification_reason": "더벨(2차) 보도, 발췌·URL 확보, 최신. 투자유치 동향.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-LNC-017",
+    "verified_confidence": "하",
+    "verification_reason": "출처유형 기타(미확인)의 부재증명 카드로 추론 비중 큼. mTG 무관 결론은 HA-CMC·초저온 가교를 보인 EV-LNC-006(상)/011(중)로 보강되어 하로 승인.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-001",
+    "verified_confidence": "중",
+    "verification_reason": "Medtronic 공식 실적(1차)+market.us 시장리포트 병합, 세그먼트 구조는 2차 리포트 의존. 발췌 존재, 교차 있으나 혼합 출처로 중.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식 제품페이지(1차)+발췌, 임상리뷰 교차. Veriset=합성(비콜라겐) 판정은 임무 가정을 교정하는 하중 사실이며 근거 견고.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-003",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 임상리뷰(논문 1차)+발췌, 포트폴리오 전반이 합성 화학임을 명시. EV-MDT-002와 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-004",
+    "verified_confidence": "상",
+    "verification_reason": "공식 INFUSE 제품페이지(1차)+PMC 리뷰 교차+발췌. 흡수성 콜라겐 스펀지(ACS) 사용은 Collagen 연관 하중 사실로 견고.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-005",
+    "verified_confidence": "중",
+    "verification_reason": "USPTO/Google Patents(1차) 특허번호+발췌이나, 콜라겐·mTG '아님'은 부분적으로 부재 추론을 포함. 방향성 근거로 중.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-006",
+    "verified_confidence": "상",
+    "verification_reason": "Google Patents 원문(1차)+발췌, 양수인 Bard Shannon/Lifebond 확인. mTG-젤라틴 특허가 Medtronic 아님을 입증하는 하중 음성 근거가 견고.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(PR Newswire 보도자료, 2차)+발췌, 최근 12개월 내 동향. 특정 아이템 언급 없는 배경.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-008",
+    "verified_confidence": "중",
+    "verification_reason": "시장리포트(업계리포트 2차)+발췌. Medtronic 콜라겐/mTG 인수 부재의 honest_gap, 경쟁사 거래 중심 배경정보. 상충 없음.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-009",
+    "verified_confidence": "중",
+    "verification_reason": "출처유형 기타(미확인)의 종합 음성 결론이나 ADC 리뷰 대조로 검증 가능. Medtronic ADC/mTG 무관 하중 사실이 중이라 accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MDT-010",
+    "verified_confidence": "중",
+    "verification_reason": "PubMed 논문(1차)+발췌로 젤라틴-mTG 학술맥락 확인. 다만 'Medtronic은 접점 밖'은 회사 대조 추론 포함으로 중. EV-MDT-002/006과 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-001",
+    "verified_confidence": "중",
+    "verification_reason": "Quality Assurance & Food Safety·Cultivated X(2차) 교차, 원문 URL·발췌. 구조적 제품 구성 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-002",
+    "verified_confidence": "중",
+    "verification_reason": "vegconomist·AgFunderNews(2차) 기반, 원문 URL·발췌. 설립·창업자·첫 제품의 구조적 사실. 단일 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-003",
+    "verified_confidence": "중",
+    "verification_reason": "vegconomist(2차)+EV-MIS-005 교차, 발췌 확보. 부착성 세포+식용 스캐폴드로 콜라겐/젤라틴 접점 가능성의 배경.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-004",
+    "verified_confidence": "상",
+    "verification_reason": "특허 US20230100306A1(1차)+원문 URL+발췌, EV-MIS-005 교차. 핵심 IP가 바이오리액터 하드웨어(효소·가교 아님)임 확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-005",
+    "verified_confidence": "중",
+    "verification_reason": "특허(1차)+발췌로 fibronectin·gelatin·collagen 코팅 옵션은 직접 확인. 단 콜라겐/젤라틴은 다수 선택지 중 하나이며 mTG는 특허·공개자료에서 미확인(honest_gap). mTG/Collagen 연관 판정의 하중 큰 사실이나 중이므로 accept.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-006",
+    "verified_confidence": "중",
+    "verification_reason": "AgFunderNews·Quality Assurance(2차) 교차 강함, 원문 URL·발췌. FDA 'No Questions' 마일스톤이나 발행 2025-03으로 12개월 초과.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-007",
+    "verified_confidence": "중",
+    "verification_reason": "Cultivated X·AgFunderNews(2차) 교차, 원문 URL·발췌. USDA 승인 마일스톤이나 발행 2025-07-01로 12개월 경계 초과.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-008",
+    "verified_confidence": "중",
+    "verification_reason": "Green Queen·Cultivated X(2차) 교차, 원문 URL·발췌. 구조적 상업 파트너십 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-009",
+    "verified_confidence": "중",
+    "verification_reason": "Food Dive·PitchBook(2차), $24M Series A·$60M+ 누적은 복수 출처 일치. 단 출처 간 누적 총액 편차($27.7M~$108M) 존재로 상충 표기. 배경정보라 accept.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "상충"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MIS-010",
+    "verified_confidence": "중",
+    "verification_reason": "Green Queen·FoodNavigator-USA(2차) 교차, 원문 URL·발췌. B2B 라이선싱 계획으로 발행 2025-03 12개월 초과.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-001",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(2차)이나 원문 URL·발췌 확보, 공식 홈페이지와 교차확인. 1차 출처가 아니어서 상은 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-002",
+    "verified_confidence": "상",
+    "verification_reason": "SEC 8-K(IR·공시, 1차)+StockTitan 교차, 원문 URL·발췌·최신 발행일(2026-02) 충족.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-003",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(2차) 단일, 발췌 확보되고 공식 제품페이지 반복 확인. 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-004",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire 보도(2차) 기반, CollaFix 콜라겐 플랫폼 구조적 사실로 발췌·교차 확보. 1차 논문 원문 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-005",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 논문(PMC, 1차)+공식 과학리뷰 교차, 발췌·원문 확보. 콜라겐 기반 ECM 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-006",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차)로 특허군 존재는 확인되나 개별 등록번호 매칭은 honest_gap. 사실 자체는 복수 보도로 확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-007",
+    "verified_confidence": "상",
+    "verification_reason": "학술문헌(논문, 1차)로 CollaFix 가교가 NDGA(비 mTG)임을 확인, 원문·발췌·교차 확보. mTG 접점 부정 핵심 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-008",
+    "verified_confidence": "상",
+    "verification_reason": "라이선스 계약 원문(Justia, 1차 공시성 문서)+Koob CSO 이력 교차. 발췌 확보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론 복수 종합(2차), 발행일 12개월 이내 최신성 충족. 단일 계열 뉴스로 상은 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-010",
+    "verified_confidence": "상",
+    "verification_reason": "SEC 8-K(IR·공시, 1차)+StockTitan 교차, 발행일(2026-04) 최신·발췌 확보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 유통 파트너십, 발췌·교차 확보. 1차 계약원문 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MMX-012",
+    "verified_confidence": "하",
+    "verification_reason": "웹검색 종합(기타·미확인)의 부재(absence) 추론. ADC/mTG 무관을 확인하는 배경성 비연관 근거이며, 콜라겐 아이템의 긍정적 연관을 좌우하지 않음.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-001",
+    "verified_confidence": "하",
+    "verification_reason": "출처가 Wikipedia(위키·미확인 tier)이며 발행일 unknown. §7상 위키·미상은 하. 다만 EV-MOS-012(2차 언론)와 교차되는 회사 정체성 배경정보로 아이템 연관 좌우 사실은 아님.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-002",
+    "verified_confidence": "중",
+    "verification_reason": "FoodNavigator(주요언론 2차)+Green Queen 교차, 원문 URL·발췌 확보. 구조적 사업전략 사실로 최신성 무관.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-003",
+    "verified_confidence": "중",
+    "verification_reason": "AgFunderNews(2차)+Wikipedia 교차. 2022 피어리뷰 논문을 언급하나 원논문 직접 링크가 아닌 2차 보도 기반.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-004",
+    "verified_confidence": "중",
+    "verification_reason": "GFI(업계리포트 2차) 기반이나 특허 WO2021158105A1(1차)과 정합. 알지네이트·콜라겐 미채택 근거로 Collagen 아이템 연관 판정 보조.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-005",
+    "verified_confidence": "상",
+    "verification_reason": "등록특허 WO2021158105A1(1차)+원문 URL+발췌, EV-MOS-006 교차. RGD 콜라겐 모방 펩타이드로 콜라겐 의도적 회피·mTG 미언급 = Collagen/mTG 아이템 연관 판정의 하중 큰 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-006",
+    "verified_confidence": "상",
+    "verification_reason": "특허(1차)+원문 URL+발췌, 이온·화학(EDC) 가교이며 mTG 효소 미사용 명시. mTG 접점 부재의 1차 근거로 EV-MOS-005와 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-007",
+    "verified_confidence": "중",
+    "verification_reason": "특허(1차)이나 Justia 본문 403 접근불가로 WebSearch 스니펫의 제목·출원번호로만 확인, 단일 출처. 콜라겐 직접사용 아닌 피브린 배경정보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-008",
+    "verified_confidence": "중",
+    "verification_reason": "특허(1차)이나 Justia assignee 페이지 403, WebSearch 결과로 번호·주제만 확인. EV-MOS-006 교차. 알지네이트/하이드로겔 계열로 mTG·콜라겐 아님.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-009",
+    "verified_confidence": "중",
+    "verification_reason": "FoodNavigator(2차)+다수 매체 교차, 원문 URL·발췌 확보. 뉴스 발행 2025-01로 12개월 초과이나 24개월 내 규제신청 사실.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-010",
+    "verified_confidence": "중",
+    "verification_reason": "Green Queen(2차) 본문 페치 403이나 NL Times·EU-Startups 3개 매체 스니펫 일치로 교차확인. 발행 2025-12로 최신성 충족.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-011",
+    "verified_confidence": "중",
+    "verification_reason": "Green Queen(2차)+just-food 교차, 원문 URL·발췌. 뉴스 발행일 unknown으로 최신성 미확정.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-MOS-012",
+    "verified_confidence": "중",
+    "verification_reason": "AgFunderNews(2차)+Wikipedia 펀딩 타임라인 교차. 구조적 투자이력. 식품·유통·상사 중심 파트너로 제약/ADC 파트너 부재 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈(1차) 발췌·URL 확보, PMC 리뷰 교차확인. 100년 젤라틴·콜라겐 기업 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-002",
+    "verified_confidence": "중",
+    "verification_reason": "2차 산업 프로필, 발췌·URL 확보·cross_ref 있으나 발행일 unknown이고 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-003",
+    "verified_confidence": "상",
+    "verification_reason": "Wellnex 공식 제품페이지(1차), 발췌·URL 확보. 콜라겐 펩타이드 직접사업.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-004",
+    "verified_confidence": "상",
+    "verification_reason": "beMatrix 공식(1차), 발췌·URL 확보, cross_ref. 저내독소 젤라틴·콜라겐 생의료 사업 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-005",
+    "verified_confidence": "상",
+    "verification_reason": "Cellmatrix 공식 제품페이지(1차), 발췌·URL 확보, FUJIFILM Wako 카탈로그 교차확인. 세포배양 콜라겐 R&D.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-006",
+    "verified_confidence": "상",
+    "verification_reason": "beMatrix 공식(1차) iPS-RPE 임상 사용, 발췌·URL 확보, PMC 논문 교차확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-007",
+    "verified_confidence": "상",
+    "verification_reason": "미국특허(1차) Google Patents에서 assignee=Nitta Gelatin 직접 확인, 발췌·URL 확보. 콜라겐 펩타이드 IP.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-008",
+    "verified_confidence": "중",
+    "verification_reason": "계열 특허(1차) 접근 가능하나 assignee가 검색 스니펫 기반 확인으로 EV-NIT-007보다 검증 강도 약함.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-009",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론·NGIL 자료 교차확인된 증설 동향이나 발행일 2024-05로 12개월 초과, 최신성 미충족.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-010",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론·공식 보도 교차확인된 매각 사실, 발췌·URL 확보. 구조적 M&A이나 1차 자사문서 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-011",
+    "verified_confidence": "상",
+    "verification_reason": "NGIL 공식(1차) JV 구조, 발췌·URL 확보, cross_ref 뒷받침.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-012",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 논문(1차)이 Nitta 젤라틴을 mTG 가교 기질로 직접 명시(발췌 확보). Nitta는 효소 제조사 아닌 기질 공급자임이 명확한 하중 큰 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-013",
+    "verified_confidence": "중",
+    "verification_reason": "1차 논문이나 배양육 젤라틴 스캐폴드의 '분야 일반' 동향이며 Nitta 직접 참여는 미확인(추론).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NIT-014",
+    "verified_confidence": "중",
+    "verification_reason": "ADC 무관을 다중 검색으로 문서화한 honest_gap 부정 근거. 미확인 출처지만 검색 방법·0건 결과가 명시되어 판정 좌우 정도의 부실은 아님.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-001",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(GFI, 2차)+발췌, 3개 카드 교차. 구조적 사업정보이나 출처유형 2차로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-002",
+    "verified_confidence": "중",
+    "verification_reason": "유통사(Cellbase/Ilex, 2차) 제품정보+발췌, 다수 교차. 소재가 식물 다당류(비콜라겐)임 확인. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차)+발췌, 시설 위치가 companies.tsv와 일치. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-004",
+    "verified_confidence": "중",
+    "verification_reason": "공식 홈페이지(1차)이나 WebFetch 403으로 본문 직접 접근 실패, 검색 캐시 스니펫만 확보. 세포치료 응용 배경정보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차)+발췌, 콜라겐·젤라틴 소재 옵션 언급. Collagen 연관 사실이나 상용 방향은 대체(EV-NXT-013). 특허(EV-NXT-007, 상)로 보강되어 중으로 accept.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차)+발췌, 재생의학→배양육 기술이전 배경. 복수 스니펫 일치. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-007",
+    "verified_confidence": "상",
+    "verification_reason": "특허 원문(FreePatentsOnline, 1차) 전문 확인+발췌, collagen·gelatin을 방사 소재로 명시. Collagen 연관 핵심 하중 사실이 견고. 가교/mTG 언급 없음도 확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차)+발췌, '50건 특허'는 언론 인용 수치로 개별번호 미확보(honest_gap). 검증 가능한 배경정보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 3개+발췌 교차확인된 인수 사실. 뉴스성이며 발행일 2025-01로 12개월 창 밖. 출처유형 2차로 중.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(vegconomist, 2차) 원문 403, 검색 스니펫만 확보하고 발행일 미상. 뉴스성 배경정보로 원문접근불가 플래그.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-011",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(Crunchbase, 2차)+발췌 교차. 정확한 라운드 규모는 유료DB 미확인(honest_gap)이나 구조적 투자 배경으로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(PR Newswire, 2차)+발췌, FinSMEs 교차. 전신 설립·시드 이력. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-013",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(GFI, 2차)+발췌, 4개 카드 교차. Collagen 대체(식물 다당류) 전략 nuance — 아이템 연관 판정의 핵심 맥락이나 출처유형 2차로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 4,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-014",
+    "verified_confidence": "중",
+    "verification_reason": "출처유형 기타(미확인)의 음성 결론이나 특허 본문(EV-NXT-007, 상)에 mTG/가교 부재로 교차 뒷받침. mTG 무관 하중 사실이 중이라 accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-NXT-015",
+    "verified_confidence": "중",
+    "verification_reason": "출처유형 기타(미확인)의 음성 결론이나 NextCure(별개사) 혼동 배제 논리가 명확해 검증 가능. ADC 무관 하중 사실이 중이라 accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지(1차)+Yahoo Finance 교차, 2개 사업부문 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-002",
+    "verified_confidence": "중",
+    "verification_reason": "SEC 8-K(1차)이나 원문 403, 검색요약·IR 보도자료로 교차확인된 FY2025 매출.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-003",
+    "verified_confidence": "상",
+    "verification_reason": "미국특허(1차)+발췌, Apligraf 소 I형 콜라겐 격자 명시. WoundSource 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-004",
+    "verified_confidence": "중",
+    "verification_reason": "Practical Dermatology(2차) PuraPly AM 콜라겐매트릭스, BioSpace 교차. 가교는 'native' 표현.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-005",
+    "verified_confidence": "상",
+    "verification_reason": "IR 보도자료(1차) ReNu RMAT·ECM 성분, StockTitan 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-006",
+    "verified_confidence": "중",
+    "verification_reason": "StockTitan(2차) 뉴스 BLA 제출, 12개월 내, Investing.com 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-007",
+    "verified_confidence": "중",
+    "verification_reason": "SEC 8-K(1차) Q4 실적이나 IR페이지 403, 검색요약 인용. 뉴스 12개월 내.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-008",
+    "verified_confidence": "상",
+    "verification_reason": "특허(1차) 콜라겐 IP(전기처리·인공피부·PHMB), Google Patents 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-009",
+    "verified_confidence": "중",
+    "verification_reason": "특허(1차) 대조로 mTG 음성확인(honest_gap), Organogenesis 명의 mTG 특허 부재. PuraPly는 native cross-linked.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-010",
+    "verified_confidence": "상",
+    "verification_reason": "공식 연혁(1차)+PR Newswire 교차, 인수·상장 이력.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ORG-011",
+    "verified_confidence": "중",
+    "verification_reason": "공식 사업개요(1차) 기반 ADC 음성확인(honest_gap), 재생의학 한정.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈페이지 1차 출처 + 발췌 + 다수 2차출처 교차확인된 핵심 사업 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식 제품페이지 1차 출처 + 발췌, 제품라인·타깃시장 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-003",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(Tracxn) 2차 출처, 자체 BioInk/OsteoInk 구조적 사실이나 콜라겐 명시는 없음(화학정의 하이드로겔). 단일 2차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(3DPrint.com) 2차 출처, 콜라겐 바이오잉크 프린팅 응용 접점. 콜라겐 자체 생산 아닌 인에이블링 플랫폼.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-005",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(Aniwaa) 2차 출처, 3DDiscovery 광가교·프린트헤드 사양 사실. 단일 2차·발행일 미상.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-006",
+    "verified_confidence": "중",
+    "verification_reason": "공식 뉴스 1차 출처이나 뉴스·동향 카드로 발행일(2021)이 12개월 창 밖. 3DPrint.com 동일 보도 존재.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-007",
+    "verified_confidence": "중",
+    "verification_reason": "공식 뉴스 1차 유형이나 페이지 403으로 본문 미열람·발행일 미상, 검색 스니펫 확인. honest_gap 명시.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-008",
+    "verified_confidence": "중",
+    "verification_reason": "특허(Justia) 1차 유형이나 상세페이지 403으로 목록 미열람, 검색 스니펫 기반. 하드웨어 특허(콜라겐 소재 아님).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-009",
+    "verified_confidence": "중",
+    "verification_reason": "Google Patents 1차 출처 + 발췌이나 특허 자체는 RegenHU 소유 아님(장비 사용 언급). 인접 근거로 중.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(News-Medical) 2차 출처이나 CORDIS 프로젝트·공식뉴스로 교차확인된 컨소시엄 참여 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-011",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(PitchBook/Crunchbase) 2차 출처로 인수 소속 표기되나 정확 일자·금액 미상·상세페이지 접근 제한. honest_gap 명시.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGH-012",
+    "verified_confidence": "상",
+    "verification_reason": "논문(ScienceDirect) 1차 출처 + 발췌, RegenHU≠Regeneron 상호혼동 방지 및 RegenHU의 mTG/ADC 접점 부재를 명확히 하는 검증가능 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-001",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire 공식 리브랜딩 보도자료(2차)+발췌, 2건 교차. 사업범위 명확.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-002",
+    "verified_confidence": "중",
+    "verification_reason": "ODT(2차) 리브랜딩·설립연혁, PR Newswire/Linden 보도와 교차확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-003",
+    "verified_confidence": "중",
+    "verification_reason": "MTEC 프로필(미확인)이나 Linden 인수 보도와 사업영역 교차확인.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-004",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차) NMPA 승인·174명 RCT, 가교 콜라겐막 명시(가교방식 mTG 근거는 없음).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-005",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차) RejuvaKnee 510k, R&D100 수상 별도 기사로 교차확인.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-006",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차) 63번째 510k DuraMatrix 콜라겐막, 최근 12개월 내.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-007",
+    "verified_confidence": "중",
+    "verification_reason": "Justia 특허(1차)이나 직접페치 403, 검색 스니펫 기반. 100+특허는 투자보도와 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-008",
+    "verified_confidence": "중",
+    "verification_reason": "타사(Datum/ColBar) 특허(1차)를 분야 맥락 근거로 사용, 콜라겐 가교는 화학/당 방식임을 뒷받침.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-009",
+    "verified_confidence": "중",
+    "verification_reason": "Linden/Cinven 보도(2차) 2026-02 투자, cinven.com 교차확인. 최근 12개월.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-010",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire(2차) Polyganics 인수, 발행일 배포월 추정, BioSpace 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-011",
+    "verified_confidence": "중",
+    "verification_reason": "Linden Capital 공식 뉴스(2차) 2019 인수, 소유이력 일관.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-012",
+    "verified_confidence": "하",
+    "verification_reason": "공식 블로그 403 접근불가·발행일 미상, 검색 스니펫 배경 동향. 콜라겐 연관은 타 카드로 충분해 하중 낮음.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-013",
+    "verified_confidence": "중",
+    "verification_reason": "기타(미확인) 음성확인(honest_gap)이나 재생 의료기기 정체성과 일관된 ADC 무관 판정.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-RGN-014",
+    "verified_confidence": "중",
+    "verification_reason": "기타(미확인) mTG 음성확인이나 EV-RGN-008 화학/당 가교 특허로 뒷받침, mTG 하중 판정에 부합.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 기반이나 위키·딜사이트로 교차확인되고 원문 URL·발췌 확보. 1차 공식출처가 아니라 상은 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-002",
+    "verified_confidence": "중",
+    "verification_reason": "3DPrint.com 등 주요언론(2차) + 국내언론 교차확인, 발췌·URL 확보. 구조적 사업사실로 시점 무관.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-003",
+    "verified_confidence": "중",
+    "verification_reason": "규제 등록 사실을 주요언론(2차)이 보도, 발췌·URL 확보. 상업화 가능성 관련 caveat은 등록사실 자체와 상충하지 않음.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-004",
+    "verified_confidence": "중",
+    "verification_reason": "sedaily 등 주요언론(2차) 보도, orp 페이지·리뷰로 교차확인. 콜라겐 연관 근거이나 1차 논문·IR 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 기반, 발췌·URL 확보. 인용 학술문헌의 로킷 저자소속은 미확인(honest_gap)이나 핵심 주장(ECM 바이오잉크 콜라겐 함유)은 교차확인됨.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-006",
+    "verified_confidence": "중",
+    "verification_reason": "3dprint zone·MD투데이 등 주요언론(2차) 교차확인, 발췌·URL 확보. 파이프라인 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-007",
+    "verified_confidence": "중",
+    "verification_reason": "히트뉴스(2차) 보도, 딜사이트와 정합. 발행일이 최신성 창(12개월) 이내.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-008",
+    "verified_confidence": "중",
+    "verification_reason": "딜사이트(2차) 보도, 발췌·URL 확보, 12개월 이내 최신 동향.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-009",
+    "verified_confidence": "중",
+    "verification_reason": "더바이오·라포르시안 주요언론(2차) 교차확인, 12개월 이내. mTG 무관(물리적 냉각 공정) 판정의 핵심 근거로 하중이 크나 신뢰도 중으로 반려 대상 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-010",
+    "verified_confidence": "중",
+    "verification_reason": "MD투데이·더바이오(2차) 보도. 구체 특허번호 미기재(honest_gap)이나 발췌·URL 확보, 구조적 IP 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-011",
+    "verified_confidence": "중",
+    "verification_reason": "딜사이트/인베스팅닷컴(2차) 보도, 발췌·URL 확보. 동결·고형화(물리적) 특허로 mTG 무관 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-012",
+    "verified_confidence": "중",
+    "verification_reason": "딜사이트/TradingView(2차) 보도, 재무·이데일리 기사와 정합. 원문 URL·발췌 확보.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROK-013",
+    "verified_confidence": "하",
+    "verification_reason": "출처유형 기타(미확인)·발행일 unknown의 부재증명(negative) 카드로 추론 비중이 큼. 다만 mTG 무관 결론은 물리적 냉각 공정을 보인 EV-ROK-009/011(중)로 실질 보강되어 반려 대신 하로 승인.",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-001",
+    "verified_confidence": "상",
+    "verification_reason": "Darling/Rousselot 공식홈(1차), 발췌·URL 확보, 핵심 사업정체성 구조적 사실, cross_ref 교차확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-002",
+    "verified_confidence": "중",
+    "verification_reason": "시장점유율 정량치가 2차 언론 요약 기반이고 발행일 근사. 검증 가능하나 정밀도 제한.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식홈(1차) 사업부문·Peptan 구조, 발췌·URL 확보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-004",
+    "verified_confidence": "중",
+    "verification_reason": "PR Newswire 공식 보도자료(2차 인용), 발췌·URL 확보, cross_ref 다수. GelMA GMP 핵심 R&D이나 1차 자사 문서 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-005",
+    "verified_confidence": "중",
+    "verification_reason": "BioSpace(2차) 발췌·URL 확보. 효소가교(mTG류) 접점 명시하나 단일 2차·발행일 근사.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-006",
+    "verified_confidence": "중",
+    "verification_reason": "Nutrition Insight(2차) 발췌·URL 확보, cross_ref. 발행일 근사이나 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-007",
+    "verified_confidence": "중",
+    "verification_reason": "2차 산업언론 전시 동향, 발행일 12개월 내 최신성 충족, cross_ref 뒷받침.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-008",
+    "verified_confidence": "중",
+    "verification_reason": "피어리뷰 논문(1차) 접근 가능·발췌 확보로 mTG-기질 관계는 확실하나, 2019년 동향성 카테고리로 최신성 미충족. mTG는 제3자 공급·Rousselot 젤라틴은 기질임이 명확.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-009",
+    "verified_confidence": "중",
+    "verification_reason": "특허(1차) 번호·발췌 확보·접근 가능하나 양수인 정확 확인 미완으로 Rousselot 귀속에 추론 개입.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-010",
+    "verified_confidence": "중",
+    "verification_reason": "복수 2차 언론 교차확인된 파트너십, 발췌·URL 확보하나 1차 자사 발표 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-011",
+    "verified_confidence": "중",
+    "verification_reason": "2차 언론(FoodBev/PR Newswire) M&A/합작, 발췌 확보·발행일 근사. 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-ROU-012",
+    "verified_confidence": "상",
+    "verification_reason": "Rousselot Biomedical 공식홈(1차) 콜라겐/젤라틴 바이오소재 규정, 발췌·URL 확보. 콜라겐 직접사업 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(에너지경제, 2차) 설립·브랜드 정보, THE VC/PitchBook/Dealroom과 교차. 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-002",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(The Spoon, 2차) B2B 사업모델, FoodNavigator-Asia와 일치. 발행일 미상.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-003",
+    "verified_confidence": "하",
+    "verification_reason": "출처유형 기타(bizno.net 기업정보 디렉토리)=미확인 tier, 발행일 미상. 다만 저요오드 해조류는 부수사업으로 아이템 3종과 무관한 배경정보라 accept(하).",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-004",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 논문(Food Hydrocolloids, 1차) DGIST Scholar 서지 접근 가능, 발췌 확보. 스캐폴드=알지네이트·셀룰로오스(비콜라겐) 명시, 다수 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(에너지경제·The Spoon, 2차) 무혈청 배양액 비용절감, 상호 보완 교차확인. 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-006",
+    "verified_confidence": "중",
+    "verification_reason": "피어리뷰 논문(1차)이나 ScienceDirect 원문 403으로 DGIST Scholar/ResearchGate 서지·초록으로 확인. EV-SEA-004와 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-007",
+    "verified_confidence": "중",
+    "verification_reason": "논문(1차) 제목 기반 animal-free 스캐폴드 사실은 확실하나 '콜라겐/젤라틴 대체·경쟁 관계'는 추론 포함. 콜라겐과 대체관계라는 연관 판단의 근거이며 중으로 accept.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(에너지경제, 2차) 규제특구·상용화 목표. 목표연도 인터뷰별 편차(2025~2027), 12개월 초과 과거 뉴스.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(와우테일, 2차) 실리콘밸리 서밋 참가. 12개월 초과 과거 뉴스, 단일 출처이나 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(3D Bio-Tissues·GreenQueen·Investegate, 2차) 12개월 내 City-Mix 공급계약, 다중 교차확인. EV-SEA-014(공시)와 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-011",
+    "verified_confidence": "하",
+    "verification_reason": "출처유형 기타(HG Initiative·회사 인터뷰)=미확인 tier, 발행일 미상, KIPRIS 차단으로 개별 특허번호·청구항·mTG 사용여부 미확보. 다만 mTG/콜라겐 연관을 좌우하는 결정적 사실이 아닌 미확정 배경이라 accept(하).",
+    "source_tier": "미확인",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(vegconomist·FoodNavigator-Asia, 2차) Esco Aster 협력 교차확인. 발행일 미상.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-013",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(vegconomist·전자신문, 2차) ORF Genetics 성장인자 협력 교차확인. 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-014",
+    "verified_confidence": "상",
+    "verification_reason": "런던 상장 BSF Enterprise 규제성 공시(RNS, 1차) City-Mix 공급계약, URL·발췌 확보. City-Mix는 배양액 첨가제로 콜라겐 제품 아님 명확.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SEA-015",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(THE VC, 2차) 투자 누적액, 원페이지 403으로 스니펫·헬로디디·벤처스퀘어로 보강. 금액 출처별 편차.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-001",
+    "verified_confidence": "상",
+    "verification_reason": "S+N 공식 홈페이지(1차)+원문 URL+발췌, EV-SNP-002/013 교차. 구조적 AWM 사업부 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-002",
+    "verified_confidence": "상",
+    "verification_reason": "S+N 공식 홈페이지(1차)+발췌, EV-SNP-009 교차. SANTYL 콜라게나제(콜라겐 분해) FDA 승인 제품 = Collagen 아이템 접점.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-003",
+    "verified_confidence": "중",
+    "verification_reason": "WoundSource(업계리포트 2차)+발췌, EV-SNP-004 교차. BIOSTEP 콜라겐 매트릭스 드레싱 = Collagen 소재 직접사업 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-004",
+    "verified_confidence": "상",
+    "verification_reason": "S+N 공식 홈페이지(1차)+PMC SIS 리뷰 교차, 발췌 확보. OASIS 돼지 SIS 유래 콜라겐 ECM 매트릭스 = Collagen 아이템 연관의 하중 큰 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-005",
+    "verified_confidence": "상",
+    "verification_reason": "PMC 피어리뷰 논문(1차)+S+N 뉴스 교차, 원문 URL·발췌. REGENETEN 소 콜라겐 임플란트 = Collagen 소재 직접 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-006",
+    "verified_confidence": "상",
+    "verification_reason": "S+N 공식 보도자료(1차)+원문 URL+발췌, EV-SNP-011 교차. Hull/Melton R&D·제조 투자의 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-007",
+    "verified_confidence": "하",
+    "verification_reason": "인용 특허 US7833790B2의 assignee가 실제로는 Ethicon(J&J)으로 S+N 소유 아님(상충), S+N 자사 콜라겐 창상특허 번호 미특정(honest_gap). 다만 S+N 콜라겐 연관은 EV-SNP-003/004/005(상·중 제품 근거)가 확립하므로 본 카드는 참고용이며 하중 큰 사실 아님 → accept(하).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "상충"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-008",
+    "verified_confidence": "상",
+    "verification_reason": "S+N 공식 보도자료(IR·공시 1차)+globenewswire·prnewswire 교차, 원문 URL·발췌. Osiris 인수의 구조적 M&A 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-009",
+    "verified_confidence": "상",
+    "verification_reason": "S+N FY2025 실적(IR·공시 1차)+원문 URL+발췌, SEC 6-K 교차가능. 발행 2026-03으로 최신성 충족.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-010",
+    "verified_confidence": "중",
+    "verification_reason": "Ortho Spine News(2차)+S+N 뉴스 교차, 원문 URL·발췌. 소 콜라겐 임플란트 동향으로 발행 2025-09 최신성 충족.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-011",
+    "verified_confidence": "중",
+    "verification_reason": "S+N 연차보고서(IR·공시 1차)+발췌, EV-SNP-006 교차. RISE 전략·Hull 재편 동향으로 발행 2026-03 최신성 충족. 세부 항목 일부는 종합 기반이라 중.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-012",
+    "verified_confidence": "중",
+    "verification_reason": "honest_gap 부재 근거 카드(기타·미확인 tier, 발췌 존재). S+N mTG·ADC 검색 0건. 창상·정형외과 의료기기 기업으로 종양학 ADC·mTG 무관 결론이 회사 프로파일과 정합해 하 아닌 중. mTG/ADC 무관 판정의 하중 큰 사실이나 정합성 충분해 accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SNP-013",
+    "verified_confidence": "상",
+    "verification_reason": "S+N 공식 홈페이지(1차)+Wikipedia 교차, 발췌 확보. 본사·3대 사업부 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(글로벌이코노믹, 2차) 설립·사업 정의, companies.tsv 및 다수 언론과 교차. 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-002",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(아시아경제, 2차) 제품 형태, 2022년 시제품 공개 보도와 교차. 접근 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(글로벌이코노믹, 2차) 4대 기술축·가식성 지지체(힘줄) 서술 다수 매체 확인. 단 지지체 소재(콜라겐/젤라틴 등)는 미공개.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(벤처스퀘어, 2차) 회사발표 인용의 특허 '보유' 주장. 구체 특허번호/출원인 미확인이나 EV-SPF-003과 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(머니투데이, 2차) 알키미스트 국책과제 선정, inews24와 교차. 12개월 초과 과거 뉴스.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(식품저널, 2차) 대상 협력, 다수 매체 교차하나 게시일 미상. 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(바이오타임즈, 2차) 롯데정밀화학 소재 공동개발. '고기능성 소재' 구체 종류(콜라겐 여부)는 미공개.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(한국경제, 2차) 시리즈A 투자, 벤처스퀘어·이투데이와 교차확인. 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(머니투데이, 2차) 파일럿 40%·규제 맥락. 12개월 초과 과거 뉴스, 구체 신청상태 미확인.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-010",
+    "verified_confidence": "하",
+    "verification_reason": "특허(Google Patents 검색, 1차 유형)이나 스페이스에프 귀속 등록특허 특정 실패·spacef.biz 특허페이지 403의 honest_gap. 지지체 소재 조성도 미확인. 다만 mTG/콜라겐 연관을 좌우하는 결정적 사실이 아닌 미확정 배경이라 accept(하).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-SPF-011",
+    "verified_confidence": "중",
+    "verification_reason": "피어리뷰 논문(1차)으로 콜라겐+TG 가교 기법 확인이나 이는 도메인 일반 맥락이며 스페이스에프 채택 여부는 명시적으로 미확인. 연관 상한 판단용 배경.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-001",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지(1차)+발췌, 구조적 기업 정체성. 다수 언론과 일치 교차.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-002",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(PR Newswire 보도자료, 2차)+발췌, 구조적 사업모델. 구매주문(EV-STK-012)과 교차이나 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(GlobeNewswire/vegconomist, 2차)+발췌, 최근 동향. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차)+발췌, 기술 플랫폼 개요. 발행일 미상이나 구조적 사실. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(SeafoodSource/PR Newswire, 2차)+발췌, '가교 조직' 텍스처 기술 명시. mTG 인접 응용이나 특정 효소 미명시. 사실 자체는 검증 가능해 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-006",
+    "verified_confidence": "하",
+    "verification_reason": "재조사: 공식 홈페이지로 출처 교체. Steakholder가 콜라겐/젤라틴을 자사 원료로 명시한 근거 없음(식물성 블렌드·비공개). 콜라겐 접점 약함으로 확정된 정직한 갭 → accept(하).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "발췌누락"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(GlobeNewswire, 2차)+발췌, 국제조사보고 긍정 견해. 프린팅 하드웨어 초점(아이템 소재와 직접 무관). 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(PR Newswire, 2차)+발췌, 가교 텍스처 임시특허 출원. 특정 가교 효소(mTG) 미명시. 1차 특허원문 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(PR Newswire, 2차)+발췌, 프린트헤드 특허 허여. 하드웨어 포트폴리오 배경. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(GlobeNewswire/Food Engineering, 2차)+발췌, 파트너십 교차확인. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(vegconomist, 2차)+발췌, M&A 이력 및 전략 이동. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(vegconomist, 2차)+발췌, 최근 12개월 내 초기 매출 신호. 사업모델(EV-STK-002)과 일치. 1차 미확보로 중.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-STK-013",
+    "verified_confidence": "중",
+    "verification_reason": "SEC 6-K(IR·공시 1차) 링크 존재하나 세부 수치는 2차 집계 병합, 발행일 2025-07-01로 12개월 창 근소 초과. 재무 배경정보.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(vegconomist·KoreaTechDesk, 2차) 배양육 사업 정의, 다수 교차. 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-002",
+    "verified_confidence": "중",
+    "verification_reason": "공식홈페이지 유형이나 본문 403으로 검색 스니펫 확인, 발행일 미상. 바이오잉크(식용 지지체) 사실 검증 가능.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-003",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(바이오타임즈·MD투데이, 2차) 조직공학 주장, 본문 403 스니펫 인용·게시일 대략치. EV-TBF-001과 교차.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 초고속 바이오패브리케이션, foodnavigator 등 정황 교차. 접근 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(매일신문, 2차) FBS 미사용·저가 소재 대체, 단일 출처이나 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-006",
+    "verified_confidence": "상",
+    "verification_reason": "자사 명의 특허(Google Patents WO2023063468A1, 1차) 본문에 젤라틴·콜라겐·트랜스글루타미나제(가교제) 명시, URL·발췌 확보. mTG·Collagen 직접 접점의 핵심 1차 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-007",
+    "verified_confidence": "상",
+    "verification_reason": "자사 특허(KR102590675B1, 1차) 다중노즐·가교제 수용챔버 시스템, URL·발췌 확보. 가교 공정 장치 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-008",
+    "verified_confidence": "중",
+    "verification_reason": "업계리포트(Reddie & Grose, 2차) 특허 패밀리 목록, 원문 403 스니펫 인용. EV-TBF-006/007과 교차하나 개별 본문 미조회.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(vegconomist·The Cell Base, 2차) 10kg 시제품/수상 사건, 본문 403·게시일 미상. 12개월 초과 과거 뉴스.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 12개월 내 화장품 확장 동향. T-NUTREX PLUS는 콜라겐 소재로 특정되지 않아 콜라겐 직접 연결 근거는 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(머니투데이·platum·greenqueen, 2차) 프리A 투자 복수 교차확인. 접근 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(와우테일 등, 2차) 12개월 내 Beyond Impact 투자·글로벌팁스, 2개 매체 교차. 금액 미공개.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-013",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(머니투데이, 2차) 아기유니콘 선정, 검색 스니펫 확인. 단일이나 검증 가능.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TBF-014",
+    "verified_confidence": "상",
+    "verification_reason": "재조사: 자사 특허 WO2023063468A1 본문 확인 — 식용 배양육(젤라틴·콜라겐+mTG) 기술만 청구, ADC/종양학 일절 없음. 무관 결론 특허 1차로 상향 확정 → accept(상).",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-001",
+    "verified_confidence": "중",
+    "verification_reason": "공식 홈페이지(1차)이나 WebFetch 403으로 스니펫만 확보. 다수 카드 교차. 접근제약으로 상 불가.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-002",
+    "verified_confidence": "상",
+    "verification_reason": "공식 제품페이지(1차)+발췌·교차. 칼로덤 국내최초 동종배양피부 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-003",
+    "verified_confidence": "상",
+    "verification_reason": "공식 제품페이지(1차)+발췌·교차. 로스미르 세계최초 주름개선 세포치료제.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-004",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 섬유아세포의 콜라겐/ECM 합성 기전, 발췌·교차. 콜라겐 연관 핵심이나 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-005",
+    "verified_confidence": "상",
+    "verification_reason": "공식 홈페이지(1차)+발췌. 네오덤 3D 배양피부모델(진피=섬유아세포+콜라겐 ECM) 구조적 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 자회사 화장품 원료/CDMO, 발췌 확보. 단일계열·1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-007",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) TPX-114 회전근개 치료제 파이프라인, 발췌·교차. 1차 임상문서 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) TPX-115 미국 2상 진행, 발췌·교차. 1차 임상등록 원문 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) TPX-115 첫 환자등록, 발행일(2025-11) 12개월 이내·교차확인. 1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-010",
+    "verified_confidence": "중",
+    "verification_reason": "IR·공시성 데이터(FnGuide, 1차)이나 발행일 unknown·DART 원문 미파싱(honest_gap)으로 최신성 미확정.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 네오덤 미국특허 등록, 정확 번호는 honest_gap(후보 대조 모두 타사). 특허 존재는 보도.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 케모타이드 국내외 특허 등록, 번호 미확보(honest_gap). 특허 존재는 보도.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-013",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 기술수출 전략, 확정 계약 아닌 목표 단계. 발췌 확보.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TEG-014",
+    "verified_confidence": "하",
+    "verification_reason": "웹검색 종합(기타·미확인)의 mTG/ADC 부재 추론. 콜라겐 아이템의 긍정적 연관을 좌우하지 않는 비연관 배경근거.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-001",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론+위키(2차) 사업 개요, 발췌·교차 확보. 구조적 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-002",
+    "verified_confidence": "중",
+    "verification_reason": "공식 제품페이지(1차)이나 WebFetch 403으로 스니펫만 확보, 승인 품목수 주장. 접근제약으로 상 불가.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-003",
+    "verified_confidence": "상",
+    "verification_reason": "피어리뷰 논문(PMC/MDPI, 1차)로 deCelluid dECM의 콜라겐 함유 확인, 원문·발췌·교차. 콜라겐 연관 핵심.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-004",
+    "verified_confidence": "상",
+    "verification_reason": "논문(MDPI, 1차)로 dECM 바이오잉크 콜라겐 섬유형성/강도 개선 입증, 원문·발췌·교차 확보.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-005",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 인공장기/세포치료 파이프라인, 발췌 확보. 단일계열·1차 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-006",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 가교방식(GelMA 광가교) 기술, mTG 미사용은 부재 추론. 배경성 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-007",
+    "verified_confidence": "중",
+    "verification_reason": "MDPI 논문(1차)이나 뉴스·동향 분류상 발행일(2021-09)이 12개월 초과로 최신성 미충족. 연구성과 발췌·교차 확보.",
+    "source_tier": "1차",
+    "recency_ok": false,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-008",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 코스맥스 공동개발 계약(durable event)이나 발행일(2021) 12개월 초과. 발췌·교차.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-009",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) CJ 대체육 협약, 발행일(2023) 12개월 초과로 최신성 미충족. 발췌 확보.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-010",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 인공피부 국내특허 취득, 등록번호는 honest_gap. 특허 존재는 보도.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-011",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 바이오잉크 공급시스템 미국특허, 번호 미확보(honest_gap). 장비·공정 IP.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-012",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 유방재건 지지체 특허, 확인된 관련 특허가 UNIST/POSTECH 명의로 T&R 직접출원 여부 추정(honest_gap).",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "추론과다"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-013",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(바이오스펙테이터, 2차) 머크 OEM 공급계약, 발췌·교차. 콜라겐 dECM 상업화 근거.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-014",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) J&J Ethicon 공동개발, 발췌 확보. 1차 계약원문 아님.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-015",
+    "verified_confidence": "하",
+    "verification_reason": "주요언론이나 원문 403으로 저자·계약형태 검증 실패, 별개 L'Oréal 협업과 혼동 가능성. 주변적 파트너십 배경정보로 반려 불요.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "원문접근불가",
+      "상충"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-TNR-016",
+    "verified_confidence": "중",
+    "verification_reason": "주요언론(2차) 하이드로겔 창상피복재 공급계약, 발췌 확보. 콜라겐/젤라틴 인접 응용.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-001",
+    "verified_confidence": "상",
+    "verification_reason": "SEC 8-K 실적 보도자료(IR·공시 1차)+원문 URL+발췌, EV-VER-002/004 교차. 구조적 3개 제품군 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 3,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-002",
+    "verified_confidence": "상",
+    "verification_reason": "FDA 규제기관 문서(1차)+PubMed 논문 교차, 원문 URL·발췌. MACI가 돼지 Type I/III 콜라겐 멤브레인 기반 = Collagen 아이템 연관 판정의 하중 큰 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-003",
+    "verified_confidence": "상",
+    "verification_reason": "SEC 8-K 실적(IR·공시 1차)+원문 URL+발췌. 콜라겐 기반 MACI가 매출 지배적(85%)임 확인.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-004",
+    "verified_confidence": "상",
+    "verification_reason": "SEC 8-K(IR·공시 1차)+원문 URL+발췌. NexoBrid는 단백분해효소(anacaulase)로 mTG와 무관 = mTG 아이템 무관 판정 근거.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-005",
+    "verified_confidence": "중",
+    "verification_reason": "PharmExec(2차) 단일, 원문 URL·발췌. MACI Arthro FDA 승인 R&D 확장 사실.",
+    "source_tier": "2차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-006",
+    "verified_confidence": "상",
+    "verification_reason": "Form 10-K(IR·공시 1차)+원문 URL+발췌. 최근 R&D 파이프라인, 콜라겐 멤브레인 MACI 확장.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-007",
+    "verified_confidence": "중",
+    "verification_reason": "Matricel/MedLife(기타·미확인 tier)이나 EV-VER-008 IR·공시와 교차로 콜라겐 멤브레인 외부(Matricel) 공급·IP 사실 확인. Vericel 자체 콜라겐 소재 특허번호는 미확보.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-008",
+    "verified_confidence": "상",
+    "verification_reason": "GlobeNewswire 실적 보도자료(IR·공시 1차)+원문 URL+발췌, EV-VER-007 교차. 콜라겐 멤브레인 장기 독점공급 = Collagen 공급망 연관의 하중 큰 사실.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-009",
+    "verified_confidence": "상",
+    "verification_reason": "Vericel IR 보도자료(IR·공시 1차)+원문 URL+발췌. NexoBrid 라이선스 구조적 사실, 콜라겐/mTG/ADC 무관.",
+    "source_tier": "1차",
+    "recency_ok": true,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-010",
+    "verified_confidence": "중",
+    "verification_reason": "World Pharmaceuticals(2차), SEC 8-K로 교차확인 가능. 소아 NexoBrid 승인이나 발행 2024-12로 12개월 초과.",
+    "source_tier": "2차",
+    "recency_ok": false,
+    "corroboration_count": 2,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  },
+  {
+    "evidence_id": "EV-VER-011",
+    "verified_confidence": "중",
+    "verification_reason": "honest_gap 부재 근거 카드(기타·미확인 tier, 발췌 존재). mTG·ADC 검색 시 Vericel 무관 일반 특허만 반환. Vericel이 세포치료·조직재생 기업으로 종양학 ADC 모달리티 부재라는 결론은 타 카드(EV-VER-001~009)와 정합하여 하가 아닌 중. mTG/ADC 무관 판정의 하중 큰 사실이나 근거 정합성 충분해 accept.",
+    "source_tier": "미확인",
+    "recency_ok": true,
+    "corroboration_count": 1,
+    "issues": [
+      "없음"
+    ],
+    "verdict": "accept"
+  }
+]
