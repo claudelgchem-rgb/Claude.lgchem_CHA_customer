@@ -9,3 +9,10 @@ __pycache__/
 .venv/
 venv/
 .streamlit/
+
+# outreach-agent 비밀정보/런타임 산출물 (커밋 금지)
+outreach-agent/credentials.json
+outreach-agent/token.json
+outreach-agent/**/*.local.*
+outreach-agent/logs/sent_log.csv
+.env

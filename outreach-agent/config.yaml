@@ -1,0 +1,53 @@
+# outreach-agent 설정
+# 비밀정보(비밀번호/토큰/시크릿)는 절대 이 파일에 쓰지 않는다 — 환경변수로 주입.
+
+sender:
+  name: "홍길동"                          # 발신자 표시 이름
+  email: "your.name@lgchem.com"           # 발신 주소 (백엔드 계정과 일치해야 함)
+  company: "LG화학"
+  title: "사업전략/시장분석"
+  phone: "+82-2-0000-0000"
+  # 모든 발송 메일 하단에 자동으로 붙는 서명. 발신자 신원(컴플라이언스 6번) 충족용.
+  signature_ko: |
+    홍길동 | LG화학 사업전략/시장분석
+    your.name@lgchem.com | +82-2-0000-0000
+    본 메일 수신을 원치 않으시면 회신으로 "수신거부"라고 알려주시기 바랍니다.
+  signature_en: |
+    Gildong Hong | Business Strategy & Market Analysis, LG Chem
+    your.name@lgchem.com | +82-2-0000-0000
+    If you'd prefer not to receive emails like this, just reply "unsubscribe".
+
+# draft(기본) | review | send — CLAUDE.md 3번 참조
+mode: draft
+
+# 하루 최대 발송 건수. logs/sent_log.csv의 오늘자 sent 건수 기준으로 강제.
+daily_cap: 20
+
+# 발송 간 지연(초). min~max 사이 랜덤. 스팸 신호·서버 부하 완화.
+throttle_seconds:
+  min: 2
+  max: 5
+
+# graph | gmail | smtp — CLAUDE.md 7번 참조. 사내 IT/보안 승인 먼저 확보할 것.
+backend: smtp
+
+# backend: smtp — 사내 릴레이 등
+smtp:
+  host: "smtp.example.com"
+  port: 587
+  use_tls: true
+  username: "your.name@lgchem.com"
+  password_env: "OUTREACH_SMTP_PASSWORD"   # 비밀번호는 이 환경변수에서 읽음
+
+# backend: graph — Microsoft 365 / Outlook (Azure 앱 등록 필요)
+graph:
+  tenant_id: "YOUR_TENANT_ID"
+  client_id: "YOUR_CLIENT_ID"
+  client_secret_env: "OUTREACH_GRAPH_CLIENT_SECRET"
+  # 발송 주체 사용자 (application permission Mail.Send 사용 시)
+  sender_upn: "your.name@lgchem.com"
+
+# backend: gmail — Google Workspace (OAuth 클라이언트 필요)
+gmail:
+  credentials_file: "credentials.json"     # OAuth 클라이언트 (gitignore됨)
+  token_file: "token.json"                 # 최초 인증 후 생성 (gitignore됨)

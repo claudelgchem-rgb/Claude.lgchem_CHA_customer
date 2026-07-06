@@ -1,0 +1,4 @@
+company,contact_name,email,role,segment,language,context,purpose
+바이오테크A,김민수 이사,minsu.kim@biotech-a.example,R&D Director,ADC,ko,"2026년 6월 ADC 링커 파이프라인 확장 발표. 링커-페이로드 CMO 파트너 탐색 중으로 보임.",intro
+Genomix Inc.,Sarah Lee (VP BD),sarah.lee@genomix.example,VP Business Development,진단효소,en,"Recently published on thermostable polymerase scale-up challenges; expanding diagnostic enzyme portfolio.",intro
+콜라겐코리아,박지훈 팀장,jihoon.park@collagen-kr.example,구매팀장,콜라겐,ko,,followup
