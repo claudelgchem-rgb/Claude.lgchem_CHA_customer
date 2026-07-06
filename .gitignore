@@ -1,6 +1,6 @@
-# CIRV 런타임 산출물 (감사 데이터셋은 필요 시 별도 커밋)
-out/*.json
-out/*.md
+# CIRV 런타임 작업영역 (조사관이 쓰는 기업별 중간 shard).
+# 최종 감사 데이터셋·리포트는 reports/ 에 의도적으로 커밋한다.
+out/**
 !out/.gitkeep
 
 # Python
