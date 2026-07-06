@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "cirv/evidence_card.schema.json",
+  "title": "Evidence Card",
+  "description": "조사관(②)이 산출하는 증거 카드. 모든 조사 사실의 원자 단위이자 검증관(④)의 유일한 판정 근거.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "evidence_id", "company", "category", "claim",
+    "source_name", "source_type", "source_url", "source_date",
+    "excerpt", "access_datetime", "self_confidence"
+  ],
+  "properties": {
+    "evidence_id": { "type": "string", "pattern": "^EV-.+-[0-9]+$", "description": "EV-<기업코드>-<일련번호>" },
+    "company": { "type": "string" },
+    "category": { "type": "string", "enum": ["사업분야", "연구분야", "뉴스·동향", "IP·특허", "파트너십·M&A"] },
+    "claim": { "type": "string", "description": "조사된 사실 1문장 (자신의 언어로 요약)" },
+    "source_name": { "type": "string" },
+    "source_type": { "type": "string", "enum": ["공식홈페이지", "IR·공시", "특허", "논문", "규제기관", "주요언론", "업계리포트", "기타"] },
+    "source_url": { "type": "string", "format": "uri" },
+    "source_date": { "type": "string", "description": "YYYY-MM-DD 또는 'unknown'" },
+    "excerpt": { "type": "string", "description": "저작권 안전 범위의 짧은 발췌 또는 자기 요약" },
+    "access_datetime": { "type": "string", "description": "YYYY-MM-DD HH:MM 조사 일시" },
+    "self_confidence": { "type": "string", "enum": ["상", "중", "하"] },
+    "cross_refs": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "notes": { "type": "string", "description": "추론 여부·특이사항. 확인 불가 시 honest_gap 시도 내역" }
+  }
+}

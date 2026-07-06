@@ -1,0 +1,18 @@
+[
+  {
+    "_note": "이 파일은 UI/스키마 검증용 SAMPLE 이며 실제 조사 결과가 아니다. 실데이터는 out/evidence_cards.json에 조사관이 생성한다.",
+    "evidence_id": "EV-SAMPLE-000",
+    "company": "SAMPLE Corp",
+    "category": "연구분야",
+    "claim": "이 레코드는 스키마·대시보드 렌더 확인용 예시입니다.",
+    "source_name": "N/A (샘플)",
+    "source_type": "기타",
+    "source_url": "https://example.com",
+    "source_date": "unknown",
+    "excerpt": "샘플 데이터 — 근거 아님",
+    "access_datetime": "2026-07-06 00:00",
+    "self_confidence": "하",
+    "cross_refs": [],
+    "notes": "추론 아님 · SAMPLE"
+  }
+]

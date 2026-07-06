@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "cirv/verification_record.schema.json",
+  "title": "Verification Record",
+  "description": "검증관(④)이 증거 카드 하나당 산출하는 신뢰도 판정 레코드.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["evidence_id", "verified_confidence", "verification_reason", "source_tier", "recency_ok", "corroboration_count", "issues", "verdict"],
+  "properties": {
+    "evidence_id": { "type": "string", "pattern": "^EV-.+-[0-9]+$" },
+    "verified_confidence": { "type": "string", "enum": ["상", "중", "하"] },
+    "verification_reason": { "type": "string" },
+    "source_tier": { "type": "string", "enum": ["1차", "2차", "미확인"] },
+    "recency_ok": { "type": "boolean" },
+    "corroboration_count": { "type": "integer", "minimum": 0 },
+    "issues": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["상충", "원문접근불가", "추론과다", "발췌누락", "없음"] }
+    },
+    "verdict": { "type": "string", "enum": ["accept", "reject_reinvestigate"] }
+  }
+}

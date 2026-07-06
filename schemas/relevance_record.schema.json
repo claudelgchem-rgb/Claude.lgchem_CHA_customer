@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "cirv/relevance_record.schema.json",
+  "title": "Relevance Record",
+  "description": "연관성 분석관(③)이 산출하는 기업×아이템 연관 판정 레코드.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["company", "item", "relevance_type", "relevance_level", "supporting_evidence_ids", "rationale"],
+  "properties": {
+    "company": { "type": "string" },
+    "item": { "type": "string" },
+    "relevance_type": { "type": "string", "enum": ["직접사업", "직접연구", "인접·응용", "공급망·파트너", "무관"] },
+    "relevance_level": { "type": "string", "enum": ["상", "중", "하"] },
+    "relevance_score": { "type": "integer", "minimum": 0, "maximum": 100 },
+    "supporting_evidence_ids": { "type": "array", "items": { "type": "string", "pattern": "^EV-.+-[0-9]+$" } },
+    "rationale": { "type": "string" }
+  }
+}

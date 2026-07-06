@@ -1,0 +1,11 @@
+# CIRV 런타임 산출물 (감사 데이터셋은 필요 시 별도 커밋)
+out/*.json
+out/*.md
+!out/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/
